@@ -1,0 +1,1911 @@
+merk_mobil,model_mobil,tahun_produksi,bahan_bakar,jarak_tempuh,transmisi,harga,lokasi,wilayah,kapasitas_mesin
+bmw,x5,2007,Bensin,12.5,Automatic,149000000,Setia Budi, Jakarta Selatan,1.75
+bmw,x1,2017,Bensin,12.5,Automatic,279000000,Serpong, Tangerang Selatan Kota,1.25
+bmw,x3,2016,Bensin,97.5,Automatic,280000000,Seputih Mataram, Lampung Tengah Kab.,1.75
+bmw,x1,2019,Bensin,37.5,Automatic,305000000,Cempaka Putih, Bekasi Kota,2.5
+bmw,x1,2017,Bensin,82.5,Automatic,325000000,Sawangan, Depok Kota,2.5
+bmw,x1,2017,Bensin,82.5,Automatic,325000000,Sawangan, Depok Kota,2.5
+bmw,x1,2017,Bensin,32.5,Automatic,339000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,x1,2017,Bensin,32.5,Automatic,339000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,x1,2017,Bensin,27.5,Automatic,339000000,Kebayoran Lama, Jakarta Selatan,1.75
+bmw,x1,2017,Bensin,27.5,Automatic,339000000,Cilandak, Jakarta Selatan,1.75
+bmw,x1,2017,Bensin,17.5,Automatic,339000000,Cilandak, Jakarta Selatan,1.75
+bmw,x1,2017,Bensin,17.5,Automatic,339000000,Cilandak, Jakarta Selatan,1.75
+bmw,x1,2017,Bensin,27.5,Automatic,339000000,Cilandak, Jakarta Selatan,1.75
+bmw,x7,2019,Bensin,12.5,Automatic,339000000,Cempaka Putih, Jakarta Pusat,1.75
+bmw,320i,2018,Bensin,87.5,Automatic,365000000,Bogor Timur - Kota, Bogor Kota,2.5
+bmw,320i,2018,Bensin,47.5,Automatic,365000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,x1,2018,Bensin,37.5,Automatic,380000000,Bekasi Utara, Bekasi Kota,2.5
+bmw,x1,2018,Bensin,37.5,Automatic,380000000,Bekasi Utara, Bekasi Kota,2.5
+bmw,320i,2018,Bensin,57.5,Automatic,390000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,320i,2018,Bensin,42.5,Automatic,395000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,320i,2018,Bensin,42.5,Automatic,395000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,x1,2019,Bensin,37.5,Automatic,395000000,Cilandak, Jakarta Selatan,1.75
+bmw,x1,2019,Bensin,37.5,Automatic,395000000,Cilandak, Jakarta Selatan,1.75
+bmw,x1,2017,Bensin,62.5,Automatic,399000000,Bekasi Selatan, Bekasi Kota,1.25
+bmw,x1,2017,Bensin,62.5,Automatic,399000000,Bekasi Selatan, Bekasi Kota,1.25
+bmw,x1,2019,Bensin,72.5,Automatic,400000000,Pesanggrahan, Jakarta Selatan,1.75
+bmw,320i,2016,Bensin,47.5,Automatic,405000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,320i,2022,Bensin,117.5,Automatic,410000000,Rawalumbu, Bekasi Kota,2.5
+bmw,320i,2019,Bensin,32.5,Automatic,410000000,Pademangan, Jakarta Utara,2.5
+bmw,320i,2019,Bensin,32.5,Automatic,410000000,Pademangan, Jakarta Utara,2.5
+bmw,x1,2020,Bensin,17.5,Automatic,415000000,Pesanggrahan, Jakarta Selatan,1.75
+bmw,x1,2019,Bensin,37.5,Automatic,430000000,Pesanggrahan, Jakarta Selatan,1.75
+bmw,520i,2018,Bensin,72.5,Automatic,450000000,Kebayoran Lama, Jakarta Selatan,1.75
+bmw,520i,2018,Bensin,72.5,Automatic,450000000,Kebayoran Lama, Jakarta Selatan,1.75
+bmw,520i,2019,Bensin,17.5,Automatic,485000000,Cilandak, Jakarta Selatan,2.5
+bmw,520i,2018,Bensin,32.5,Automatic,495000000,Cilandak, Jakarta Selatan,1.75
+bmw,520i,2018,Bensin,32.5,Automatic,495000000,Cilandak, Jakarta Selatan,1.75
+bmw,530i,2018,Bensin,37.5,Automatic,504000000,Duren Sawit, Jakarta Timur,2.5
+bmw,520i,2018,Bensin,37.5,Automatic,514000000,Pancoran, Jakarta Selatan,2.5
+bmw,520i,2018,Bensin,37.5,Automatic,526000000,Duren Sawit, Jakarta Timur,2.5
+bmw,530i,2018,Bensin,12.5,Automatic,528000000,Cilandak, Jakarta Selatan,2.5
+bmw,320i,2020,Bensin,22.5,Automatic,535000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,320i,2020,Bensin,17.5,Automatic,535000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,320i,2020,Bensin,27.5,Automatic,535000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,520d,2017,Diesel,37.5,Automatic,535000000,Kebayoran Baru, Jakarta Selatan,2.5
+bmw,520i,2018,Bensin,37.5,Automatic,561000000,Duren Sawit, Jakarta Timur,1.75
+bmw,520i,2018,Bensin,37.5,Automatic,561000000,Duren Sawit, Jakarta Timur,1.75
+bmw,520i,2018,Bensin,37.5,Automatic,561000000,Duren Sawit, Jakarta Timur,2.5
+bmw,x1,2021,Bensin,42.5,Automatic,565000000,Mampang Prapatan, Jakarta Selatan,1.75
+bmw,520i,2018,Bensin,37.5,Automatic,570000000,Bekasi Selatan, Bekasi Kota,1.75
+bmw,520i,2018,Bensin,37.5,Automatic,570000000,Bekasi Selatan, Bekasi Kota,1.75
+bmw,x5,2017,Bensin,22.5,Automatic,580000000,Kebayoran Baru, Jakarta Selatan,1.75
+bmw,x3,2018,Bensin,27.5,Automatic,588000000,Pesanggrahan, Jakarta Selatan,1.75
+bmw,x3,2019,Bensin,42.5,Automatic,611000000,Kebayoran Baru, Jakarta Selatan,1.75
+bmw,530i,2017,Bensin,17.5,Automatic,612000000,Cilandak, Jakarta Selatan,2.5
+bmw,x3,2019,Bensin,42.5,Automatic,638000000,Duren Sawit, Jakarta Timur,1.25
+bmw,x3,2019,Bensin,42.5,Automatic,638000000,Duren Sawit, Jakarta Timur,1.25
+bmw,x3,2019,Bensin,42.5,Automatic,638000000,Duren Sawit, Jakarta Timur,1.75
+bmw,x3,2019,Bensin,47.5,Automatic,638000000,Duren Sawit, Jakarta Timur,1.75
+bmw,530i,2023,Bensin,2.5,Automatic,650000000,Cilandak, Jakarta Selatan,2.5
+bmw,530i,2023,Bensin,2.5,Automatic,650000000,Pesanggrahan, Jakarta Selatan,2.5
+bmw,x3,2019,Bensin,52.5,Automatic,656000000,Jatinegara, Jakarta Timur,1.25
+bmw,x3,2019,Bensin,52.5,Automatic,656000000,Jatinegara, Jakarta Timur,1.25
+bmw,x3,2021,Bensin,7.5,Automatic,656000000,Kelapa Gading, Jakarta Utara,1.75
+bmw,x3,2019,Bensin,52.5,Automatic,656000000,Jatinegara, Jakarta Timur,1.75
+bmw,x5,2019,Bensin,37.5,Automatic,670000000,Kebayoran Baru, Jakarta Selatan,1.75
+bmw,320i,2021,Bensin,2.5,Automatic,695000000,Pancoran, Jakarta Selatan,2.5
+bmw,x3,2019,Bensin,12.5,Automatic,709000000,Mampang Prapatan, Jakarta Selatan,1.75
+bmw,ix,2023,Bensin,7.5,Automatic,719000000,Cilandak, Jakarta Selatan,1.75
+bmw,330i,2022,Bensin,32.5,Automatic,725000000,Bekasi Barat, Bekasi Kota,2.5
+bmw,330i,2019,Bensin,27.5,Automatic,725000000,Sukmajaya, Depok Kota,1.75
+bmw,x1,2022,Bensin,17.5,Automatic,725000000,Kebayoran Baru, Jakarta Selatan,1.75
+bmw,330i,2021,Bensin,17.5,Automatic,740000000,Cilandak, Jakarta Selatan,2.5
+bmw,330i,2022,Bensin,17.5,Automatic,741000000,Bekasi Barat, Bekasi Kota,1.75
+bmw,330i,2022,Bensin,17.5,Automatic,741000000,Bekasi Barat, Bekasi Kota,1.75
+bmw,330i,2022,Bensin,12.5,Automatic,741000000,Kebayoran Lama, Jakarta Selatan,1.75
+bmw,440i,2017,Bensin,52.5,Automatic,741000000,Cilandak, Jakarta Selatan,1.75
+bmw,x3,2021,Bensin,22.5,Automatic,780000000,Mampang Prapatan, Jakarta Selatan,1.75
+bmw,520i,2020,Bensin,52.5,Automatic,790000000,Cilandak, Jakarta Selatan,1.75
+bmw,520i,2020,Bensin,52.5,Automatic,790000000,Cilandak, Jakarta Selatan,1.75
+bmw,x3,2022,Bensin,2.5,Automatic,800000000,Kebayoran Baru, Jakarta Selatan,1.75
+bmw,520i,2022,Bensin,12.5,Automatic,850000000,Pancoran, Jakarta Selatan,2.5
+bmw,320i,2024,Bensin,7.5,Automatic,869000000,Pancoran, Jakarta Selatan,2.5
+bmw,m2 coupe,2017,Bensin,7.5,Automatic,975000000,Kebayoran Baru, Jakarta Selatan,1.75
+bmw,m4,2015,Bensin,22.5,Automatic,1300000000,Kebayoran Lama, Jakarta Selatan,1.75
+bmw,m4,2015,Bensin,22.5,Automatic,1300000000,Cilandak, Jakarta Selatan,1.75
+bmw,m4,2015,Bensin,22.5,Automatic,1300000000,Cilandak, Jakarta Selatan,1.75
+bmw,m4,2015,Bensin,22.5,Automatic,1300000000,Kebayoran Baru, Jakarta Selatan,1.75
+bmw,i7,2024,Bensin,2.5,Automatic,3089000000,Pancoran, Jakarta Selatan,2.5
+chery,omoda 5,2023,Bensin,117.5,Automatic,289000000,Taman Sari, Jakarta Barat,1.75
+chery,omoda 5,2023,Bensin,122.5,Automatic,290000000,Kemayoran, Jakarta Pusat,1.75
+chery,omoda 5,2024,Bensin,67.5,Automatic,293000000,Gubeng, Surabaya Kota,1.25
+chery,omoda 5,2023,Bensin,167.5,Automatic,299000000,Jagakarsa, Bekasi Kota,2.5
+chery,omoda 5,2023,Bensin,22.5,Automatic,299000000,Cempaka Putih, Jakarta Pusat,2.5
+chery,omoda 5,2023,Bensin,2.5,Automatic,345000000,Bekasi Selatan, Bekasi Kota,2.5
+chery,omoda 5,2023,Bensin,2.5,Automatic,345000000,Bekasi Selatan, Bekasi Kota,2.5
+chevrolet,spark,2017,Bensin,42.5,Automatic,110000000,Blimbing, Malang Kota,1.25
+chevrolet,spark,2019,Bensin,52.5,Automatic,122000000,Pondok Aren, Tangerang Selatan Kota,1.25
+chevrolet,trax,2017,Bensin,7.5,Automatic,145000000,Menteng, Jakarta Pusat,1.75
+chevrolet,trax,2017,Bensin,7.5,Automatic,147000000,Tomang, Jakarta Barat,1.75
+chevrolet,trax,2018,Bensin,82.5,Automatic,150000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,82.5,Automatic,150000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,82.5,Automatic,150000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,87.5,Automatic,150000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,112.5,Automatic,151000000,Kebon Jeruk, Jakarta Barat,1.25
+chevrolet,trax,2018,Bensin,82.5,Automatic,151000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,82.5,Automatic,151000000,Mampang Prapatan, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,82.5,Automatic,151000000,Pancoran, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,117.5,Automatic,152000000,Kemayoran, Jakarta Pusat,1.25
+chevrolet,trax,2017,Bensin,67.5,Automatic,153000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,captiva,2014,Diesel,102.5,Automatic,154000000,Duren Sawit, Jakarta Timur,1.75
+chevrolet,captiva,2014,Diesel,102.5,Automatic,154000000,Duren Sawit, Jakarta Timur,1.75
+chevrolet,captiva,2014,Diesel,102.5,Manual,154000000,Duren Sawit, Jakarta Timur,1.75
+chevrolet,trax,2016,Bensin,62.5,Automatic,155000000,Kebayoran Lama, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,77.5,Automatic,155000000,Mampang Prapatan, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,57.5,Automatic,155000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,57.5,Automatic,158000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,57.5,Automatic,158000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,92.5,Automatic,158000000,Cakung, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,62.5,Automatic,158000000,Pancoran, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,77.5,Automatic,158000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,117.5,Automatic,159000000,Cilangkap, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,117.5,Automatic,159000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,102.5,Automatic,159000000,Pekayon, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,117.5,Automatic,159000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,102.5,Automatic,159000000,Kramat Jati, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,117.5,Automatic,159000000,Cilangkap, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,52.5,Automatic,159999000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,62.5,Automatic,160000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,67.5,Automatic,160000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,67.5,Automatic,160000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,67.5,Automatic,160000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,72.5,Automatic,160000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,102.5,Automatic,161000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,102.5,Automatic,161000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,92.5,Automatic,162000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,112.5,Automatic,164000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,62.5,Automatic,164000000,Cipayung, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,52.5,Automatic,164000000,Duren Sawit, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,92.5,Automatic,164000000,Cipayung, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,92.5,Automatic,164000000,Jatinegara, Jakarta Timur,1.25
+chevrolet,trax,2017,Bensin,7.5,Automatic,165000000,Semarang Barat, Semarang Kota,1.25
+chevrolet,trax,2017,Bensin,2.5,Automatic,165000000,Semarang Tengah, Semarang Kota,1.25
+chevrolet,trax,2017,Bensin,82.5,Automatic,165000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,52.5,Automatic,165000000,Pasar Minggu, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,87.5,Automatic,165000000,Kemayoran, Jakarta Pusat,1.25
+chevrolet,trax,2018,Bensin,67.5,Automatic,165000000,Kebayoran Lama, Jakarta Selatan,1.25
+chevrolet,trax,2016,Bensin,87.5,Automatic,166000000,Ciracas, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,82.5,Automatic,167000000,Kebayoran Lama, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,42.5,Automatic,167000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,72.5,Automatic,167000000,Cakung, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,42.5,Automatic,167000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,72.5,Automatic,167000000,Cibubur, Jakarta Timur,1.25
+chevrolet,trax,2019,Bensin,62.5,Automatic,167000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,62.5,Automatic,167000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,27.5,Automatic,168000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,82.5,Automatic,168000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,77.5,Automatic,169000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,62.5,Automatic,169000009,Kramat Jati, Jakarta Timur,1.25
+chevrolet,trax,2018,Bensin,62.5,Automatic,169000009,Kramat Jati, Jakarta Timur,1.25
+chevrolet,trax,2019,Bensin,82.5,Automatic,170000000,Tebet, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,82.5,Automatic,170000000,Mampang Prapatan, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,82.5,Automatic,170000000,Pesanggrahan, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,82.5,Automatic,171000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,82.5,Automatic,172000000,Jagakarsa, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,97.5,Automatic,172000000,Kramat Jati, Jakarta Timur,1.25
+chevrolet,trax,2019,Bensin,77.5,Automatic,173000000,Kebayoran Lama, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,27.5,Automatic,174000000,Mampang Prapatan, Jakarta Selatan,1.25
+chevrolet,trax,2017,Bensin,27.5,Automatic,174000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,22.5,Automatic,174000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,27.5,Automatic,174000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,102.5,Automatic,175000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,52.5,Automatic,175000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,82.5,Automatic,175000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2018,Bensin,17.5,Automatic,175000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,175000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,62.5,Automatic,178000000,Pasar Minggu, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,12.5,Automatic,180000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,37.5,Automatic,183000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,37.5,Automatic,183000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,32.5,Automatic,185000000,Kebayoran Lama, Jakarta Selatan,1.25
+chevrolet,trax,2019,Bensin,37.5,Automatic,186000000,Kebayoran Baru, Jakarta Selatan,1.25
+chevrolet,captiva,2016,Diesel,162.5,Automatic,190000000,Cilandak, Jakarta Selatan,1.75
+chevrolet,trax,2019,Bensin,72.5,Automatic,190000000,Cilandak, Jakarta Selatan,1.25
+chevrolet,captiva,2016,Diesel,162.5,Automatic,195000000,Cilandak, Jakarta Selatan,1.75
+chevrolet,trax,2020,Bensin,32.5,Automatic,200000000,Pasar Minggu, Jakarta Selatan,1.75
+chevrolet,trailblazer,2018,Diesel,32.5,Automatic,300000000,Bogor Utara - Kota, Bogor Kota,2.5
+chevrolet,trailblazer,2018,Diesel,32.5,Automatic,300000000,Bogor Timur - Kota, Bogor Kota,2.5
+chevrolet,trailblazer,2019,Diesel,17.5,Automatic,300000000,Pondok Aren, Tangerang Selatan Kota,1.25
+chevrolet,captiva,2016,Diesel,92.5,Automatic,230000000,Bogor Barat - Kota, Bogor Kota,1.75
+chevrolet,captiva,2016,Diesel,57.5,Automatic,240000000,Bekasi Utara, Bekasi Kota,2.5
+chevrolet,captiva,2017,Diesel,62.5,Automatic,215000000,Bekasi Barat, Bekasi Kota,1.75
+chevrolet,captiva,2017,Diesel,62.5,Automatic,215000000,Bekasi Barat, Bekasi Kota,1.75
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,62.5,Automatic,222500000,Panyileukan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Bandung Wetan, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,47.5,Automatic,223000000,Cibeunying Kidul, Bandung Kota,1.25
+chevrolet,trax,2019,Bensin,67.5,Automatic,209000000,Bojongsoang, Bandung Kab.,1.25
+chevrolet,trax,2019,Bensin,67.5,Automatic,209000000,Bojongsoang, Bandung Kab.,1.25
+chevrolet,trax,2019,Bensin,67.5,Automatic,209000000,Bojongsoang, Bandung Kab.,1.25
+chevrolet,trax,2019,Bensin,67.5,Automatic,209000000,Bojongsoang, Bandung Kab.,1.25
+chevrolet,trax,2019,Bensin,67.5,Automatic,209000000,Bojongsoang, Bandung Kab.,1.25
+daihatsu,ayla,2018,Bensin,72.5,Manual,67000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2018,Bensin,72.5,Manual,67000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,ayla,2018,Bensin,72.5,Manual,70000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2018,Bensin,72.5,Manual,79000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2018,Bensin,72.5,Automatic,80000000,Cempaka Putih, Jakarta Pusat,1.25
+daihatsu,ayla,2017,Bensin,72.5,Manual,80000000,Bekasi Timur, Bekasi Kota,1.25
+daihatsu,ayla,2017,Bensin,72.5,Manual,80000000,Cempaka Putih, Jakarta Pusat,1.25
+daihatsu,ayla,2021,Bensin,72.5,Manual,83000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2021,Bensin,72.5,Manual,83000000,Cibubur, Jakarta Timur,1.25
+daihatsu,ayla,2021,Bensin,72.5,Manual,83000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,ayla,2017,Bensin,72.5,Manual,85000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,gran max,2017,Bensin,72.5,Manual,85000000,Karawang Barat, Karawang Kab.,1.25
+daihatsu,sigra,2019,Bensin,72.5,Manual,85000000,Telukjambe Timur, Karawang Kab.,1.25
+daihatsu,ayla,2018,Bensin,72.5,Manual,86000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2018,Bensin,72.5,Automatic,86000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2017,Bensin,72.5,Manual,89000000,Karawang Barat, Karawang Kab.,1.25
+daihatsu,ayla,2017,Bensin,72.5,Manual,90000000,Cibubur, Jakarta Timur,1.25
+daihatsu,ayla,2017,Bensin,72.5,Manual,90000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,ayla,2018,Bensin,77.5,Manual,92000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2019,Bensin,77.5,Manual,92000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,sigra,2019,Bensin,77.5,Manual,92000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,sigra,2021,Bensin,77.5,Manual,92000000,Antapani (Cicadas), Bandung Kota,1.25
+daihatsu,sigra,2019,Bensin,77.5,Manual,93000000,Karawang Timur, Karawang Kab.,1.25
+daihatsu,ayla,2018,Bensin,77.5,Manual,94000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2019,Bensin,82.5,Manual,95000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2018,Bensin,82.5,Manual,95000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,sigra,2018,Bensin,82.5,Manual,95000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2018,Bensin,82.5,Manual,96000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,sigra,2019,Bensin,82.5,Manual,96000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,sigra,2019,Bensin,82.5,Manual,96000000,Sukajadi, Bandung Kota,1.25
+daihatsu,ayla,2018,Bensin,82.5,Manual,97000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,ayla,2018,Bensin,82.5,Automatic,97000000,Bekasi Barat, Bekasi Kota,1.25
+daihatsu,ayla,2019,Bensin,82.5,Manual,98000000,Cempaka Putih, Jakarta Pusat,1.25
+daihatsu,ayla,2019,Bensin,82.5,Manual,98000000,Kemayoran, Jakarta Pusat,1.25
+daihatsu,sigra,2021,Bensin,82.5,Manual,98000000,Medan Satria, Bekasi Kota,1.25
+daihatsu,ayla,2021,Bensin,82.5,Manual,99000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,sigra,2019,Bensin,82.5,Manual,99000000,Medan Satria, Bekasi Kota,1.25
+daihatsu,ayla,2022,Bensin,87.5,Manual,100000000,Cibubur, Jakarta Timur,1.25
+daihatsu,ayla,2022,Bensin,82.5,Manual,100000000,Gunung Putri, Bogor Kab.,1.25
+daihatsu,sigra,2019,Bensin,52.5,Manual,103000000,Pondok Aren, Tangerang Selatan Kota,1.25
+daihatsu,ayla,2017,Bensin,92.5,Manual,105000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,sigra,2018,Bensin,92.5,Manual,105000000,Cikarang Selatan, Bekasi Kab.,1.25
+daihatsu,ayla,2019,Bensin,92.5,Manual,106000000,Cikarang Selatan, Bekasi Kab.,1.25
+daihatsu,sirion,2015,Bensin,92.5,Automatic,107000000,Kemayoran, Jakarta Pusat,1.25
+daihatsu,gran max mb,2018,Bensin,52.5,Manual,108000000,Pondok Aren, Tangerang Selatan Kota,1.25
+daihatsu,ayla,2018,Bensin,92.5,Manual,110000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,sigra,2017,Bensin,92.5,Automatic,112000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,xenia,2016,Bensin,97.5,Manual,113000000,Kemayoran, Jakarta Pusat,1.25
+daihatsu,gran max mb,2021,Bensin,42.5,Manual,114000000,Gubeng, Surabaya Kota,1.25
+daihatsu,sirion,2018,Bensin,47.5,Manual,115000000,Candi, Sidoarjo  Kab.,1.25
+daihatsu,ayla,2020,Bensin,97.5,Manual,116000000,Cikarang Selatan, Bekasi Kab.,1.25
+daihatsu,ayla,2021,Bensin,102.5,Manual,118000000,Medan Satria, Bekasi Kota,1.25
+daihatsu,xenia,2023,Bensin,102.5,Manual,119000000,Tebet, Jakarta Selatan,1.25
+daihatsu,xenia,2017,Bensin,52.5,Manual,120000000,Pamulang, Tangerang Selatan Kota,1.25
+daihatsu,sirion,2017,Bensin,102.5,Automatic,121000000,Cikarang Utara, Bekasi Kab.,1.25
+daihatsu,sirion,2017,Bensin,102.5,Automatic,121000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,sigra,2019,Bensin,107.5,Automatic,123000000,Duren Sawit, Jakarta Timur,1.25
+daihatsu,sirion,2017,Bensin,107.5,Automatic,123500000,Cikarang Selatan, Bekasi Kab.,1.25
+daihatsu,sigra,2021,Bensin,112.5,Manual,125000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,ayla,2023,Bensin,112.5,Manual,126000000,Cempaka Putih, Jakarta Pusat,1.25
+daihatsu,sigra,2020,Bensin,117.5,Automatic,127000000,Kemayoran, Jakarta Pusat,1.25
+daihatsu,xenia,2018,Bensin,117.5,Manual,127000000,Tambun Utara, Bekasi Kab.,1.25
+daihatsu,sigra,2022,Bensin,122.5,Manual,129000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,sigra,2022,Bensin,122.5,Automatic,130000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,xenia,2017,Bensin,122.5,Manual,132000000,Tambun Selatan, Bekasi Kab.,1.25
+daihatsu,ayla,2023,Bensin,122.5,Manual,133000000,Cikarang Barat, Bekasi Kab.,1.25
+daihatsu,sirion,2019,Bensin,137.5,Automatic,135000000,Karangbahagia, Bekasi Kab.,1.25
+daihatsu,xenia,2018,Bensin,142.5,Manual,136000000,Tambun Selatan, Bekasi Kab.,1.25
+daihatsu,sigra,2022,Bensin,147.5,Automatic,137000000,Gambir, Jakarta Pusat,1.25
+daihatsu,xenia,2017,Bensin,47.5,Automatic,137500000,Buduran, Sidoarjo  Kab.,1.25
+daihatsu,terios,2017,Bensin,167.5,Automatic,140000000,Tambora, Jakarta Barat,1.25
+daihatsu,xenia,2018,Bensin,2.5,Manual,142500000,Tambun Utara, Bekasi Kab.,1.75
+daihatsu,sigra,2024,Bensin,52.5,Automatic,145000000,Serpong, Tangerang Selatan Kota,1.25
+daihatsu,xenia,2019,Bensin,7.5,Manual,147000000,Cikarang Utara, Bekasi Kab.,1.75
+daihatsu,rocky,2021,Bensin,42.5,Manual,148000000,Gubeng, Surabaya Kota,1.25
+daihatsu,terios,2017,Bensin,12.5,Manual,150000000,Cikarang Selatan, Bekasi Kab.,1.75
+daihatsu,xenia,2018,Bensin,12.5,Automatic,150000000,Kemayoran, Jakarta Pusat,1.75
+daihatsu,ayla,2023,Bensin,12.5,Automatic,155500000,Semarang Timur, Semarang Kota,1.25
+daihatsu,ayla,2023,Bensin,7.5,Automatic,155500000,Semarang Selatan, Semarang Kota,1.25
+daihatsu,ayla,2023,Bensin,2.5,Automatic,155500000,Pedurungan, Semarang Kota,1.25
+daihatsu,xenia,2021,Bensin,7.5,Manual,168000000,Semarang Barat, Semarang Kota,1.25
+daihatsu,terios,2017,Bensin,2.5,Manual,168000000,Gajahmada, Semarang Kota,1.25
+daihatsu,xenia,2023,Bensin,7.5,Manual,185000000,Semarang Selatan, Semarang Kota,1.25
+daihatsu,rocky,2021,Bensin,2.5,Automatic,185000000,Sumurboto, Semarang Kota,1.25
+daihatsu,luxio,2020,Bensin,2.5,Automatic,187000000,Karang Kidul, Semarang Kota,1.25
+daihatsu,gran xenia,2022,Bensin,7.5,Automatic,189000000,Tembalang, Semarang Kota,1.25
+daihatsu,terios,2021,Bensin,2.5,Manual,190000000,Semarang Barat, Semarang Kota,1.25
+daihatsu,terios,2021,Bensin,2.5,Manual,195000000,Demak, Demak Kab.,1.25
+daihatsu,xenia,2022,Bensin,7.5,Manual,196000000,Semarang Timur, Semarang Kota,1.25
+daihatsu,xenia,2022,Bensin,2.5,Manual,196000000,Tembalang, Semarang Kota,1.25
+daihatsu,xenia,2023,Bensin,12.5,Manual,200000000,Kemiling, Bandar Lampung Kota,1.75
+daihatsu,sigra,2021,Bensin,7.5,Manual,200000000,Tembalang, Semarang Kota,1.25
+daihatsu,rocky,2021,Bensin,2.5,Automatic,200000000,Pedurungan, Semarang Kota,1.25
+daihatsu,terios,2022,Bensin,22.5,Manual,203000000,Kedaton, Bandar Lampung Kota,1.75
+daihatsu,rocky,1996,Diesel,22.5,Manual,205000000,Metro Utara, Metro Kota,1.75
+daihatsu,terios,2019,Bensin,32.5,Automatic,210000000,Sidoarjo, Sidoarjo  Kab.,1.25
+daihatsu,terios,2022,Bensin,57.5,Manual,212000000,Sangatta Utara, Kutai Timur Kab.,1.25
+daihatsu,terios,2022,Bensin,32.5,Automatic,212000000,Way Halim, Bandar Lampung Kota,1.75
+daihatsu,rocky,2021,Bensin,32.5,Automatic,215000000,Way Halim, Bandar Lampung Kota,1.75
+daihatsu,terios,2019,Bensin,32.5,Automatic,215000000,Labuhan Ratu, Bandar Lampung Kota,1.75
+daihatsu,xenia,2021,Bensin,32.5,Automatic,215000000,Way Halim, Bandar Lampung Kota,1.75
+daihatsu,terios,2023,Bensin,52.5,Manual,217000000,Sungai Kunjang, Samarinda Kota,1.25
+daihatsu,terios,2020,Bensin,32.5,Automatic,219000000,Way Halim, Bandar Lampung Kota,1.75
+daihatsu,terios,2022,Bensin,32.5,Manual,220000000,Kemiling, Bandar Lampung Kota,1.75
+daihatsu,rocky,2021,Bensin,37.5,Automatic,225500000,Gubeng, Surabaya Kota,1.25
+daihatsu,terios,2022,Bensin,47.5,Automatic,235000000,Way Halim, Bandar Lampung Kota,1.75
+daihatsu,terios,2022,Bensin,47.5,Manual,235000000,Terbanggi Besar, Lampung Tengah Kab.,1.75
+datsun,go panca,2017,Bensin,72.5,Manual,80000000,Bekasi Barat, Bekasi Kota,1.25
+datsun,go panca,2019,Bensin,77.5,Automatic,92000000,Medan Satria, Bekasi Kota,1.25
+datsun,go panca,2019,Bensin,77.5,Automatic,92000000,Bekasi Barat, Bekasi Kota,1.25
+datsun,go panca,2017,Bensin,77.5,Manual,92000000,Coblong, Bandung Kota,1.25
+datsun,go panca,2018,Bensin,77.5,Automatic,93000000,Gunung Putri, Bogor Kab.,1.25
+datsun,go panca,2019,Bensin,87.5,Automatic,100000000,Jatinegara, Jakarta Timur,1.25
+ford,eco sport,2014,Bensin,92.5,Automatic,110000000,Tambora, Jakarta Barat,1.25
+ford,eco sport,2015,Bensin,102.5,Automatic,122000000,Cempaka Putih, Jakarta Pusat,1.25
+ford,eco sport,2015,Bensin,107.5,Automatic,123000000,Duren Sawit, Jakarta Timur,1.25
+ford,focus,2014,Bensin,47.5,Automatic,150000000,Pademangan, Jakarta Utara,1.25
+ford,ranger double cabin,2013,Diesel,77.5,Manual,150000000,Kebayoran Baru, Jakarta Selatan,2.5
+ford,everest,2011,Diesel,52.5,Automatic,158000000,Pademangan, Jakarta Utara,1.25
+ford,everest,2011,Diesel,112.5,Automatic,158000000,Cilandak, Jakarta Selatan,2.5
+ford,everest,2012,Diesel,67.5,Manual,165000000,Pasar Minggu, Jakarta Selatan,2.5
+ford,everest,2011,Diesel,12.5,Manual,170000000,Kebayoran Baru, Jakarta Selatan,2.5
+ford,everest,2012,Diesel,2.5,Automatic,175000000,Pancoran, Jakarta Selatan,1.25
+ford,everest,2012,Diesel,132.5,Automatic,175000000,Pancoran, Jakarta Selatan,2.5
+ford,everest,2012,Diesel,107.5,Automatic,177000000,Cilandak, Jakarta Selatan,2.5
+ford,everest,2011,Diesel,37.5,Automatic,180000000,Cakung, Jakarta Timur,1.25
+ford,everest,2011,Diesel,127.5,Automatic,180000000,Cilandak, Jakarta Selatan,2.5
+ford,everest,2012,Diesel,102.5,Automatic,190000000,Kebayoran Baru, Jakarta Selatan,2.5
+ford,everest,2011,Diesel,127.5,Automatic,196000000,Mampang Prapatan, Jakarta Selatan,2.5
+ford,everest,2011,Diesel,132.5,Automatic,196000000,Kebayoran Baru, Jakarta Selatan,2.5
+ford,everest,2013,Diesel,122.5,Automatic,245000000,Cinere, Depok Kota,2.5
+ford,everest,2014,Diesel,92.5,Manual,235000000,Ngamprah, Bandung Barat Kab.,2.5
+ford,everest,2014,Diesel,137.5,Automatic,238000000,Cinere, Depok Kota,2.5
+ford,everest,2014,Diesel,192.5,Manual,240000000,Bogor Utara - Kota, Bogor Kota,2.5
+ford,ranger double cabin,2010,Bensin,122.5,Manual,235000000,Bogor Utara - Kota, Bogor Kota,2.5
+ford,ranger double cabin,2012,Diesel,122.5,Manual,237000000,Rawalumbu, Bekasi Kota,2.5
+honda,brio,2018,Bensin,87.5,Manual,100000000,Kemayoran, Jakarta Pusat,1.25
+honda,brio,2017,Bensin,92.5,Manual,105000000,Bekasi Barat, Bekasi Kota,1.25
+honda,brio,2019,Bensin,42.5,Automatic,105000000,Sidoarjo, Sidoarjo  Kab.,1.25
+honda,brio,2017,Bensin,92.5,Manual,107000000,Tambun Utara, Bekasi Kab.,1.25
+honda,brio,2017,Bensin,92.5,Manual,109000000,Cikarang Selatan, Bekasi Kab.,1.25
+honda,brio,2018,Bensin,92.5,Manual,110000000,Karangbahagia, Bekasi Kab.,1.25
+honda,cr-v,2009,Bensin,92.5,Automatic,110000000,Tambora, Jakarta Barat,1.25
+honda,brio,2017,Bensin,52.5,Manual,113000000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,brio,2017,Bensin,47.5,Manual,113000000,Gubeng, Surabaya Kota,1.25
+honda,freed,2012,Bensin,97.5,Automatic,114000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,brio,2019,Bensin,97.5,Manual,115000000,Kemayoran, Jakarta Pusat,1.25
+honda,brio,2018,Bensin,97.5,Automatic,117000000,Gambir, Jakarta Pusat,1.25
+honda,brio,2018,Bensin,97.5,Automatic,117000000,Medan Satria, Bekasi Kota,1.25
+honda,brio,2017,Bensin,102.5,Manual,118000000,Duren Sawit, Jakarta Timur,1.25
+honda,brio,2017,Bensin,42.5,Manual,118000000,Gubeng, Surabaya Kota,1.25
+honda,brio,2017,Bensin,102.5,Otomatis,119000000,Cikarang Utara, Bekasi Kab.,1.25
+honda,mobilio,2014,Bensin,102.5,Automatic,119000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,brio,2017,Bensin,42.5,Manual,119000000,Blimbing, Malang Kota,1.25
+honda,city,2010,Bensin,102.5,Automatic,120000000,Kemayoran, Jakarta Pusat,1.25
+honda,mobilio,2019,Bensin,102.5,Automatic,121000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,brio,2017,Bensin,52.5,Automatic,122000000,Medan Satria, Bekasi Kota,1.25
+honda,brio,2018,Bensin,107.5,Manual,123000000,Tambun Utara, Bekasi Kab.,1.25
+honda,mobilio,2014,Bensin,107.5,Automatic,123000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,brio,2017,Bensin,112.5,Manual,125000000,Cikarang Barat, Bekasi Kab.,1.25
+honda,cr-v,2010,Bensin,107.5,Automatic,125000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,brio,2017,Bensin,52.5,Automatic,125000000,Ciputat, Tangerang Selatan Kota,1.25
+honda,freed,2013,Bensin,112.5,Automatic,126000000,Kemayoran, Jakarta Pusat,1.25
+honda,brio,2017,Bensin,117.5,Otomatis,128000000,Duren Sawit, Jakarta Timur,1.25
+honda,mobilio,2017,Bensin,117.5,Manual,128000000,Cikarang Barat, Bekasi Kab.,1.25
+honda,mobilio,2017,Bensin,117.5,Automatic,128000000,Tebet, Jakarta Selatan,1.25
+honda,brio,2018,Bensin,52.5,Automatic,128000000,Bekasi Barat, Bekasi Kota,1.25
+honda,mobilio,2017,Bensin,122.5,Manual,129000000,Cikarang Barat, Bekasi Kab.,1.25
+honda,brio,2022,Bensin,122.5,Manual,130000000,Cikarang Selatan, Bekasi Kab.,1.25
+honda,cr-v,2014,Bensin,122.5,Manual,132000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,brio,2018,Bensin,47.5,Automatic,132000000,Gubeng, Surabaya Kota,1.25
+honda,brio,2018,Bensin,47.5,Automatic,132000000,Mayjen Sungkono, Surabaya Kota,1.25
+honda,brio,2018,Bensin,127.5,Automatic,133000000,Cikarang Selatan, Bekasi Kab.,1.25
+honda,brio,2019,Bensin,122.5,Manual,133000000,Cikarang Utara, Bekasi Kab.,1.25
+honda,mobilio,2014,Bensin,132.5,Automatic,134000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,accord,2012,Bensin,142.5,Automatic,135000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,mobilio,2016,Bensin,142.5,Automatic,135000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,brio,2017,Bensin,137.5,Automatic,135000000,Duren Sawit, Jakarta Timur,1.25
+honda,brio,2018,Bensin,42.5,Manual,135000000,Citraland, Surabaya Kota,1.25
+honda,brio,2019,Bensin,147.5,Automatic,138000000,Kemayoran, Jakarta Pusat,1.25
+honda,mobilio,2017,Bensin,42.5,Automatic,140000000,Serpong, Tangerang Selatan Kota,1.25
+honda,mobilio,2018,Bensin,52.5,Manual,143000000,Bekasi Barat, Bekasi Kota,1.25
+honda,mobilio,2017,Bensin,47.5,Automatic,143000000,Blimbing, Malang Kota,1.25
+honda,mobilio,2017,Bensin,42.5,Automatic,143000000,Blimbing, Malang Kota,1.25
+honda,brio,2017,Bensin,2.5,Manual,143000000,Medan Satria, Bekasi Kota,1.75
+honda,brio,2018,Bensin,52.5,Automatic,145000000,Serpong, Tangerang Selatan Kota,1.25
+honda,mobilio,2017,Bensin,47.5,Automatic,145000000,Serpong, Tangerang Selatan Kota,1.25
+honda,brio,2021,Bensin,7.5,Manual,145000000,Tambun Selatan, Bekasi Kab.,1.75
+honda,brio,2019,Bensin,7.5,Automatic,146000000,Kemayoran, Jakarta Pusat,1.75
+honda,mobilio,2018,Bensin,47.5,Automatic,147000000,Rungkut, Surabaya Kota,1.25
+honda,mobilio,2017,Bensin,52.5,Automatic,148000000,Ciputat, Tangerang Selatan Kota,1.25
+honda,brio,2019,Bensin,7.5,Automatic,148000000,Tambun Utara, Bekasi Kab.,1.75
+honda,brio,2022,Bensin,7.5,Manual,148000000,Bekasi Barat, Bekasi Kota,1.75
+honda,brio,2024,Bensin,47.5,Manual,149000000,Serpong, Tangerang Selatan Kota,1.25
+honda,brio,2021,Bensin,42.5,Automatic,149000000,Gubeng, Surabaya Kota,1.25
+honda,br-v,2017,Bensin,12.5,Automatic,149000000,Setia Budi, Jakarta Selatan,1.75
+honda,brio,2019,Bensin,52.5,Automatic,150000000,Medan Satria, Bekasi Kota,1.25
+honda,jazz,2013,Bensin,12.5,Manual,150000000,Gambir, Jakarta Pusat,1.75
+honda,mobilio,2018,Bensin,12.5,Automatic,150000000,Grogo pancal Petamburan, Jakarta Barat,1.75
+honda,brio,2023,Bensin,7.5,Manual,150000000,Pedurungan, Semarang Kota,1.25
+honda,brio,2018,Bensin,2.5,Automatic,150000000,Tembalang, Semarang Kota,1.25
+honda,brio,2019,Bensin,2.5,Automatic,153000000,Pedurungan, Semarang Kota,1.25
+honda,brio,2021,Bensin,7.5,Automatic,155000000,Gajah Mungkur, Semarang Kota,1.25
+honda,brio,2019,Bensin,2.5,Automatic,155000000,Gayamsari, Semarang Kota,1.25
+honda,brio,2021,Bensin,2.5,Automatic,157000000,Tembalang, Semarang Kota,1.25
+honda,brio,2021,Bensin,2.5,Automatic,159000000,Sumurboto, Semarang Kota,1.25
+honda,brio,2020,Bensin,2.5,Automatic,160000000,Semarang Selatan, Semarang Kota,1.25
+honda,brio,2019,Bensin,2.5,Automatic,161999999,Gayamsari, Semarang Kota,1.25
+honda,brio,2021,Bensin,7.5,Automatic,165000000,Semarang Timur, Semarang Kota,1.25
+honda,mobilio,2018,Bensin,7.5,Automatic,165000000,Pedurungan, Semarang Kota,1.25
+honda,mobilio,2019,Bensin,7.5,Automatic,168500000,Pedurungan, Semarang Kota,1.25
+honda,brio,2022,Bensin,2.5,Automatic,170000000,Pedurungan, Semarang Kota,1.25
+honda,brio,2023,Bensin,2.5,Automatic,173000000,Karang Kidul, Semarang Kota,1.25
+honda,mobilio,2021,Bensin,2.5,Automatic,174000000,Jangli, Semarang Kota,1.25
+honda,brio,2021,Bensin,7.5,Automatic,175000000,Gajahmada, Semarang Kota,1.25
+honda,mobilio,2020,Bensin,7.5,Automatic,175000000,Gayamsari, Semarang Kota,1.25
+honda,mobilio,2020,Bensin,7.5,Automatic,175000000,Semarang Tengah, Semarang Kota,1.25
+honda,brio,2020,Bensin,2.5,Automatic,175000000,Pedurungan, Semarang Kota,1.25
+honda,br-v,2019,Bensin,12.5,Automatic,180000000,Semarang Tengah, Semarang Kota,1.25
+honda,brio,2023,Bensin,7.5,Automatic,182000000,Tembalang, Semarang Kota,1.25
+honda,jazz,2017,Bensin,7.5,Automatic,190000000,Semarang Timur, Semarang Kota,1.25
+honda,br-v,2019,Bensin,2.5,Automatic,190000000,Semarang Tengah, Semarang Kota,1.25
+honda,mobilio,2023,Bensin,2.5,Manual,190000000,Semarang Utara, Semarang Kota,1.25
+honda,mobilio,2023,Bensin,2.5,Manual,190000000,Semarang Barat, Semarang Kota,1.25
+honda,jazz,2017,Bensin,2.5,Automatic,194000000,Semarang Timur, Semarang Kota,1.25
+honda,jazz,2017,Bensin,2.5,Automatic,195000000,Semarang Timur, Semarang Kota,1.25
+honda,jazz,2017,Bensin,2.5,Automatic,196000000,Semarang Timur, Semarang Kota,1.25
+honda,jazz,2017,Bensin,2.5,Automatic,199000000,Semarang Selatan, Semarang Kota,1.25
+honda,hr-v,2015,Bensin,17.5,Automatic,200000000,Rajabasa, Bandar Lampung Kota,1.75
+honda,hr-v,2016,Bensin,17.5,Automatic,200000000,Kotabumi Utara, Lampung Utara Kab.,1.75
+honda,hr-v,2016,Bensin,17.5,Automatic,200000000,Way Halim, Bandar Lampung Kota,1.75
+honda,hr-v,2016,Bensin,17.5,Automatic,200000000,Baradatu, Way Kanan Kab.,1.75
+honda,jazz,2016,Bensin,17.5,Automatic,200000000,Tanjung Senang, Bandar Lampung Kota,1.75
+honda,jazz,2017,Bensin,17.5,Manual,200000000,Langkapura, Bandar Lampung Kota,1.75
+honda,brio,2023,Bensin,7.5,Automatic,200000000,Gajahmada, Semarang Kota,1.25
+honda,city,2017,Bensin,2.5,Automatic,200000000,Semarang Tengah, Semarang Kota,1.25
+honda,city,2018,Bensin,2.5,Automatic,200000000,Semarang Selatan, Semarang Kota,1.25
+honda,mobilio,2023,Bensin,2.5,Manual,200000000,Semarang Utara, Semarang Kota,1.25
+honda,br-v,2019,Bensin,32.5,Automatic,204500000,Gubeng, Surabaya Kota,1.25
+honda,hr-v,2016,Bensin,22.5,Automatic,205000000,Kedamaian, Bandar Lampung Kota,1.75
+honda,jazz,2017,Bensin,22.5,Automatic,205000000,Jati Agung, Lampung Selatan Kab.,1.75
+honda,hr-v,2017,Bensin,27.5,Automatic,208000000,Enggal, Bandar Lampung Kota,1.75
+honda,hr-v,2017,Bensin,57.5,Manual,210000000,Samarinda Ilir, Samarinda Kota,1.25
+honda,city,2017,Bensin,37.5,Automatic,210000000,Gubeng, Surabaya Kota,1.25
+honda,city,2017,Bensin,37.5,Automatic,210000000,Blimbing, Malang Kota,1.25
+honda,city,2017,Bensin,37.5,Automatic,210000000,Sukun, Malang Kota,1.25
+honda,hr-v,2016,Bensin,32.5,Automatic,210000000,Langkapura, Bandar Lampung Kota,1.75
+honda,hr-v,2018,Bensin,32.5,Automatic,210000000,Sukarame, Bandar Lampung Kota,1.75
+honda,jazz,2017,Bensin,32.5,Automatic,210000000,Metro Timur, Metro Kota,1.75
+honda,br-v,2022,Bensin,32.5,Manual,215000000,Natar, Lampung Selatan Kab.,1.75
+honda,jazz,2017,Bensin,32.5,Automatic,215000000,Tanjung Karang Pusat, Bandar Lampung Kota,1.75
+honda,jazz,2019,Bensin,32.5,Manual,215000000,Gubeng, Surabaya Kota,1.25
+honda,jazz,2018,Bensin,32.5,Automatic,219000000,Sukabumi, Bandar Lampung Kota,1.75
+honda,cr-v,2017,Bensin,42.5,Automatic,219999000,Candi, Sidoarjo  Kab.,1.25
+honda,hr-v,2017,Bensin,37.5,Automatic,220000000,Bumi Waras, Bandar Lampung Kota,1.75
+honda,hr-v,2017,Bensin,32.5,Automatic,220000000,Langkapura, Bandar Lampung Kota,1.75
+honda,hr-v,2019,Bensin,32.5,Automatic,220000000,Langkapura, Bandar Lampung Kota,1.75
+honda,jazz,2017,Bensin,32.5,Automatic,220000000,Way Halim, Bandar Lampung Kota,1.75
+honda,jazz,2017,Bensin,32.5,Automatic,221000000,Wonokromo, Surabaya Kota,1.25
+honda,hr-v,2017,Bensin,37.5,Automatic,222000000,Kemiling, Bandar Lampung Kota,1.75
+honda,hr-v,2017,Bensin,37.5,Automatic,225000000,Metro Barat, Metro Kota,1.75
+honda,hr-v,2017,Bensin,37.5,Automatic,225000000,Kedaton, Bandar Lampung Kota,1.75
+honda,br-v,2023,Bensin,42.5,Automatic,228000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+honda,hr-v,2018,Bensin,47.5,Automatic,230000000,Langkapura, Bandar Lampung Kota,1.75
+honda,jazz,2018,Bensin,47.5,Automatic,230000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+honda,br-v,2023,Bensin,42.5,Automatic,230000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+honda,jazz,2021,Bensin,47.5,Automatic,232000000,Rajabasa, Bandar Lampung Kota,1.75
+honda,hr-v,2019,Bensin,47.5,Automatic,233000000,Langkapura, Bandar Lampung Kota,1.75
+honda,jazz,2018,Bensin,47.5,Manual,235000000,Tanjung Karang Pusat, Bandar Lampung Kota,1.75
+honda,hr-v,2019,Bensin,37.5,Manual,235500000,Gubeng, Surabaya Kota,1.25
+honda,jazz,2019,Bensin,37.5,Automatic,239999000,Candi, Sidoarjo  Kab.,1.25
+honda,br-v,2022,Bensin,57.5,Automatic,245000000,Samarinda Seberang, Samarinda Kota,1.25
+honda,jazz,2019,Bensin,42.5,Automatic,246000000,Tenggilis Mejoyo, Surabaya Kota,1.25
+honda,hr-v,2017,Bensin,52.5,Automatic,247000000,Enggal, Bandar Lampung Kota,1.75
+honda,hr-v,2017,Bensin,52.5,Automatic,247000000,Way Halim, Bandar Lampung Kota,1.75
+honda,br-v,2022,Bensin,37.5,Automatic,247000000,Buduran, Sidoarjo  Kab.,1.25
+honda,hr-v,2019,Bensin,57.5,Automatic,248000000,Balikpapan Barat, Balikpapan Kota,1.25
+honda,jazz,2021,Bensin,67.5,Manual,250000000,Gubeng, Surabaya Kota,1.25
+honda,city,2021,Bensin,62.5,Manual,250000000,Raya Darmo, Surabaya Kota,1.25
+honda,jazz,2021,Bensin,62.5,Manual,250000000,Gubeng, Surabaya Kota,1.25
+honda,hr-v,2021,Bensin,57.5,Automatic,250000000,Jatinegara, Jakarta Timur,1.75
+honda,br-v,2022,Bensin,52.5,Manual,250000000,Samarinda Utara, Samarinda Kota,1.25
+honda,city,2021,Bensin,32.5,Automatic,250000000,Tanggulangin, Sidoarjo  Kab.,1.25
+honda,city,2021,Bensin,32.5,Automatic,250000000,Sukodono, Sidoarjo  Kab.,1.25
+honda,cr-v,2017,Bensin,32.5,Automatic,250000000,Sidoarjo, Sidoarjo  Kab.,1.25
+honda,br-v,2022,Bensin,27.5,Automatic,250000000,Ilir Timur II, Palembang Kota,1.25
+honda,city,2021,Bensin,27.5,Automatic,250000000,Ilir Timur II, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,27.5,Automatic,250000000,Ilir Barat I, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,17.5,Automatic,250000000,Kemuning, Palembang Kota,1.25
+honda,hr-v,2017,Bensin,17.5,Automatic,250000000,Ilir Barat II, Palembang Kota,1.25
+honda,city,2021,Bensin,12.5,Automatic,252000000,Serpong, Tangerang Selatan Kota,1.25
+honda,hr-v,2019,Bensin,67.5,Automatic,253000000,Genteng, Surabaya Kota,1.25
+honda,hr-v,2019,Bensin,17.5,Automatic,253000000,Duren Sawit, Jakarta Timur,1.25
+honda,hr-v,2018,Bensin,62.5,Automatic,254000000,Genteng, Surabaya Kota,1.25
+honda,br-v,2022,Bensin,12.5,Automatic,254000000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,hr-v,2019,Bensin,27.5,Automatic,254900000,Ilir Barat I, Palembang Kota,1.25
+honda,br-v,2023,Bensin,72.5,Automatic,255000000,Wonokromo, Surabaya Kota,1.25
+honda,br-v,2023,Bensin,67.5,Automatic,255000000,Gubeng, Surabaya Kota,1.25
+honda,jazz,2020,Bensin,67.5,Manual,255000000,Raya Darmo, Surabaya Kota,1.25
+honda,hr-v,2016,Bensin,62.5,Automatic,255000000,Rajabasa, Bandar Lampung Kota,1.75
+honda,hr-v,2017,Bensin,62.5,Automatic,255000000,Rajabasa, Bandar Lampung Kota,1.75
+honda,jazz,2017,Bensin,62.5,Automatic,255000000,Gubeng, Surabaya Kota,1.25
+honda,wr-v,2023,Bensin,62.5,Automatic,255000000,Cempaka Putih, Jakarta Pusat,1.75
+honda,br-v,2022,Bensin,27.5,Automatic,255000000,Bukit Kecil, Palembang Kota,1.25
+honda,cr-v,2017,Bensin,22.5,Automatic,255000000,Seberang Ulu II, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,22.5,Automatic,255000000,Ilir Barat I, Palembang Kota,1.25
+honda,jazz,2019,Bensin,22.5,Automatic,255000000,Ilir Barat I, Palembang Kota,1.25
+honda,jazz,2019,Bensin,22.5,Automatic,255000000,Ilir Timur I, Palembang Kota,1.25
+honda,hr-v,2017,Bensin,12.5,Automatic,257000000,Serpong, Tangerang Selatan Kota,1.25
+honda,wr-v,2023,Bensin,62.5,Automatic,258000000,Gubeng, Surabaya Kota,1.25
+honda,hr-v,2020,Bensin,32.5,Automatic,258000000,Ilir Timur I, Palembang Kota,1.25
+honda,br-v,2022,Bensin,27.5,Automatic,258000000,Ilir Timur II, Palembang Kota,1.25
+honda,br-v,2022,Bensin,22.5,Automatic,258000000,Kalidoni, Palembang Kota,1.25
+honda,hr-v,2021,Bensin,72.5,Automatic,260000000,Way Halim, Bandar Lampung Kota,1.75
+honda,cr-v,2017,Bensin,67.5,Automatic,260000000,Gubeng, Surabaya Kota,1.25
+honda,hr-v,2020,Bensin,67.5,Automatic,260000000,Gubeng, Surabaya Kota,1.25
+honda,jazz,2019,Bensin,67.5,Automatic,260000000,Gubeng, Surabaya Kota,1.25
+honda,br-v,2022,Bensin,27.5,Automatic,260000000,Plaju, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,27.5,Automatic,260000000,Ilir Timur I, Palembang Kota,1.25
+honda,cr-v,2017,Bensin,22.5,Automatic,260000000,Ilir Timur I, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,22.5,Automatic,260000000,Ilir Timur I, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,17.5,Automatic,260000000,Sako, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,17.5,Automatic,260000000,Bukit Kecil, Palembang Kota,1.25
+honda,br-v,2022,Bensin,12.5,Automatic,260000000,Serpong, Tangerang Selatan Kota,1.25
+honda,hr-v,2021,Bensin,17.5,Automatic,263000000,Serpong, Tangerang Selatan Kota,1.25
+honda,hr-v,2019,Bensin,62.5,Automatic,265000000,Kenjeran, Surabaya Kota,1.25
+honda,wr-v,2023,Diesel,17.5,Automatic,265000000,Sako, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,82.5,Automatic,269000000,Kemiling, Bandar Lampung Kota,1.75
+honda,wr-v,2024,Bensin,17.5,Automatic,269000000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,wr-v,2023,Bensin,82.5,Automatic,270000000,Kemayoran, Jakarta Pusat,1.75
+honda,hr-v,2020,Bensin,32.5,Automatic,270000000,Ilir Barat II, Palembang Kota,1.25
+honda,br-v,2022,Bensin,27.5,Automatic,270000000,Sako, Palembang Kota,1.25
+honda,city,2022,Bensin,17.5,Automatic,270000000,Sukarami, Palembang Kota,1.25
+honda,hr-v,2020,Bensin,17.5,Automatic,270000000,Bukit Kecil, Palembang Kota,1.25
+honda,hr-v,2019,Bensin,17.5,Automatic,270000000,Serpong, Tangerang Selatan Kota,1.25
+honda,hr-v,2018,Bensin,17.5,Automatic,270000000,Ciputat, Tangerang Selatan Kota,1.25
+honda,br-v,2023,Bensin,12.5,Automatic,270000000,Ciputat, Tangerang Selatan Kota,1.25
+honda,br-v,2023,Bensin,82.5,Automatic,271000000,Cilangkap, Jakarta Timur,1.75
+honda,wr-v,2024,Bensin,72.5,Automatic,271100000,Genteng, Surabaya Kota,1.25
+honda,hr-v,2019,Bensin,87.5,Automatic,274000000,Duren Sawit, Jakarta Timur,1.75
+honda,hr-v,2020,Bensin,67.5,Automatic,274000000,Gubeng, Surabaya Kota,1.25
+honda,hr-v,2021,Bensin,87.5,Automatic,275000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+honda,hr-v,2021,Bensin,87.5,Automatic,275000000,Gunung Putri, Bogor Kab.,1.75
+honda,wr-v,2023,Bensin,32.5,Automatic,275000000,Taman, Sidoarjo  Kab.,1.25
+honda,hr-v,2019,Bensin,22.5,Automatic,275000000,Bukit Kecil, Palembang Kota,1.25
+honda,brio,2022,Bensin,87.5,Automatic,276000000,Cipayung, Depok Kota,1.75
+honda,hr-v,2021,Bensin,62.5,Automatic,277000000,Tambaksari, Surabaya Kota,1.25
+honda,br-v,2022,Bensin,92.5,Automatic,278000000,Sukarame, Bandar Lampung Kota,1.75
+honda,jazz,2020,Bensin,92.5,Automatic,279000000,Makasar, Jakarta Timur,1.75
+honda,cr-v,2015,Bensin,97.5,Automatic,280000000,Rajabasa, Bandar Lampung Kota,1.25
+honda,cr-v,2017,Bensin,12.5,Automatic,280000000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,hr-v,2021,Bensin,12.5,Manual,280000000,Kemayoran, Jakarta Pusat,1.25
+honda,br-v,2023,Bensin,102.5,Automatic,281400000,Metro Pusat, Metro Kota,1.75
+honda,br-v,2024,Bensin,12.5,Automatic,284400000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,hr-v,2019,Bensin,102.5,Automatic,285000000,Kemayoran, Jakarta Pusat,1.75
+honda,city,2024,Bensin,27.5,Automatic,285000000,Ilir Timur I, Palembang Kota,1.25
+honda,city,2021,Bensin,17.5,Automatic,285000000,Ilir Timur I, Palembang Kota,1.25
+honda,br-v,2024,Bensin,67.5,Automatic,285600000,Genteng, Surabaya Kota,1.25
+honda,city,2021,Bensin,22.5,Automatic,287500000,Ilir Barat I, Palembang Kota,1.25
+honda,cr-v,2019,Bensin,182.5,Automatic,290000000,Menteng, Jakarta Pusat,1.25
+honda,br-v,2024,Bensin,122.5,Automatic,290000000,Cempaka Putih, Jakarta Pusat,1.75
+honda,br-v,2024,Bensin,122.5,Automatic,290000000,Duren Sawit, Jakarta Timur,1.75
+honda,hr-v,2019,Bensin,22.5,Automatic,290000000,Ilir Barat I, Palembang Kota,1.25
+honda,civic,2017,Bensin,17.5,Automatic,290000000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,hr-v,2019,Bensin,17.5,Automatic,290000000,Ilir Timur II, Palembang Kota,1.25
+honda,city,2023,Bensin,62.5,Automatic,292000000,Gubeng, Surabaya Kota,1.25
+honda,hr-v,2021,Bensin,22.5,Automatic,293000000,Kemuning, Palembang Kota,1.25
+honda,br-v,2024,Bensin,7.5,Automatic,294000000,Duren Sawit, Jakarta Timur,2.5
+honda,hr-v,2019,Bensin,62.5,Automatic,295000000,Gubeng, Surabaya Kota,1.25
+honda,cr-v,2017,Bensin,12.5,Automatic,295000000,Langkapura, Bandar Lampung Kota,1.25
+honda,br-v,2024,Bensin,12.5,Automatic,299000000,Ciputat Timur, Tangerang Selatan Kota,1.25
+honda,br-v,2024,Bensin,12.5,Automatic,299400000,Serpong, Tangerang Selatan Kota,1.25
+honda,hr-v,2021,Bensin,62.5,Automatic,300000000,Ciracas, Jakarta Timur,1.75
+honda,hr-v,2021,Bensin,62.5,Automatic,300000000,Ciracas, Jakarta Timur,1.75
+honda,hr-v,2021,Bensin,62.5,Automatic,300000000,Ciracas, Jakarta Timur,1.25
+honda,hr-v,2021,Bensin,62.5,Automatic,300000000,Ciracas, Jakarta Timur,1.25
+honda,cr-v,2017,Bensin,32.5,Automatic,300000000,Gubeng, Surabaya Kota,1.25
+honda,hr-v,2020,Bensin,27.5,Automatic,300000000,Seberang Ulu II, Palembang Kota,1.25
+honda,cr-v,2017,Bensin,37.5,Automatic,302000000,Sawangan, Depok Kota,1.25
+honda,cr-v,2017,Bensin,92.5,Automatic,310000000,Kemayoran, Jakarta Pusat,1.25
+honda,cr-v,2017,Bensin,92.5,Automatic,310000000,Kemayoran, Jakarta Pusat,1.25
+honda,civic,2018,Bensin,182.5,Automatic,315000000,Bekasi Barat, Jakarta Selatan,2.5
+honda,cr-v,2018,Bensin,92.5,Automatic,315000000,Pamulang, Tangerang Selatan Kota,1.25
+honda,cr-v,2018,Bensin,92.5,Automatic,315000000,Pamulang, Tangerang Selatan Kota,1.25
+honda,civic hatcback,2018,Bensin,72.5,Automatic,319000000,Pancoran, Jakarta Selatan,2.5
+honda,civic hatcback,2018,Bensin,72.5,Automatic,319000000,Pancoran, Jakarta Selatan,2.5
+honda,cr-v,2017,Bensin,92.5,Automatic,320000000,Sawangan, Depok Kota,1.25
+honda,cr-v,2017,Bensin,92.5,Automatic,320000000,Sawangan, Depok Kota,1.25
+honda,cr-v,2017,Bensin,57.5,Automatic,320000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,cr-v,2017,Bensin,57.5,Automatic,320000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,cr-v,2022,Bensin,42.5,Automatic,320000000,Bekasi Selatan, Jakarta Selatan,1.25
+honda,city,2022,Bensin,22.5,Automatic,320000000,Sukmajaya, Depok Kota,2.5
+honda,city,2022,Bensin,22.5,Automatic,320000000,Sukmajaya, Depok Kota,2.5
+honda,city,2024,Bensin,2.5,Automatic,320000000,Kelapa Gading, Jakarta Utara,2.5
+honda,city,2024,Bensin,2.5,Automatic,320000000,Kelapa Gading, Jakarta Utara,2.5
+honda,city,2024,Bensin,2.5,Automatic,320300000,Cilandak, Jakarta Selatan,2.5
+honda,city,2024,Bensin,2.5,Automatic,320300000,Cilandak, Jakarta Selatan,2.5
+honda,cr-v,2017,Bensin,57.5,Automatic,321000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,cr-v,2017,Bensin,57.5,Automatic,321000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,civic hatcback,2017,Bensin,52.5,Automatic,322000000,Grogol Petamburan, Jakarta Barat,2.5
+honda,civic hatcback,2017,Bensin,52.5,Automatic,322000000,Grogol Petamburan, Jakarta Barat,2.5
+honda,cr-v,2019,Bensin,52.5,Automatic,325000000,Bekasi Selatan, Bekasi Kota,1.25
+honda,cr-v,2019,Bensin,52.5,Automatic,325000000,Bekasi Selatan, Bekasi Kota,1.25
+honda,civic hatcback,2017,Bensin,47.5,Automatic,325000000,Pancoran Mas, Depok Kota,2.5
+honda,civic hatcback,2017,Bensin,47.5,Automatic,325000000,Pancoran Mas, Depok Kota,2.5
+honda,cr-v,2018,Bensin,82.5,Automatic,327000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,cr-v,2018,Bensin,82.5,Automatic,327000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,civic hatcback,2018,Bensin,92.5,Automatic,328000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,civic hatcback,2018,Bensin,92.5,Automatic,328000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,cr-v,2018,Bensin,82.5,Automatic,328000000,Medan Satria, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,82.5,Automatic,328000000,Medan Satria, Bekasi Kota,1.25
+honda,cr-v,2017,Bensin,122.5,Automatic,330000000,Kemayoran, Jakarta Pusat,1.25
+honda,cr-v,2017,Bensin,122.5,Automatic,330000000,Kemayoran, Jakarta Pusat,1.25
+honda,cr-v,2017,Bensin,122.5,Automatic,330000000,Kemayoran, Jakarta Pusat,1.25
+honda,cr-v,2017,Bensin,122.5,Automatic,330000000,Kemayoran, Jakarta Pusat,1.25
+honda,cr-v,2017,Bensin,107.5,Automatic,330000000,Kemayoran, Jakarta Pusat,1.25
+honda,cr-v,2017,Bensin,107.5,Automatic,330000000,Kemayoran, Jakarta Pusat,1.25
+honda,cr-v,2018,Bensin,47.5,Automatic,330000000,Medan Satria, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,47.5,Automatic,330000000,Medan Satria, Bekasi Kota,1.25
+honda,cr-v,2017,Bensin,47.5,Automatic,330000000,Tanah Sareal, Bogor Kota,1.25
+honda,city,2024,Bensin,2.5,Automatic,330000000,Kemayoran, Jakarta Pusat,2.5
+honda,city,2024,Bensin,2.5,Automatic,330000000,Kemayoran, Jakarta Pusat,2.5
+honda,cr-v,2017,Bensin,112.5,Automatic,332000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,cr-v,2017,Bensin,112.5,Automatic,332000000,Grogol Petamburan, Jakarta Barat,1.25
+honda,civic hatcback,2018,Bensin,67.5,Automatic,332000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,civic hatcback,2018,Bensin,67.5,Automatic,332000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,cr-v,2018,Bensin,52.5,Automatic,332000000,Makasar, Jakarta Timur,1.25
+honda,hr-v,2023,Bensin,22.5,Automatic,335000000,Pancoran Mas, Depok Kota,1.25
+honda,hr-v,2023,Bensin,22.5,Automatic,335000000,Pancoran Mas, Depok Kota,1.25
+honda,cr-v,2017,Bensin,97.5,Automatic,337000000,Gunung Putri, Bogor Kab.,1.25
+honda,cr-v,2017,Bensin,97.5,Automatic,337000000,Gunung Putri, Bogor Kab.,1.25
+honda,hr-v,2023,Bensin,7.5,Automatic,337000000,Bekasi Utara, Bekasi Kota,1.25
+honda,hr-v,2023,Bensin,7.5,Automatic,337000000,Bekasi Utara, Bekasi Kota,1.25
+honda,civic hatcback,2017,Bensin,32.5,Automatic,339000000,Bekasi Barat, Bekasi Kota,2.5
+honda,civic hatcback,2017,Bensin,32.5,Automatic,339000000,Bekasi Barat, Bekasi Kota,2.5
+honda,civic hatcback,2019,Bensin,32.5,Automatic,343000000,Pancoran, Jakarta Selatan,2.5
+honda,civic hatcback,2019,Bensin,32.5,Automatic,343000000,Pancoran, Jakarta Selatan,2.5
+honda,cr-v,2018,Bensin,67.5,Automatic,344000000,Kebayoran Lama, Jakarta Selatan,1.25
+honda,cr-v,2018,Bensin,67.5,Automatic,344000000,Kebayoran Lama, Jakarta Selatan,1.25
+honda,cr-v,2017,Bensin,62.5,Automatic,345000000,Cilandak, Jakarta Selatan,1.25
+honda,hr-v,2023,Bensin,17.5,Automatic,345000000,Bekasi Barat, Bekasi Kota,1.75
+honda,hr-v,2023,Bensin,17.5,Automatic,345000000,Bekasi Barat, Bekasi Kota,1.75
+honda,cr-v,2018,Bensin,62.5,Automatic,349000000,Sawangan, Depok Kota,1.25
+honda,cr-v,2019,Bensin,252.5,Automatic,350000000,Bekasi Barat, Bekasi Kota,1.25
+honda,civic,2018,Bensin,67.5,Automatic,350000000,Sukaraja, Bogor Kab.,2.5
+honda,cr-v,2018,Bensin,62.5,Automatic,350000000,Bogor Utara - Kota, Bogor Kota,1.25
+honda,hr-v,2024,Bensin,2.5,Automatic,350000000,Kemayoran, Jakarta Pusat,1.75
+honda,hr-v,2024,Bensin,2.5,Automatic,350000000,Kemayoran, Jakarta Pusat,1.75
+honda,cr-v,2019,Bensin,147.5,Automatic,351000000,Jagakarsa, Bekasi Kota,1.25
+honda,civic hatcback,2018,Bensin,42.5,Automatic,351000000,Bekasi Barat, Bekasi Kota,2.5
+honda,civic hatcback,2018,Bensin,42.5,Automatic,351000000,Bekasi Barat, Bekasi Kota,2.5
+honda,cr-v,2017,Bensin,67.5,Automatic,353000000,Beji, Depok Kota,1.25
+honda,cr-v,2017,Bensin,67.5,Automatic,353000000,Beji, Depok Kota,1.25
+honda,city,2023,Bensin,72.5,Automatic,355000000,Bekasi Barat, Bekasi Kota,2.5
+honda,cr-v,2019,Bensin,37.5,Automatic,355000000,Kebon Jeruk, Jakarta Barat,1.25
+honda,cr-v,2019,Bensin,37.5,Automatic,355000000,Kebon Jeruk, Jakarta Barat,1.25
+honda,hr-v,2024,Bensin,2.5,Automatic,356900000,Sawangan, Depok Kota,1.25
+honda,hr-v,2024,Bensin,2.5,Automatic,356900000,Sawangan, Depok Kota,1.25
+honda,cr-v,2019,Bensin,97.5,Automatic,360000000,Bogor Barat - Kota, Bogor Kota,1.25
+honda,civic hatcback,2019,Bensin,62.5,Automatic,362000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,civic hatcback,2019,Bensin,62.5,Automatic,362000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,civic hatcback,2019,Bensin,62.5,Automatic,362000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,civic hatcback,2019,Bensin,62.5,Automatic,362000000,Cempaka Putih, Jakarta Pusat,2.5
+honda,hr-v,2023,Bensin,87.5,Automatic,365000000,Tanah Sereal, Bogor Kota,1.25
+honda,cr-v,2017,Bensin,87.5,Automatic,366000000,Jatinegara, Jakarta Timur,1.25
+honda,civic,2018,Bensin,62.5,Automatic,366000000,Grogol Petamburan, Jakarta Barat,1.75
+honda,civic,2018,Bensin,62.5,Automatic,366000000,Grogol Petamburan, Jakarta Barat,1.75
+honda,cr-v,2021,Bensin,162.5,Automatic,367000000,Bogor Tengah - Kota, Bogor Kota,1.25
+honda,cr-v,2019,Bensin,72.5,Automatic,367000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,cr-v,2019,Bensin,72.5,Automatic,367000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,hr-v,2024,Bensin,2.5,Automatic,369200000,Cilandak, Jakarta Selatan,1.25
+honda,hr-v,2024,Bensin,2.5,Automatic,369200000,Cilandak, Jakarta Selatan,1.25
+honda,cr-v,2020,Bensin,32.5,Automatic,370000000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,cr-v,2020,Bensin,32.5,Automatic,370000000,Pondok Aren, Tangerang Selatan Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Bekasi Barat, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Jati Sampurna, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Bekasi Barat, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Bekasi Barat, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Bekasi Barat, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Jati Sampurna, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Bekasi Barat, Bekasi Kota,1.25
+honda,cr-v,2018,Bensin,97.5,Automatic,374000000,Bekasi Barat, Bekasi Kota,1.25
+honda,hr-v,2024,Bensin,2.5,Automatic,375000000,Tanjung Priok, Jakarta Utara,1.75
+honda,hr-v,2024,Bensin,2.5,Automatic,375000000,Kelapa Gading, Jakarta Utara,1.75
+honda,hr-v,2024,Bensin,2.5,Automatic,375000000,Tanjung Priok, Jakarta Utara,1.75
+honda,hr-v,2024,Bensin,2.5,Automatic,375000000,Kelapa Gading, Jakarta Utara,1.75
+honda,cr-v,2019,Bensin,92.5,Automatic,378000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,cr-v,2019,Bensin,92.5,Automatic,378000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,cr-v,2019,Bensin,47.5,Automatic,378000000,Cilandak, Jakarta Selatan,1.25
+honda,cr-v,2019,Bensin,47.5,Automatic,378000000,Cilandak, Jakarta Selatan,1.25
+honda,hr-v,2024,Bensin,2.5,Automatic,380000000,Cilandak, Jakarta Selatan,1.5
+honda,hr-v,2024,Bensin,2.5,Automatic,380000000,Cilandak, Jakarta Selatan,1.5
+honda,cr-v,2020,Bensin,67.5,Automatic,380250000,Limo, Depok Kota,1.25
+honda,cr-v,2020,Bensin,67.5,Automatic,380250000,Limo, Depok Kota,1.25
+honda,cr-v,2020,Bensin,27.5,Manual,381000000,Cinere, Depok Kota,1.25
+honda,cr-v,2020,Bensin,27.5,Manual,381000000,Cinere, Depok Kota,1.25
+honda,cr-v,2020,Bensin,97.5,Automatic,385000000,Bekasi Barat, Tangerang Selatan Kota,1.25
+honda,civic hatcback,2020,Bensin,22.5,Automatic,385250000,Limo, Depok Kota,2.5
+honda,civic hatcback,2020,Bensin,22.5,Automatic,385250000,Limo, Depok Kota,2.5
+honda,hr-v,2024,Bensin,22.5,Automatic,390000000,Bekasi Barat, Bekasi Kota,1.75
+honda,hr-v,2024,Bensin,22.5,Automatic,390000000,Bekasi Barat, Bekasi Kota,1.75
+honda,cr-v,2019,Bensin,37.5,Automatic,393000000,Duren Sawit, Jakarta Timur,1.25
+honda,cr-v,2019,Bensin,37.5,Automatic,393000000,Duren Sawit, Jakarta Timur,1.25
+honda,cr-v,2019,Bensin,37.5,Automatic,393000000,Duren Sawit, Jakarta Timur,1.25
+honda,cr-v,2019,Bensin,37.5,Automatic,393000000,Duren Sawit, Jakarta Timur,1.25
+honda,cr-v,2021,Bensin,102.5,Automatic,395000000,Bekasi Barat, Jakarta Selatan,1.25
+honda,civic hatcback,2021,Bensin,32.5,Automatic,399000000,Medan Satria, Bekasi Kota,2.5
+honda,civic hatcback,2021,Bensin,32.5,Automatic,399000000,Medan Satria, Bekasi Kota,2.5
+honda,hr-v,2022,Bensin,157.5,Automatic,420000000,Bekasi Barat, Bekasi Kota,1.25
+honda,accord,2020,Bensin,27.5,Automatic,428000000,Duren Sawit, Jakarta Timur,1.75
+honda,accord,2020,Bensin,27.5,Automatic,428000000,Duren Sawit, Jakarta Timur,1.75
+honda,accord,2020,Bensin,27.5,Automatic,435000000,Duren Sawit, Jakarta Timur,1.25
+honda,accord,2020,Bensin,27.5,Automatic,435000000,Duren Sawit, Jakarta Timur,1.25
+honda,accord,2019,Bensin,102.5,Automatic,438000000,Cilangkap, Jakarta Timur,1.25
+honda,accord,2019,Bensin,102.5,Automatic,438000000,Cilangkap, Jakarta Timur,1.25
+honda,cr-v,2021,Bensin,37.5,Automatic,449000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,cr-v,2021,Bensin,37.5,Automatic,449000000,Cempaka Putih, Jakarta Pusat,1.25
+honda,n-one,2022,Bensin,2.5,Automatic,450000000,Pancoran, Jakarta Selatan,1.25
+honda,n-one,2022,Bensin,2.5,Automatic,450000000,Pancoran, Jakarta Selatan,1.25
+honda,cr-v,2021,Bensin,47.5,Automatic,451000000,Jagakarsa, Jakarta Selatan,1.25
+honda,cr-v,2021,Bensin,47.5,Automatic,451000000,Jagakarsa, Jakarta Selatan,1.25
+honda,cr-v,2021,Bensin,52.5,Automatic,459000000,Kebayoran Lama, Jakarta Selatan,1.25
+honda,cr-v,2021,Bensin,52.5,Automatic,459000000,Kebayoran Lama, Jakarta Selatan,1.25
+honda,cr-v,2021,Bensin,22.5,Automatic,459000000,Kelapa Gading, Jakarta Utara,1.25
+honda,cr-v,2021,Bensin,22.5,Automatic,459000000,Kelapa Gading, Jakarta Utara,1.25
+honda,cr-v,2022,Bensin,7.5,Automatic,470000000,Mampang Prapatan, Jakarta Selatan,1.25
+honda,cr-v,2022,Bensin,7.5,Automatic,470000000,Pesanggrahan, Jakarta Selatan,1.25
+honda,cr-v,2022,Bensin,7.5,Automatic,470000000,Pancoran, Jakarta Selatan,1.25
+honda,cr-v,2022,Bensin,7.5,Automatic,470000000,Mampang Prapatan, Jakarta Selatan,1.25
+honda,cr-v,2022,Bensin,7.5,Automatic,470000000,Pesanggrahan, Jakarta Selatan,1.25
+honda,cr-v,2022,Bensin,7.5,Automatic,470000000,Pancoran, Jakarta Selatan,1.25
+honda,accord,2022,Bensin,22.5,Automatic,472000000,Kelapa Gading, Jakarta Utara,1.75
+honda,accord,2022,Bensin,22.5,Automatic,472000000,Kelapa Gading, Jakarta Utara,1.75
+honda,cr-v,2022,Bensin,47.5,Automatic,490000000,Kebayoran Lama, Jakarta Selatan,1.25
+honda,cr-v,2022,Bensin,47.5,Automatic,490000000,Kebayoran Lama, Jakarta Selatan,1.25
+honda,civic hatcback,2022,Bensin,21.5,Automatic,495000000,Beji, Depok Kota,2.5
+honda,civic hatcback,2022,Bensin,21.5,Automatic,495000000,Beji, Depok Kota,2.5
+honda,odyssey,2019,Bensin,42.5,Automatic,499000000,Bekasi Barat, Bekasi Kota,1.25
+honda,odyssey,2019,Bensin,42.5,Automatic,499000000,Bekasi Barat, Bekasi Kota,1.25
+honda,accord,2020,Bensin,32.5,Automatic,514000000,Jatinegara, Jakarta Timur,1.75
+honda,accord,2020,Bensin,32.5,Automatic,514000000,Jatinegara, Jakarta Timur,1.75
+honda,civic hatcback,2023,Bensin,22.5,Automatic,559000000,Bekasi Barat, Bekasi Kota,2.5
+honda,civic hatcback,2023,Bensin,22.5,Automatic,559000000,Bekasi Barat, Bekasi Kota,2.5
+honda,civic hatcback,2024,Bensin,2.5,Automatic,580000000,Kelapa Gading, Jakarta Utara,2.5
+honda,civic hatcback,2024,Bensin,2.5,Automatic,580000000,Kelapa Gading, Jakarta Utara,2.5
+honda,civic hatcback,2024,Bensin,2.5,Automatic,590000000,Cilandak, Jakarta Selatan,2.5
+honda,civic hatcback,2024,Bensin,2.5,Automatic,590000000,Cilandak, Jakarta Selatan,2.5
+honda,cr-v,2023,Bensin,2.5,Automatic,780000000,Cilandak, Jakarta Selatan,1.25
+honda,cr-v,2023,Bensin,2.5,Automatic,780000000,Kelapa Gading, Jakarta Utara,1.25
+honda,cr-v,2023,Bensin,2.5,Automatic,780000000,Cilandak, Jakarta Selatan,1.25
+honda,cr-v,2023,Bensin,2.5,Automatic,780000000,Kelapa Gading, Jakarta Utara,1.25
+honda,civic hatcback type-r,2018,Bensin,7.5,Manual,895000000,Sukmajaya, Depok Kota,2.5
+honda,civic hatcback type-r,2018,Bensin,7.5,Manual,895000000,Sukmajaya, Depok Kota,2.5
+hyundai,creta,2022,Bensin,42.5,Manual,229000000,Tanjung Karang Pusat, Bandar Lampung Kota,1.75
+hyundai,stargazer x,2021,Bensin,37.5,Automatic,242500000,Gubeng, Surabaya Kota,1.25
+hyundai,stargazer x,2023,Bensin,12.5,Automatic,253000000,Pondok Aren, Tangerang Selatan Kota,1.25
+hyundai,creta,2024,Bensin,67.5,Automatic,259900000,Duren Sawit, Jakarta Timur,1.75
+hyundai,creta,2022,Bensin,82.5,Automatic,269000000,Tebet, Jakarta Selatan,1.75
+hyundai,creta,2022,Bensin,82.5,Automatic,270000000,Makasar, Jakarta Timur,1.75
+hyundai,stargazer x,2023,Bensin,82.5,Automatic,273000000,Tanah Abang, Jakarta Pusat,1.75
+hyundai,stargazer x,2023,Bensin,12.5,Automatic,275000000,Ciputat Timur, Tangerang Selatan Kota,1.25
+hyundai,stargazer x,2023,Bensin,12.5,Automatic,275000000,Ciputat, Tangerang Selatan Kota,1.25
+hyundai,h-1,2018,Bensin,12.5,Automatic,278000000,Pondok Aren, Tangerang Selatan Kota,1.25
+hyundai,creta,2022,Bensin,102.5,Automatic,285000000,Duren Sawit, Jakarta Timur,1.75
+hyundai,stargazer,2024,Bensin,107.5,Automatic,285900000,Duren Sawit, Jakarta Timur,1.75
+hyundai,creta,2022,Bensin,107.5,Automatic,287000000,Kemayoran, Jakarta Pusat,1.75
+hyundai,creta,2022,Bensin,107.5,Automatic,288000000,Kemayoran, Jakarta Pusat,1.75
+hyundai,creta,2022,Bensin,12.5,Automatic,295000000,Duren Sawit, Jakarta Timur,2.5
+hyundai,creta,2023,Bensin,7.5,Automatic,295000000,Tebet, Jakarta Selatan,2.5
+hyundai,creta,2022,Bensin,42.5,Automatic,315000000,Tanah Sereal, Bogor Kota,2.5
+hyundai,creta,2022,Bensin,17.5,Automatic,315000000,Grogol Petamburan, Jakarta Barat,2.5
+hyundai,creta,2022,Bensin,17.5,Automatic,315000000,Grogol Petamburan, Jakarta Barat,2.5
+hyundai,h1,2017,Diesel,47.5,Automatic,320000000,Kemayoran, Jakarta Pusat,2.5
+hyundai,h1,2017,Diesel,47.5,Automatic,320000000,Kemayoran, Jakarta Pusat,2.5
+hyundai,stargazer,2024,Bensin,12.5,Automatic,321800000,Bekasi Barat, Bekasi Kota,2.5
+hyundai,stargazer,2024,Bensin,12.5,Automatic,321800000,Bekasi Barat, Bekasi Kota,2.5
+hyundai,palisade,2021,Diesel,62.5,Automatic,350000000,Bekasi Barat, Bekasi Kota,2.5
+hyundai,creta,2024,Bensin,92.5,Automatic,368000000,Bekasi Selatan, Bekasi Kota,2.5
+hyundai,kona,2021,Bensin,107.5,Automatic,399000000,Bogor Barat - Kota, Bogor Kota,2.5
+hyundai,h1,2020,Diesel,47.5,Automatic,459500000,Bekasi Barat, Bekasi Kota,1.25
+hyundai,h1,2020,Diesel,47.5,Automatic,459500000,Bekasi Barat, Bekasi Kota,1.25
+hyundai,ioniq 5,2022,Bensin,167.5,Automatic,480000000,Rawalumbu, Bekasi Kota,2.5
+hyundai,santa fe,2022,Bensin,17.5,Automatic,496000000,Bekasi Utara, Bekasi Kota,1.25
+hyundai,santa fe,2022,Bensin,17.5,Automatic,496000000,Bekasi Utara, Bekasi Kota,1.25
+hyundai,ioniq 5,2022,Listrik,32.5,Automatic,585000000,Cilandak, Jakarta Selatan,1.25
+hyundai,ioniq 5,2022,Listrik,32.5,Automatic,585000000,Cilandak, Jakarta Selatan,1.25
+hyundai,palisade,2023,Diesel,37.5,Automatic,604000000,Kebayoran Baru, Bekasi Kota,2.5
+hyundai,palisade,2021,Diesel,52.5,Automatic,640000000,Kemayoran, Jakarta Pusat,1.25
+hyundai,palisade,2021,Diesel,52.5,Automatic,640000000,Kemayoran, Jakarta Pusat,1.25
+hyundai,palisade,2024,Diesel,97.5,Automatic,675000000,Bekasi Selatan, Bekasi Kota,2.5
+hyundai,ioniq 5,2023,Bensin,262.5,Automatic,685000000,Bogor Tengah - Kota, Bogor Kota,2.5
+hyundai,palisade,2021,Diesel,302.5,Automatic,720000000,Bogor Selatan - Kota, Bogor Kota,2.5
+isuzu,traga,2019,Diesel,12.5,Manual,165000000,Semarang Tengah, Semarang Kota,1.25
+isuzu,mux,2019,Diesel,57.5,Manual,253000000,Gubeng, Surabaya Kota,1.25
+isuzu,mux,2019,Diesel,62.5,Automatic,254000000,Duren Sawit, Jakarta Timur,1.75
+isuzu,mux,2019,Diesel,77.5,Manual,265000000,Duren Sawit, Jakarta Timur,1.75
+isuzu,mu-x,2014,Diesel,77.5,Automatic,265000000,Sukarame, Bandar Lampung Kota,1.75
+isuzu,elf,2022,Diesel,92.5,Manual,280000000,Rajabasa, Bandar Lampung Kota,1.75
+isuzu,elf,2019,Diesel,92.5,Automatic,370000000,Pondok Aren, Bekasi Kota,2.5
+jeep,wrangler,2019,Bensin,42.5,Automatic,860000000,Bekasi Barat, Bekasi Kota,2.5
+jeep,rubicon,2023,Bensin,7.5,Automatic,970000000,Kelapa Gading, Jakarta Utara,2.5
+kia,sportage,2013,Bensin,12.5,Automatic,148000000,Medan Satria, Bekasi Kota,1.75
+kia,sorento,2014,Bensin,27.5,Automatic,169000000,Duren Sawit, Jakarta Timur,1.25
+kia,seltos,2020,Bensin,17.5,Automatic,250000000,Serpong, Tangerang Selatan Kota,1.25
+lexus,rx350,2010,Bensin,77.5,Automatic,265000000,Sukabumi, Bandar Lampung Kota,1.75
+lexus,es300h,2019,Bensin,62.5,Automatic,350000000,Bekasi Barat, Bekasi Kota,2.5
+lexus,lm350,2020,Bensin,157.5,Automatic,459000000,Jagakarsa, Bekasi Kota,2.5
+lexus,rx 300,2018,Bensin,17.5,Automatic,799000000,Kelapa Gading, Jakarta Utara,2.5
+lexus,rx300,2018,Bensin,17.5,Automatic,799000000,Kelapa Gading, Jakarta Utara,2.5
+lexus,rx200t,2017,Bensin,7.5,Automatic,815000000,Sawah Besar, Jakarta Pusat,1.75
+lexus,rx200t,2017,Bensin,7.5,Automatic,815000000,Sawah Besar, Jakarta Pusat,1.75
+lexus,rx200t,2017,Bensin,52.5,Automatic,825000000,Kemayoran, Jakarta Pusat,1.75
+lexus,rx200t,2017,Bensin,52.5,Automatic,825000000,Kemayoran, Jakarta Pusat,1.75
+lexus,lm 350,2020,Bensin,22.5,Automatic,1400000000,Pademangan, Jakarta Utara,1.75
+lexus,lm 350,2020,Bensin,17.5,Automatic,1400000000,Kebayoran Baru, Jakarta Selatan,1.75
+mazda,biante,2013,Bensin,142.5,Automatic,135000000,Kemayoran, Jakarta Pusat,1.25
+mazda,mazda 2,2015,Bensin,152.5,Automatic,138000000,Kemayoran, Jakarta Pusat,1.25
+mazda,mazda 2,2017,Bensin,37.5,Automatic,206000000,Blimbing, Malang Kota,1.25
+mazda,mazda 2,2019,Bensin,32.5,Automatic,210000000,Taman, Sidoarjo  Kab.,1.25
+mazda,mazda 2,2018,Bensin,37.5,Automatic,211000000,Blimbing, Malang Kota,1.25
+mazda,cx-30,2018,Bensin,12.5,Automatic,252000000,Pondok Aren, Tangerang Selatan Kota,1.25
+mazda,mazda 2,2021,Bensin,62.5,Automatic,255000000,Cempaka Putih, Jakarta Pusat,1.75
+mazda,cx-3,2019,Bensin,67.5,Automatic,257000000,Cempaka Putih, Jakarta Pusat,1.75
+mazda,cx-mazda 3,2019,Bensin,67.5,Automatic,257000000,Cempaka Putih, Jakarta Pusat,1.75
+mazda,cx-3,2019,Bensin,12.5,Automatic,257000000,Kebon Jeruk, Jakarta Barat,1.25
+mazda,cx-3,2017,Bensin,67.5,Automatic,260000000,Gubeng, Surabaya Kota,1.25
+mazda,cx-3,2018,Bensin,12.5,Automatic,260000000,Ciputat, Tangerang Selatan Kota,1.25
+mazda,mazda 3,2019,Bensin,77.5,Automatic,265000000,Gunung Putri, Bogor Kab.,1.75
+mazda,mazda 3,2019,Bensin,77.5,Automatic,265000000,Cilandak, Jakarta Selatan,1.75
+mazda,mazda 2,2022,Bensin,72.5,Automatic,265000000,Kemayoran, Jakarta Pusat,1.75
+mazda,mazda 2,2022,Bensin,72.5,Automatic,265000000,Duren Sawit, Jakarta Timur,1.75
+mazda,mazda 2,2022,Bensin,12.5,Automatic,271000000,Grogol Petamburan, Jakarta Barat,1.25
+mazda,cx-3,2017,Bensin,62.5,Automatic,275000000,Mulyorejo, Surabaya Kota,1.25
+mazda,mazda 2,2022,Bensin,97.5,Automatic,281000000,Cempaka Putih, Jakarta Pusat,1.75
+mazda,cx-3,2021,Bensin,117.5,Automatic,289000000,Senen, Jakarta Pusat,1.75
+mazda,cx-3,2021,Bensin,117.5,Automatic,289000000,Tebet, Jakarta Selatan,1.75
+mazda,cx-mazda 3,2021,Bensin,117.5,Automatic,289000000,Duren Sawit, Jakarta Timur,1.75
+mazda,cx-mazda 3,2021,Bensin,117.5,Automatic,289000000,Tebet, Jakarta Selatan,1.75
+mazda,cx-3,2022,Bensin,132.5,Automatic,290000000,Tomang, Jakarta Barat,1.75
+mazda,cx-3,2020,Bensin,67.5,Automatic,295000000,Gubeng, Surabaya Kota,1.25
+mazda,cx-30,2020,Bensin,12.5,Automatic,295000000,Pondok Aren, Tangerang Selatan Kota,1.25
+mazda,mazda 3,2018,Bensin,42.5,Manual,310000000,Cempaka Putih, Jakarta Pusat,2.5
+mazda,mazda 3,2018,Bensin,27.5,Manual,325000000,Cempaka Putih, Jakarta Pusat,2.5
+mazda,mazda 3,2018,Bensin,27.5,Manual,325000000,Cempaka Putih, Jakarta Pusat,2.5
+mazda,mazda 3,2018,Bensin,197.5,Automatic,330000000,Bekasi Utara, Jakarta Pusat,2.5
+mazda,cx-5,2018,Bensin,77.5,Automatic,337000000,Pasar Minggu, Jakarta Selatan,2.5
+mazda,cx-5,2018,Bensin,77.5,Automatic,337000000,Pasar Minggu, Jakarta Selatan,2.5
+mazda,mazda 3,2019,Bensin,102.5,Automatic,395000000,Bogor Tengah - Kota, Bogor Kota,2.5
+mazda,mazda 6,2018,Bensin,132.5,Automatic,420000000,Jatiasih, Bekasi Kota,2.5
+mazda,mazda 6,2018,Bensin,127.5,Automatic,420000000,Cibubur, Jakarta Timur,2.5
+mazda,mazda 6,2018,Bensin,37.5,Automatic,420000000,Tanjung Priok, Jakarta Utara,1.75
+mazda,mazda 6,2018,Bensin,37.5,Automatic,420000000,Tanjung Priok, Jakarta Utara,1.75
+mazda,cx-8,2019,Bensin,37.5,Automatic,436000000,Cipayung, Depok Kota,1.25
+mazda,cx-8,2019,Bensin,37.5,Automatic,436000000,Cipayung, Depok Kota,1.25
+mazda,cx-9,2018,Bensin,152.5,Automatic,455000000,Bogor Selatan - Kota, Bogor Kota,2.5
+mazda,cx-8,2021,Bensin,157.5,Automatic,460000000,Bogor Selatan - Kota, Bogor Kota,2.5
+mazda,mx-5,2019,Bensin,7.5,Automatic,720000000,Pademangan, Jakarta Utara,1.25
+mazda,mx-5,2019,Bensin,7.5,Automatic,720000000,Pademangan, Jakarta Utara,1.25
+mercedes-benz,c250,2012,Bensin,52.5,Automatic,235000000,Rajabasa, Bandar Lampung Kota,1.75
+mercedes-benz,e250,2018,Bensin,37.5,Manual,305000000,Bekasi Barat, Bekasi Kota,2.5
+mercedes-benz,gla200,2015,Bensin,42.5,Automatic,340000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,gla-class,2022,Bensin,62.5,Automatic,350000000,Medan Satria, Bekasi Kota,2.5
+mercedes-benz,cla200,2014,Bensin,17.5,Automatic,360000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,c300,2019,Bensin,77.5,Automatic,362000000,Bekasi Utara, Bekasi Kota,2.5
+mercedes-benz,c200,2016,Bensin,67.5,Automatic,369000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,gla200,2015,Bensin,32.5,Automatic,369000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,gla200,2017,Bensin,92.5,Automatic,389000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,ml400,2018,Bensin,92.5,Automatic,395000000,Cilodong, Depok Kota,1.25
+mercedes-benz,ml400,2018,Bensin,92.5,Automatic,395000000,Cilodong, Depok Kota,1.25
+mercedes-benz,e250,2014,Bensin,17.5,Automatic,395000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,cla200,2019,Bensin,112.5,Automatic,403000000,Tebet, Bekasi Kota,2.5
+mercedes-benz,c250,2017,Bensin,52.5,Automatic,415000000,Beji, Depok Kota,1.25
+mercedes-benz,c250,2017,Bensin,52.5,Automatic,415000000,Beji, Depok Kota,1.25
+mercedes-benz,c250,2015,Bensin,42.5,Automatic,425000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,gla200,2018,Bensin,37.5,Automatic,435000000,Bekasi Selatan, Bekasi Kota,1.25
+mercedes-benz,gla200,2018,Bensin,37.5,Automatic,435000000,Bekasi Selatan, Bekasi Kota,1.25
+mercedes-benz,c200,2016,Bensin,47.5,Automatic,450000000,Mampang Prapatan, Jakarta Selatan,1.75
+mercedes-benz,c250,2017,Bensin,77.5,Automatic,454000000,Duren Sawit, Jakarta Timur,1.25
+mercedes-benz,c250,2017,Bensin,77.5,Automatic,454000000,Duren Sawit, Jakarta Timur,1.25
+mercedes-benz,c250,2017,Bensin,77.5,Automatic,454000000,Duren Sawit, Jakarta Timur,1.75
+mercedes-benz,c250,2017,Bensin,77.5,Automatic,454000000,Duren Sawit, Jakarta Timur,1.75
+mercedes-benz,c200,2018,Bensin,72.5,Automatic,455000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,cla200,2018,Bensin,42.5,Automatic,478000000,Cilandak, Jakarta Selatan,1.25
+mercedes-benz,cla200,2018,Bensin,42.5,Automatic,478000000,Cilandak, Jakarta Selatan,1.25
+mercedes-benz,cla200,2018,Bensin,42.5,Automatic,478000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,a200,2019,Bensin,22.5,Automatic,485000000,Sukmajaya, Depok Kota,1.25
+mercedes-benz,a200,2019,Bensin,22.5,Automatic,485000000,Sukmajaya, Depok Kota,1.25
+mercedes-benz,e250,2016,Bensin,52.5,Automatic,485000000,Pesanggrahan, Jakarta Selatan,1.75
+mercedes-benz,cla200,2019,Bensin,22.5,Automatic,495000000,Mampang Prapatan, Jakarta Selatan,1.75
+mercedes-benz,gle400,2017,Bensin,37.5,Automatic,499000000,Kebayoran Baru, Jakarta Selatan,1.25
+mercedes-benz,gle400,2017,Bensin,37.5,Automatic,499000000,Kebayoran Baru, Jakarta Selatan,1.25
+mercedes-benz,gle400,2017,Bensin,17.5,Automatic,499000000,Kebayoran Baru, Jakarta Selatan,1.25
+mercedes-benz,gle400,2017,Bensin,17.5,Automatic,499000000,Kelapa Gading, Jakarta Utara,1.25
+mercedes-benz,gle400,2017,Bensin,17.5,Automatic,499000000,Kebayoran Baru, Jakarta Selatan,1.25
+mercedes-benz,gle400,2017,Bensin,17.5,Automatic,499000000,Kelapa Gading, Jakarta Utara,1.25
+mercedes-benz,c200,2019,Bensin,22.5,Automatic,530000000,Mampang Prapatan, Jakarta Selatan,1.75
+mercedes-benz,c200,2018,Bensin,32.5,Automatic,550000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,e250,2017,Bensin,22.5,Automatic,550000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,c300,2019,Bensin,22.5,Automatic,555000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,cla300,2018,Bensin,37.5,Automatic,565000000,Kelapa Gading, Jakarta Utara,1.25
+mercedes-benz,cla300,2018,Bensin,37.5,Automatic,565000000,Kelapa Gading, Jakarta Utara,1.25
+mercedes-benz,glc200,2018,Bensin,22.5,Automatic,579000000,Kebayoran Baru, Jakarta Selatan,1.25
+mercedes-benz,glc200,2018,Bensin,22.5,Automatic,579000000,Kebayoran Baru, Jakarta Selatan,1.25
+mercedes-benz,e300,2016,Bensin,32.5,Automatic,599000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,glc200,2019,Bensin,27.5,Automatic,610000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,cla300,2018,Bensin,7.5,Automatic,620000000,Bekasi Barat, Bekasi Kota,1.25
+mercedes-benz,cla300,2018,Bensin,7.5,Automatic,620000000,Bekasi Barat, Bekasi Kota,1.25
+mercedes-benz,c300,2018,Bensin,7.5,Automatic,620000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,cla200,2019,Bensin,22.5,Automatic,634000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,cla200,2019,Bensin,22.5,Automatic,634000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,cla200,2019,Bensin,37.5,Automatic,635000000,Bekasi Selatan, Bekasi Kota,1.25
+mercedes-benz,cla200,2019,Bensin,37.5,Automatic,635000000,Bekasi Selatan, Bekasi Kota,1.25
+mercedes-benz,cla300,2019,Bensin,32.5,Automatic,640000000,Bekasi Barat, Bekasi Kota,1.75
+mercedes-benz,cla300,2019,Bensin,32.5,Automatic,640000000,Bekasi Barat, Bekasi Kota,1.75
+mercedes-benz,cla200,2021,Bensin,27.5,Automatic,660000000,Tanjung Priok, Jakarta Utara,1.25
+mercedes-benz,cla200,2021,Bensin,27.5,Automatic,660000000,Tanjung Priok, Jakarta Utara,1.25
+mercedes-benz,glc200,2019,Bensin,12.5,Automatic,665000000,Pademangan, Jakarta Utara,1.25
+mercedes-benz,glc200,2019,Bensin,12.5,Automatic,665000000,Pademangan, Jakarta Utara,1.25
+mercedes-benz,glc200,2019,Bensin,22.5,Automatic,675000000,Kebayoran Lama, Jakarta Selatan,1.75
+mercedes-benz,s400l,2017,Bensin,32.5,Automatic,683000000,Kebayoran Lama, Jakarta Selatan,1.75
+mercedes-benz,c300,2019,Bensin,32.5,Automatic,685000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,cla200,2019,Bensin,2.5,Automatic,695000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,e300,2018,Bensin,42.5,Automatic,705000000,Bekasi Selatan, Bekasi Kota,1.25
+mercedes-benz,e300,2018,Bensin,42.5,Automatic,705000000,Bekasi Selatan, Bekasi Kota,1.25
+mercedes-benz,e350,2019,Bensin,27.5,Automatic,715000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,e300,2018,Bensin,17.5,Automatic,725000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,gle400,2017,Bensin,72.5,Automatic,750000000,Bogor Barat - Kota, Bogor Kota,2.5
+mercedes-benz,c-class,2020,Bensin,142.5,Automatic,790000000,Bogor Selatan - Kota, Bogor Kota,2.5
+mercedes-benz,e300,2019,Bensin,22.5,Automatic,792000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,e200,2022,Bensin,12.5,Automatic,820000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,e200,2022,Bensin,12.5,Automatic,820000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,e350,2019,Bensin,12.5,Automatic,820000000,Pasar Baru, Jakarta Pusat,1.75
+mercedes-benz,e350,2019,Bensin,12.5,Automatic,820000000,Pasar Baru, Jakarta Pusat,1.75
+mercedes-benz,c200,2023,Bensin,22.5,Automatic,845000000,Beji, Depok Kota,1.75
+mercedes-benz,c200,2023,Bensin,22.5,Automatic,845000000,Beji, Depok Kota,1.75
+mercedes-benz,a35 amg,2022,Bensin,7.5,Automatic,856000000,Mampang Prapatan, Jakarta Selatan,1.75
+mercedes-benz,cla200,2023,Bensin,2.5,Automatic,875000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,c300,2023,Bensin,2.5,Automatic,922000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,c300,2023,Bensin,7.5,Automatic,999000000,Kebayoran Lama, Jakarta Selatan,1.75
+mercedes-benz,e300,2023,Bensin,12.5,Automatic,1160000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,c300,2024,Bensin,2.5,Automatic,1220000000,Kebayoran Lama, Jakarta Selatan,1.75
+mercedes-benz,gle450,2020,Bensin,42.5,Automatic,1225000000,Sukmajaya, Depok Kota,1.75
+mercedes-benz,gle450,2021,Bensin,22.5,Automatic,1290000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,v250,2021,Bensin,12.5,Automatic,1291000000,Kebayoran Baru, Jakarta Selatan,1.75
+mercedes-benz,v250,2021,Bensin,12.5,Automatic,1291000000,Cilandak, Jakarta Selatan,1.75
+mercedes-benz,gle450,2021,Bensin,37.5,Automatic,1295000000,Pesanggrahan, Jakarta Selatan,1.75
+mercedes-benz,gle450,2021,Bensin,37.5,Automatic,1295000000,Pasar Baru, Jakarta Pusat,1.75
+mg,hs,2021,Bensin,77.5,Automatic,267000000,Cempaka Putih, Jakarta Pusat,1.75
+mg,hs,2021,Bensin,87.5,Automatic,275000000,Cempaka Putih, Jakarta Pusat,1.75
+mg,hs,2021,Bensin,87.5,Automatic,275000000,Tebet, Jakarta Selatan,1.75
+mg,hs,2021,Bensin,87.5,Automatic,275000000,Duren Sawit, Jakarta Timur,1.75
+mg,hs,2021,Bensin,167.5,Automatic,290000000,Setia Budi, Jakarta Selatan,1.75
+mg,hs,2021,Bensin,162.5,Automatic,290000000,Tebet, Jakarta Selatan,1.75
+mg,hs,2021,Bensin,162.5,Automatic,290000000,Kemayoran, Jakarta Pusat,1.75
+mg,hs,2021,Bensin,162.5,Automatic,290000000,Cempaka Putih, Jakarta Pusat,1.75
+mg,hs,2021,Bensin,177.5,Automatic,389000000,Bekasi Barat, Bekasi Kota,2.5
+mini cooper,cooper s countryman,2017,Bensin,182.5,Automatic,500000000,Bogor Tengah - Kota, Bogor Kota,2.5
+mini cooper,cooper,1990,Bensin,12.5,Automatic,569000000,Kebayoran Baru, Jakarta Selatan,1.25
+mini cooper,cooper s countryman,2023,Bensin,2.5,Automatic,835000000,Tanjung Priok, Jakarta Utara,1.75
+mini cooper,cooper s countryman,2023,Bensin,2.5,Automatic,835000000,Tanjung Priok, Jakarta Utara,1.75
+mini cooper cooper,cooper,1990,Bensin,12.5,Automatic,569000000,Kebayoran Baru, Jakarta Selatan,1.25
+mitsubishi,colt t120ss,2018,Bensin,72.5,Manual,90000000,Klari, Karawang Kab.,1.25
+mitsubishi,outlander,2017,Bensin,112.5,Manual,125000000,Cikarang Utara, Bekasi Kab.,1.25
+mitsubishi,outlander sport,2014,Bensin,7.5,Automatic,145000000,Setia Budi, Jakarta Selatan,1.75
+mitsubishi,strada triton,2018,Diesel,2.5,Manual,154000000,Gayamsari, Semarang Kota,1.25
+mitsubishi,colt I300,2023,Diesel,12.5,Manual,179000000,Semarang Tengah, Semarang Kota,1.25
+mitsubishi,xpander,2017,Bensin,2.5,Manual,180000000,Semarang Selatan, Semarang Kota,1.25
+mitsubishi,xpander,2018,Bensin,7.5,Manual,185000000,Pedurungan, Semarang Kota,1.25
+mitsubishi,xpander,2020,Bensin,12.5,Automatic,197000000,Semarang Selatan, Semarang Kota,1.25
+mitsubishi,xpander,2020,Bensin,2.5,Automatic,197000000,Karang Kidul, Semarang Kota,1.25
+mitsubishi,xpander,2018,Bensin,12.5,Automatic,198000000,Semarang Tengah, Semarang Kota,1.25
+mitsubishi,pajero sport,2009,Diesel,22.5,Automatic,200000000,Enggal, Bandar Lampung Kota,1.75
+mitsubishi,pajero sport,2010,Diesel,22.5,Automatic,200000000,Tanjung Karang Pusat, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2017,Bensin,17.5,Automatic,200000000,Enggal, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2018,Bensin,17.5,Automatic,200000000,Enggal, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2018,Bensin,2.5,Automatic,200000000,Semarang Timur, Semarang Kota,1.25
+mitsubishi,xpander,2018,Bensin,22.5,Automatic,204000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2018,Bensin,32.5,Automatic,207500000,Sukodono, Sidoarjo  Kab.,1.25
+mitsubishi,xpander,2018,Bensin,27.5,Automatic,209000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2018,Bensin,37.5,Automatic,210000000,Sambikerep, Surabaya Kota,1.25
+mitsubishi,xpander,2018,Bensin,32.5,Automatic,210000000,Way Halim, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2018,Bensin,32.5,Automatic,210000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2019,Bensin,32.5,Automatic,210500000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2019,Bensin,32.5,Automatic,211000000,Dinoyo, Malang Kota,1.25
+mitsubishi,xpander,2018,Bensin,32.5,Automatic,214000000,Metro Pusat, Metro Kota,1.75
+mitsubishi,xpander,2019,Bensin,42.5,Automatic,215000000,Buduran, Sidoarjo  Kab.,1.25
+mitsubishi,xpander,2018,Bensin,32.5,Automatic,218000000,Way Halim, Bandar Lampung Kota,1.75
+mitsubishi,pajero sport,2012,Diesel,37.5,Automatic,220000000,Way Halim, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2018,Bensin,32.5,Automatic,220000000,Metro Barat, Metro Kota,1.75
+mitsubishi,xpander,2019,Bensin,37.5,Automatic,222000000,Rajabasa, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2019,Bensin,37.5,Automatic,222500000,Sidoarjo, Sidoarjo  Kab.,1.25
+mitsubishi,xpander,2019,Bensin,37.5,Automatic,223000000,Kedaton, Bandar Lampung Kota,1.75
+mitsubishi,pajero sport,2012,Diesel,42.5,Automatic,225000000,Rajabasa, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2019,Bensin,47.5,Automatic,233000000,Way Halim, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2021,Bensin,47.5,Automatic,233000000,Way Halim, Bandar Lampung Kota,1.75
+mitsubishi,triton,2017,Diesel,57.5,Manual,235000000,Samarinda Kota, Samarinda Kota,1.25
+mitsubishi,xpander,2021,Bensin,37.5,Automatic,235500000,Wonokromo, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,52.5,Automatic,237000000,Way Halim, Bandar Lampung Kota,1.75
+mitsubishi,pajero sport,2012,Diesel,52.5,Automatic,238000000,Kedamaian, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2020,Bensin,52.5,Automatic,238000000,Kedaton, Bandar Lampung Kota,1.75
+mitsubishi,pajero sport,2012,Diesel,52.5,Automatic,240000000,Sukarame, Bandar Lampung Kota,1.75
+mitsubishi,triton,2018,Diesel,57.5,Manual,245000000,Samarinda Kota, Samarinda Kota,1.25
+mitsubishi,pajero sport,2012,Diesel,52.5,Automatic,245000000,Seputih Mataram, Lampung Tengah Kab.,1.75
+mitsubishi,pajero sport,2013,Diesel,57.5,Automatic,249000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,52.5,Manual,249000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,67.5,Automatic,250000000,Kenjeran, Surabaya Kota,1.25
+mitsubishi,xpander,2019,Bensin,67.5,Automatic,250000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,62.5,Automatic,250000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2021,Bensin,62.5,Automatic,250000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2023,Bensin,57.5,Automatic,250000000,Kemayoran, Jakarta Pusat,1.75
+mitsubishi,triton,2017,Diesel,17.5,Manual,250000000,Ilir Timur I, Palembang Kota,1.25
+mitsubishi,xpander,2023,Bensin,17.5,Automatic,250000000,Sako, Palembang Kota,1.25
+mitsubishi,pajero sport,2013,Diesel,67.5,Automatic,255000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,67.5,Automatic,255000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,62.5,Automatic,255000000,Tanjung Karang Pusat, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,62.5,Automatic,255000000,Tambora, Jakarta Barat,1.75
+mitsubishi,xpander,2020,Bensin,62.5,Automatic,255000000,Wonokromo, Surabaya Kota,1.25
+mitsubishi,xpander,2020,Bensin,62.5,Automatic,255000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2023,Bensin,12.5,Automatic,255000000,Cempaka Putih, Jakarta Pusat,1.25
+mitsubishi,xpander,2023,Bensin,12.5,Automatic,255000000,Ciputat, Tangerang Selatan Kota,1.25
+mitsubishi,pajero sport,2012,Diesel,67.5,Automatic,256000000,Natar, Lampung Selatan Kab.,1.75
+mitsubishi,xpander,2021,Bensin,67.5,Automatic,257000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2023,Bensin,67.5,Automatic,258000000,Kemayoran, Jakarta Pusat,1.75
+mitsubishi,xpander,2022,Bensin,57.5,Automatic,259000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,colt fe,2015,Diesel,72.5,Manual,260000000,Sukabumi, Bandar Lampung Kota,1.75
+mitsubishi,starada triton,2019,Diesel,72.5,Manual,260000000,Sungkai Selatan, Lampung Utara Kab.,1.75
+mitsubishi,xpander,2021,Bensin,67.5,Automatic,260000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2021,Bensin,62.5,Automatic,260000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2021,Bensin,57.5,Automatic,260000000,Tegalsari, Surabaya Kota,1.25
+mitsubishi,triton,2018,Diesel,27.5,Automatic,260000000,Prabumulih Timur, Prabumulih Kota,1.25
+mitsubishi,xpander,2022,Bensin,22.5,Automatic,260000000,Ilir Timur II, Palembang Kota,1.25
+mitsubishi,canter,2018,Diesel,17.5,Manual,260000000,Ilir Timur II, Palembang Kota,1.25
+mitsubishi,fe 71,2018,Diesel,17.5,Manual,260000000,Sako, Palembang Kota,1.25
+mitsubishi,xpander,2022,Bensin,17.5,Automatic,260000000,Serpong, Tangerang Selatan Kota,1.25
+mitsubishi,strada triton,2017,Diesel,27.5,Manual,262000000,Ilir Timur I, Palembang Kota,1.25
+mitsubishi,xpander,2021,Bensin,72.5,Automatic,262500000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,12.5,Automatic,264500000,Pondok Aren, Tangerang Selatan Kota,1.25
+mitsubishi,xpander,2023,Bensin,17.5,Manual,264800000,Ilir Timur I, Palembang Kota,1.25
+mitsubishi,pajero sport,2013,Bensin,77.5,Automatic,265000000,Way Halim, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,72.5,Automatic,265000000,Kemayoran, Jakarta Pusat,1.75
+mitsubishi,xpander,2022,Bensin,62.5,Automatic,265000000,Mulyorejo, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,62.5,Automatic,265000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,17.5,Automatic,265000000,Ilir Timur I, Palembang Kota,1.25
+mitsubishi,xpander,2022,Bensin,12.5,Automatic,265000000,Pondok Aren, Tangerang Selatan Kota,1.25
+mitsubishi,pajero sport,2014,Diesel,82.5,Automatic,267000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2023,Bensin,77.5,Automatic,267000000,Kemayoran, Jakarta Pusat,1.75
+mitsubishi,xpander,2022,Bensin,62.5,Automatic,267000000,Tambaksari, Surabaya Kota,1.25
+mitsubishi,xpander,2023,Bensin,82.5,Automatic,269000000,Duren Sawit, Jakarta Timur,1.75
+mitsubishi,xpander,2023,Bensin,82.5,Automatic,269000000,Makasar, Jakarta Timur,1.75
+mitsubishi,xpander,2022,Bensin,72.5,Automatic,270000000,Gubeng, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,57.5,Automatic,270000000,Wonokromo, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,67.5,Automatic,272000000,Mulyorejo, Surabaya Kota,1.25
+mitsubishi,xpander,2023,Bensin,12.5,Automatic,273000000,Pondok Aren, Tangerang Selatan Kota,1.25
+mitsubishi,pajero sport,2014,Diesel,87.5,Automatic,275000000,Rajabasa, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,87.5,Automatic,275000000,Sukabumi, Bandar Lampung Kota,1.75
+mitsubishi,triton,2019,Diesel,27.5,Manual,275000000,Sako, Palembang Kota,1.25
+mitsubishi,triton,2020,Diesel,27.5,Manual,275000000,Ilir Timur I, Palembang Kota,1.25
+mitsubishi,xpander,2021,Bensin,22.5,Automatic,275000000,Kalidoni, Palembang Kota,1.25
+mitsubishi,xpander,2022,Bensin,22.5,Automatic,275000000,Ilir Timur I, Palembang Kota,1.25
+mitsubishi,xpander,2023,Bensin,92.5,Automatic,277000000,Cempaka Putih, Jakarta Pusat,1.75
+mitsubishi,xpander,2022,Bensin,17.5,Automatic,277900000,Ilir Barat I, Palembang Kota,1.25
+mitsubishi,xpander,2021,Bensin,17.5,Automatic,278000000,Ilir Timur II, Palembang Kota,1.25
+mitsubishi,xpander,2023,Bensin,92.5,Automatic,279850000,Jatinegara, Jakarta Timur,1.75
+mitsubishi,pajero sport,2014,Diesel,97.5,Automatic,280000000,Tanjung Karang Pusat, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,92.5,Automatic,280000000,Kedamaian, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2021,Bensin,27.5,Automatic,280000000,Ilir Timur I, Palembang Kota,1.25
+mitsubishi,xpander,2021,Bensin,22.5,Automatic,280000000,Gandus, Palembang Kota,1.25
+mitsubishi,xpander,2022,Bensin,102.5,Automatic,285000000,Kedamaian, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2022,Bensin,62.5,Automatic,289000000,Mulyorejo, Surabaya Kota,1.25
+mitsubishi,xpander,2022,Bensin,132.5,Automatic,290000000,Bumi Waras, Bandar Lampung Kota,1.75
+mitsubishi,xpander,2019,Diesel,32.5,Manual,290000000,Tanggulangin, Sidoarjo  Kab.,1.25
+mitsubishi,pajero sport,2014,Diesel,2.5,Automatic,290000000,Kedamaian, Bandar Lampung Kota,2.5
+mitsubishi,pajero sport,2015,Diesel,2.5,Automatic,290000000,Enggal, Bandar Lampung Kota,2.5
+mitsubishi,xpander,2023,Bensin,27.5,Automatic,293000000,Ilir Barat I, Palembang Kota,1.25
+mitsubishi,xpander,2024,Bensin,7.5,Automatic,293700000,Kemayoran, Jakarta Pusat,2.5
+mitsubishi,xpander,2023,Bensin,17.5,Automatic,298000000,Ilir Barat I, Palembang Kota,1.25
+mitsubishi,eclipse cross,2020,Bensin,67.5,Automatic,300000000,HR Muhammad, Surabaya Kota,1.25
+mitsubishi,xpander,2023,Bensin,22.5,Automatic,300000000,Kertapati, Palembang Kota,1.25
+mitsubishi,xforce,2024,Bensin,2.5,Automatic,344900000,Kelapa Gading, Jakarta Utara,2.5
+mitsubishi,xforce,2024,Bensin,2.5,Automatic,344900000,Kelapa Gading, Jakarta Utara,2.5
+mitsubishi,colt,2021,Diesel,77.5,Manual,360000000,Bekasi Utara, Bekasi Kota,2.5
+mitsubishi,pajero sport,2017,Diesel,97.5,Automatic,385000000,Bogor Barat - Kota, Bogor Kota,2.5
+mitsubishi,pajero sport,2019,Diesel,97.5,Manual,385000000,Bekasi Barat, Jakarta Selatan,2.5
+mitsubishi,pajero sport,2017,Diesel,92.5,Automatic,398000000,Bekasi Barat, Bekasi Kota,0.5
+mitsubishi,pajero sport,2017,Diesel,92.5,Automatic,398000000,Bekasi Barat, Bekasi Kota,0.5
+mitsubishi,pajero sport,2018,Diesel,107.5,Automatic,400000000,Bogor Tengah - Kota, Bogor Kota,2.5
+mitsubishi,pajero sport,2022,Diesel,122.5,Automatic,414900900,Bekasi Selatan, Bekasi Kota,2.5
+mitsubishi,pajero sport,2020,Diesel,122.5,Automatic,414900900,Bekasi Barat, Bekasi Kota,2.5
+mitsubishi,pajero sport,2019,Diesel,122.5,Automatic,414900900,Bekasi Utara, Bekasi Kota,2.5
+mitsubishi,pajero sport,2022,Diesel,122.5,Automatic,414900900,Medan Satria, Bekasi Kota,2.5
+mitsubishi,pajero sport,2018,Diesel,137.5,Automatic,425000000,Bogor Tengah - Kota, Bogor Kota,2.5
+mitsubishi,pajero sport,2020,Diesel,42.5,Automatic,439000000,Pancoran, Jakarta Selatan,1.25
+mitsubishi,pajero sport,2020,Diesel,42.5,Automatic,439000000,Pancoran, Jakarta Selatan,1.25
+mitsubishi,pajero sport,2022,Diesel,142.5,Automatic,445000000,Bekasi Barat, Bekasi Kota,2.5
+mitsubishi,pajero sport,2022,Diesel,142.5,Automatic,445000000,Medan Satria, Bekasi Kota,2.5
+mitsubishi,pajero sport,2020,Diesel,62.5,Automatic,445000000,Medan Satria, Bekasi Kota,1.25
+mitsubishi,pajero sport,2020,Diesel,62.5,Automatic,445000000,Medan Satria, Bekasi Kota,1.25
+mitsubishi,triton,2023,Diesel,147.5,Automatic,451000000,Bogor Selatan - Kota, Bogor Kota,2.5
+mitsubishi,pajero sport,2021,Bensin,27.5,Automatic,467000000,Bekasi Barat, Bekasi Kota,1.75
+mitsubishi,pajero sport,2021,Bensin,27.5,Automatic,467000000,Bekasi Barat, Bekasi Kota,1.75
+mitsubishi,pajero sport,2021,Diesel,32.5,Automatic,469000000,Cempaka Putih, Jakarta Pusat,1.25
+mitsubishi,pajero sport,2021,Diesel,32.5,Automatic,469000000,Cempaka Putih, Jakarta Pusat,1.25
+mitsubishi,pajero sport,2022,Diesel,177.5,Automatic,495000000,Bogor Selatan - Kota, Bogor Kota,2.5
+mitsubishi,pajero sport,2022,Diesel,172.5,Automatic,495000000,Bogor Timur - Kota, Bogor Kota,2.5
+mitsubishi,pajero sport,2022,Diesel,47.5,Automatic,529000000,Bekasi Barat, Bekasi Kota,1.25
+mitsubishi,pajero sport,2022,Diesel,47.5,Automatic,529000000,Bekasi Barat, Bekasi Kota,1.25
+mitsubishi,pajero sport,2022,Diesel,52.5,Automatic,535000000,Rawalumbu, Bekasi Kota,1.25
+mitsubishi,pajero sport,2022,Diesel,52.5,Automatic,535000000,Rawalumbu, Bekasi Kota,1.25
+mitsubishi,pajero sport,2023,Diesel,197.5,Automatic,540000000,Bogor Tengah - Kota, Bogor Kota,2.5
+nissan,march,2017,Bensin,72.5,Manual,86000000,Cibubur, Jakarta Timur,1.25
+nissan,grand livina,2013,Bensin,87.5,Manual,100000000,Kemayoran, Jakarta Pusat,1.25
+nissan,grand livina,2013,Bensin,87.5,Manual,100000000,Medan Satria, Bekasi Kota,1.25
+nissan,x-trail,2010,Bensin,87.5,Automatic,100000000,Jatinegara, Jakarta Timur,1.25
+nissan,x-trail,2010,Bensin,92.5,Automatic,105000000,Tambora, Jakarta Barat,1.25
+nissan,x-trail,2012,Bensin,92.5,Automatic,105000000,Medan Satria, Bekasi Kota,1.25
+nissan,juke,2012,Bensin,97.5,Automatic,115000000,Tebet, Jakarta Selatan,1.25
+nissan,march,2018,Bensin,52.5,Automatic,123000000,Serpong, Tangerang Selatan Kota,1.25
+nissan,gran livina,2017,Bensin,47.5,Automatic,123000000,Pondok Aren, Tangerang Selatan Kota,1.25
+nissan,gran livina,2017,Bensin,42.5,Automatic,125000000,Gubeng, Surabaya Kota,1.25
+nissan,gran max mbd xenia,2017,Bensin,42.5,Automatic,128000000,Pondok Aren, Tangerang Selatan Kota,1.25
+nissan,juke,2015,Bensin,132.5,Automatic,133000000,Senen, Jakarta Pusat,1.25
+nissan,grand livina,2018,Bensin,162.5,Automatic,139000000,Senen, Jakarta Pusat,1.25
+nissan,livina,2019,Bensin,7.5,Automatic,195000000,Gajahmada, Semarang Kota,1.25
+nissan,x-trail,2017,Bensin,7.5,Automatic,195000000,Semarang Timur, Semarang Kota,1.25
+nissan,livina,2019,Bensin,2.5,Automatic,195000000,Gajahmada, Semarang Kota,1.25
+nissan,navara,2011,Diesel,22.5,Automatic,200000000,Sukarame, Bandar Lampung Kota,1.75
+nissan,serena,2016,Bensin,22.5,Automatic,205000000,Rajabasa, Bandar Lampung Kota,1.75
+nissan,x-trail,2017,Bensin,37.5,Automatic,219500000,Gedangan, Sidoarjo  Kab.,1.25
+nissan,livina,2021,Bensin,32.5,Automatic,219500000,Wonokromo, Surabaya Kota,1.25
+nissan,x-trail,2015,Bensin,42.5,Automatic,225000000,Metro Barat, Metro Kota,1.75
+nissan,x-trail,2017,Bensin,52.5,Automatic,240000000,Telukbetung Selatan, Bandar Lampung Kota,1.75
+nissan,serena,2019,Bensin,67.5,Automatic,276000000,Gubeng, Surabaya Kota,1.25
+nissan,kicks,2020,Bensin,92.5,Automatic,279000000,Duren Sawit, Jakarta Timur,1.75
+nissan,kicks,2021,Bensin,102.5,Automatic,285000000,Tebet, Jakarta Selatan,1.75
+nissan,kicks,2021,Hybrid,57.5,Automatic,285000000,Gubeng, Surabaya Kota,1.25
+nissan,kicks,2021,Bensin,17.5,Automatic,285000000,Ilir Timur I, Palembang Kota,1.25
+nissan,kicks,2021,Bensin,17.5,Automatic,285000000,Serpong, Tangerang Selatan Kota,1.25
+nissan,serena,2019,Bensin,12.5,Automatic,285000000,Makasar, Jakarta Timur,1.25
+nissan,kicks,2021,Bensin,112.5,Automatic,288000000,Duren Sawit, Jakarta Timur,1.75
+nissan,serena,2019,Bensin,12.5,Automatic,296000000,Kebon Jeruk, Jakarta Barat,1.25
+nissan,serena,2019,Bensin,67.5,Automatic,298000000,Semampir, Surabaya Kota,1.25
+nissan,magnite,2024,Bensin,42.5,Automatic,310000000,Tanah Sareal, Bogor Kota,2.5
+nissan,terra,2019,Diesel,62.5,Automatic,349500000,Bogor Tengah - Kota, Bogor Kota,2.5
+nissan,elgrand vitara,2017,Bensin,197.5,Automatic,350000000,Medan Satria, Jakarta Pusat,2.5
+nissan,terra,2019,Diesel,117.5,Automatic,408000000,Bekasi Jaya, Bekasi Kota,2.5
+renault,koleos,2019,Bensin,12.5,Automatic,260000000,Pondok Aren, Tangerang Selatan Kota,1.25
+suzuki,karimun wago pancan r,2017,Bensin,72.5,Automatic,81000000,Bekasi Barat, Bekasi Kota,1.25
+suzuki,ignis,2019,Bensin,72.5,Manual,88000000,Gunung Putri, Bogor Kab.,1.25
+suzuki,ignis,2019,Bensin,72.5,Manual,88000000,Bekasi Barat, Bekasi Kota,1.25
+suzuki,karimun wago pancan r,2018,Bensin,72.5,Automatic,91000000,Kemayoran, Jakarta Pusat,1.25
+suzuki,karimun wago pancan r,2018,Bensin,72.5,Automatic,91000000,Cempaka Putih, Jakarta Pusat,1.25
+suzuki,ignis,2019,Bensin,77.5,Manual,92000000,Cempaka Putih, Jakarta Pusat,1.25
+suzuki,carry,2021,Bensin,77.5,Manual,95000000,Klari, Karawang Kab.,1.25
+suzuki,karimun wago pancan r,2017,Bensin,82.5,Automatic,98000000,Bekasi Barat, Bekasi Kota,1.25
+suzuki,carry pick-up,2022,Bensin,87.5,Manual,103000000,Tambun Utara, Bekasi Kab.,1.25
+suzuki,carry pick-up,2023,Bensin,92.5,Manual,110000000,Tambun Utara, Bekasi Kab.,1.25
+suzuki,ignis,2018,Bensin,92.5,Automatic,110000000,Cilangkap, Jakarta Timur,1.25
+suzuki,ertiga,2016,Bensin,92.5,Automatic,111000000,Bekasi Barat, Bekasi Kota,1.25
+suzuki,ignis,2018,Bensin,42.5,Automatic,122000000,Sambikerep, Surabaya Kota,1.25
+suzuki,sx4,2016,Bensin,107.5,Manual,125000000,Tambora, Jakarta Barat,1.25
+suzuki,ignis,2020,Bensin,47.5,Automatic,125000000,Buduran, Sidoarjo  Kab.,1.25
+suzuki,ignis,2019,Bensin,117.5,Automatic,128000000,Kemayoran, Jakarta Pusat,1.25
+suzuki,ertiga,2017,Bensin,122.5,Manual,132000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,ertiga,2017,Bensin,132.5,Manual,133000000,Cikarang Selatan, Bekasi Kab.,1.25
+suzuki,ertiga,2017,Bensin,132.5,Manual,133000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,carry pick-up,2024,Bensin,52.5,Manual,133000000,Medan Satria, Bekasi Kota,1.25
+suzuki,vitara,2012,Bensin,142.5,Manual,135000000,Kemayoran, Jakarta Pusat,1.25
+suzuki,ertiga,2017,Bensin,137.5,Manual,135000000,Cikarang Barat, Bekasi Kab.,1.25
+suzuki,sierra,1986,Bensin,162.5,Manual,139000000,Setia Budi, Jakarta Selatan,1.25
+suzuki,ignis,2020,Bensin,47.5,Automatic,139000000,Wonokromo, Surabaya Kota,1.25
+suzuki,carry pick-up,2020,Bensin,162.5,Manual,140000000,Cikarang Utara, Bekasi Kab.,1.25
+suzuki,ignis,2019,Bensin,42.5,Automatic,140000000,Gubeng, Surabaya Kota,1.25
+suzuki,sx4,2016,Bensin,242.5,Manual,142000000,Gambir, Jakarta Pusat,1.25
+suzuki,baleno,2019,Bensin,202.5,Manual,142000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,ertiga,2017,Bensin,2.5,Manual,144000000,Kemayoran, Jakarta Pusat,1.75
+suzuki,ertiga,2018,Bensin,52.5,Automatic,145000000,Ciputat, Tangerang Selatan Kota,1.25
+suzuki,baleno,2018,Bensin,7.5,Automatic,145000000,Kemayoran, Jakarta Pusat,1.75
+suzuki,baleno,2018,Bensin,52.5,Manual,147000000,Pondok Aren, Tangerang Selatan Kota,1.25
+suzuki,baleno,2017,Bensin,52.5,Automatic,149000000,Serpong, Tangerang Selatan Kota,1.25
+suzuki,ertiga,2018,Bensin,47.5,Automatic,150000000,Gubeng, Surabaya Kota,1.25
+suzuki,s-presso,2023,Bensin,12.5,Automatic,150000000,Kemayoran, Jakarta Pusat,1.75
+suzuki,s-presso,2023,Bensin,12.5,Automatic,150000000,Duren Sawit, Jakarta Timur,1.75
+suzuki,s-presso,2024,Bensin,37.5,Manual,150000000,Kalideres, Jakarta Barat,1.25
+suzuki,baleno,2019,Bensin,32.5,Automatic,150000000,Cempaka Putih, Jakarta Pusat,1.25
+suzuki,baleno,2019,Bensin,37.5,Automatic,151000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,sx4,2016,Bensin,2.5,Otomatis,153000000,Pancoran, Jakarta Selatan,1.25
+suzuki,ertiga,2018,Bensin,72.5,Automatic,154000000,Cilandak, Jakarta Selatan,1.25
+suzuki,s-presso,2024,Bensin,132.5,Automatic,154000000,Kalideres, Jakarta Barat,2.5
+suzuki,ertiga,2018,Bensin,67.5,Automatic,156000000,Jagakarsa, Jakarta Selatan,1.25
+suzuki,baleno,2019,Bensin,2.5,Manual,157000000,Semarang Tengah, Semarang Kota,1.25
+suzuki,ignis,2022,Bensin,47.5,Manual,157000000,Pademangan, Jakarta Utara,1.25
+suzuki,ignis,2022,Bensin,22.5,Manual,157000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,ignis,2022,Bensin,42.5,Manual,157000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,baleno,2019,Bensin,47.5,Manual,157000000,Cilandak, Jakarta Selatan,1.25
+suzuki,ertiga,2018,Bensin,32.5,Otomatis,157000000,Tebet, Jakarta Selatan,1.25
+suzuki,ignis,2022,Bensin,12.5,Manual,157000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,ertiga,2018,Bensin,122.5,Automatic,158000000,Jagakarsa, Jakarta Selatan,1.25
+suzuki,ignis,2022,Bensin,112.5,Manual,158000000,Jagakarsa, Jakarta Selatan,2.5
+suzuki,ertiga,2019,Bensin,112.5,Otomatis,159500000,Tebet, Jakarta Selatan,1.25
+suzuki,baleno,2020,Bensin,27.5,Automatic,160000000,Jagakarsa, Jakarta Selatan,1.25
+suzuki,baleno next-g,2024,Bensin,52.5,Automatic,160000000,Tebet, Jakarta Selatan,1.25
+suzuki,baleno,2019,Bensin,57.5,Automatic,161000000,Cempaka Putih, Jakarta Pusat,1.25
+suzuki,ertiga,2019,Bensin,12.5,Automatic,162000000,Matraman, Jakarta Timur,1.25
+suzuki,ertiga,2018,Bensin,12.5,Manual,163000000,Pedurungan, Semarang Kota,1.25
+suzuki,baleno,2019,Bensin,37.5,Automatic,165000000,Pancoran, Jakarta Selatan,1.25
+suzuki,baleno,2018,Bensin,2.5,Automatic,166000000,Semarang Selatan, Semarang Kota,1.25
+suzuki,ertiga,2020,Bensin,2.5,Manual,166000000,Cengkareng, Jakarta Barat,1.25
+suzuki,baleno,2019,Bensin,7.5,Manual,167000000,Semarang Tengah, Semarang Kota,1.25
+suzuki,baleno,2019,Bensin,32.5,Automatic,168000000,Pekayon, Jakarta Timur,1.25
+suzuki,ertiga,2019,Bensin,12.5,Automatic,169000000,Pasar Minggu, Jakarta Selatan,1.25
+suzuki,ertiga,2019,Bensin,2.5,Manual,170000000,Semarang Tengah, Semarang Kota,1.25
+suzuki,ertiga,2019,Bensin,37.5,Manual,170000000,Cibubur, Jakarta Timur,1.25
+suzuki,ertiga,2018,Bensin,47.5,Automatic,170000000,Cakung, Jakarta Timur,1.25
+suzuki,ertiga,2018,Bensin,42.5,Automatic,170000000,Kalideres, Jakarta Barat,1.25
+suzuki,ertiga,2019,Bensin,22.5,Manual,172000000,Jatinegara, Jakarta Timur,1.25
+suzuki,baleno,2021,Bensin,37.5,Manual,172000000,Matraman, Jakarta Timur,1.25
+suzuki,baleno,2019,Bensin,77.5,Automatic,172000000,Cilandak, Jakarta Selatan,1.25
+suzuki,ertiga,2018,Bensin,2.5,Automatic,173000000,Gajah Mungkur, Semarang Kota,1.25
+suzuki,ertiga,2018,Bensin,67.5,Automatic,173000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,ertiga,2019,Bensin,47.5,Automatic,173000000,Jatinegara, Jakarta Timur,1.25
+suzuki,xl7,2020,Bensin,132.5,Automatic,174500000,Duren Sawit, Jakarta Timur,2.5
+suzuki,baleno,2019,Bensin,2.5,Automatic,175000000,Semarang Tengah, Semarang Kota,1.25
+suzuki,ertiga,2022,Bensin,2.5,Manual,175000000,Semarang Selatan, Semarang Kota,1.25
+suzuki,baleno,2019,Bensin,12.5,Automatic,175000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,baleno,2019,Bensin,72.5,Automatic,175000000,Duren Sawit, Jakarta Timur,1.25
+suzuki,baleno,2019,Bensin,67.5,Automatic,175000000,Pekayon, Jakarta Timur,1.25
+suzuki,baleno,2019,Bensin,67.5,Automatic,175000000,Cilandak, Jakarta Selatan,1.25
+suzuki,baleno,2019,Bensin,72.5,Automatic,175000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,lain-lain,2020,Bensin,37.5,Manual,175000000,Cakung, Jakarta Timur,1.25
+suzuki,baleno,2019,Bensin,2.5,Automatic,175000000,Tanjung Duren, Jakarta Barat,1.25
+suzuki,baleno,2019,Bensin,97.5,Automatic,175000000,Duren Sawit, Jakarta Timur,1.75
+suzuki,baleno,2019,Bensin,62.5,Automatic,175000000,Duren Sawit, Jakarta Timur,1.75
+suzuki,xl7,2020,Bensin,37.5,Manual,179000000,Cilandak, Jakarta Selatan,1.25
+suzuki,baleno,2020,Bensin,72.5,Automatic,179000000,Kemayoran, Jakarta Pusat,1.25
+suzuki,xl7,2020,Bensin,37.5,Manual,180000000,Tanjung Duren, Jakarta Barat,1.25
+suzuki,ertiga,2022,Bensin,37.5,Automatic,180000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,xl7,2023,Bensin,37.5,Automatic,182000000,Cilandak, Jakarta Selatan,1.25
+suzuki,sx4,2019,Bensin,32.5,Automatic,185000000,Mampang Prapatan, Jakarta Selatan,1.25
+suzuki,ertiga,2024,Bensin,77.5,Automatic,185000000,Pancoran, Jakarta Selatan,1.25
+suzuki,sx4,2019,Bensin,7.5,Automatic,185000000,Kalideres, Jakarta Barat,1.25
+suzuki,sx4,2019,Bensin,17.5,Automatic,185000000,Pancoran, Jakarta Selatan,1.25
+suzuki,sx4,2019,Bensin,2.5,Automatic,185000000,Jatinegara, Jakarta Timur,1.25
+suzuki,sx4,2019,Bensin,87.5,Automatic,185000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,sx4,2019,Bensin,22.5,Automatic,185000000,Tanjung Duren, Jakarta Barat,1.25
+suzuki,sx4,2019,Bensin,127.5,Automatic,185000000,Pasar Minggu, Jakarta Selatan,1.25
+suzuki,sx4,2019,Bensin,7.5,Automatic,185000000,Matraman, Jakarta Timur,1.25
+suzuki,sx4,2019,Bensin,37.5,Automatic,185000000,Pasar Minggu, Jakarta Selatan,1.25
+suzuki,xl7,2021,Bensin,47.5,Manual,188000000,Tebet, Jakarta Selatan,1.25
+suzuki,ertiga,2022,Bensin,67.5,Automatic,188000000,Cengkareng, Jakarta Barat,1.25
+suzuki,xl7,2021,Bensin,12.5,Automatic,189000000,Kemayoran, Jakarta Pusat,1.25
+suzuki,ertiga,2021,Bensin,87.5,Automatic,189000000,Matraman, Jakarta Timur,1.25
+suzuki,ertiga,2022,Bensin,57.5,Manual,190000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,ertiga,2020,Bensin,37.5,Automatic,190000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,xl7,2020,Bensin,37.5,Automatic,190000000,Kemayoran, Jakarta Pusat,1.25
+suzuki,ertiga,2020,Bensin,52.5,Automatic,190000000,Kembangan, Jakarta Barat,1.25
+suzuki,xl7,2021,Bensin,127.5,Automatic,190500000,Cilandak, Jakarta Selatan,1.25
+suzuki,ertiga,2021,Bensin,37.5,Automatic,193000000,Pasar Rebo, Jakarta Timur,1.25
+suzuki,ertiga,2023,Bensin,37.5,Automatic,194500000,Grogol Petamburan, Jakarta Barat,1.25
+suzuki,xl7,2022,Bensin,37.5,Automatic,197000000,Kebon Jeruk, Jakarta Barat,1.25
+suzuki,baleno next-g,2024,Bensin,42.5,Automatic,200000000,Cilandak, Jakarta Selatan,1.25
+suzuki,xl7,2024,Bensin,42.5,Automatic,200000000,Tebet, Jakarta Selatan,1.25
+suzuki,ertiga,2022,Bensin,2.5,Automatic,200000000,Tanjung Duren, Jakarta Barat,1.25
+suzuki,baleno,2022,Bensin,32.5,Automatic,200000000,Cilandak, Jakarta Selatan,1.75
+suzuki,ertiga,2022,Bensin,37.5,Manual,200000000,Cilandak, Jakarta Selatan,1.25
+suzuki,ertiga,2022,Bensin,37.5,Manual,215000000,Gubeng, Surabaya Kota,1.25
+suzuki,ertiga,2023,Bensin,32.5,Automatic,215000000,Rajabasa, Bandar Lampung Kota,1.75
+suzuki,xl7,2022,Bensin,37.5,Automatic,224999000,Candi, Sidoarjo  Kab.,1.25
+suzuki,ertiga,2023,Hybrid,32.5,Automatic,228000000,Wonokromo, Surabaya Kota,1.25
+suzuki,ertiga,2022,Bensin,37.5,Manual,229000000,Gubeng, Surabaya Kota,1.25
+suzuki,baleno,2021,Bensin,57.5,Automatic,230000000,Samarinda Kota, Samarinda Kota,1.25
+suzuki,ertiga,2024,Hybrid,32.5,Manual,248000000,Sidoarjo, Sidoarjo  Kab.,1.25
+suzuki,ertiga,2023,Bensin,67.5,Automatic,258000000,Medan Satria, Bekasi Kota,1.75
+suzuki,ertiga,2023,Bensin,67.5,Automatic,258000000,Gunung Putri, Bogor Kab.,1.75
+suzuki,grand vitara,2024,Hybrid,42.5,Automatic,319000000,Medan Satria, Bekasi Kota,2.5
+toyota,agya,2017,Bensin,77.5,Manual,92000000,Cibubur, Jakarta Timur,1.25
+toyota,agya,2017,Bensin,77.5,Manual,92000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,agya,2017,Bensin,77.5,Manual,92000000,Gunung Putri, Bogor Kab.,1.25
+toyota,agya,2017,Bensin,82.5,Manual,95000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,calya,2018,Bensin,82.5,Manual,99000000,Medan Satria, Bekasi Kota,1.25
+toyota,calya,2020,Bensin,82.5,Manual,99000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,calya,2017,Diesel,87.5,Manual,100000000,Karawang Barat, Karawang Kab.,1.25
+toyota,calya,2019,Bensin,82.5,Automatic,100000000,Bekasi Timur, Bekasi Kota,1.25
+toyota,kijang innova,2008,Bensin,87.5,Automatic,102000000,Menteng, Jakarta Pusat,1.25
+toyota,kijang innova,2008,Bensin,87.5,Automatic,102000000,Senen, Jakarta Pusat,1.25
+toyota,rush,2011,Bensin,87.5,Automatic,102000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,calya,2017,Bensin,87.5,Manual,104000000,Sukakarya, Bekasi Kab.,1.25
+toyota,calya,2017,Bensin,52.5,Manual,104000000,Pondok Aren, Tangerang Selatan Kota,1.25
+toyota,calya,2017,Bensin,52.5,Manual,105000000,Ciputat, Tangerang Selatan Kota,1.25
+toyota,calya,2017,Bensin,92.5,Automatic,108500000,Tambun Utara, Bekasi Kab.,1.25
+toyota,calya,2018,Bensin,47.5,Automatic,109000000,Candi, Sidoarjo  Kab.,1.25
+toyota,avanza,2014,Bensin,92.5,Manual,110000000,Gambir, Jakarta Pusat,1.25
+toyota,avanza,2015,Bensin,92.5,Manual,110000000,Duren Sawit, Jakarta Timur,1.25
+toyota,calya,2018,Bensin,92.5,Manual,110000000,Medan Satria, Bekasi Kota,1.25
+toyota,agya,2019,Bensin,47.5,Manual,112000000,Candi, Sidoarjo  Kab.,1.25
+toyota,agya,2018,Bensin,97.5,Manual,113000000,Tambun Selatan, Bekasi Kab.,1.25
+toyota,agya,2019,Bensin,52.5,Manual,114000000,Medan Satria, Bekasi Kota,1.25
+toyota,calya,2019,Bensin,97.5,Automatic,115000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,agya,2018,Bensin,52.5,Automatic,115000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,calya,2018,Bensin,42.5,Manual,116000000,Wonokromo, Surabaya Kota,1.25
+toyota,agya,2018,Bensin,97.5,Manual,117000000,Duren Sawit, Jakarta Timur,1.25
+toyota,agya,2018,Bensin,42.5,Automatic,117000000,Gedangan, Sidoarjo  Kab.,1.25
+toyota,agya,2018,Bensin,102.5,Automatic,118000000,Cikarang Selatan, Bekasi Kab.,1.25
+toyota,avanza,2018,Bensin,102.5,Manual,118000000,Tomang, Jakarta Barat,1.25
+toyota,calya,2018,Bensin,102.5,Manual,118000000,Tambun Utara, Bekasi Kab.,1.25
+toyota,calya,2019,Bensin,47.5,Automatic,118000000,Gubeng, Surabaya Kota,1.25
+toyota,agya,2019,Bensin,102.5,Manual,120000000,Tambun Selatan, Bekasi Kab.,1.25
+toyota,avanza,2013,Bensin,102.5,Automatic,120000000,Menteng, Jakarta Pusat,1.25
+toyota,kijang innova,2012,Bensin,102.5,Automatic,120000000,Duren Sawit, Jakarta Timur,1.25
+toyota,agya,2019,Bensin,52.5,Automatic,120000000,Ciputat, Tangerang Selatan Kota,1.25
+toyota,avanza,2015,Bensin,47.5,Manual,120000000,Buduran, Sidoarjo  Kab.,1.25
+toyota,agya,2018,Bensin,42.5,Automatic,121000000,Sukun, Malang Kota,1.25
+toyota,agya,2019,Bensin,107.5,Automatic,122500000,Cikarang Selatan, Bekasi Kab.,1.25
+toyota,calya,2019,Bensin,107.5,Automatic,123000000,Cikarang Barat, Bekasi Kab.,1.25
+toyota,corolla altis,2012,Bensin,107.5,Automatic,123000000,Kemayoran, Jakarta Pusat,1.25
+toyota,agya,2019,Bensin,52.5,Automatic,123000000,Ciputat, Tangerang Selatan Kota,1.25
+toyota,agya,2019,Bensin,42.5,Automatic,123000000,Gubeng, Surabaya Kota,1.25
+toyota,yaris,2013,Bensin,107.5,Automatic,124850000,Setia Budi, Jakarta Selatan,1.25
+toyota,sienta,2017,Bensin,112.5,Manual,125000000,Sukakarya, Bekasi Kab.,1.25
+toyota,calya,2020,Bensin,107.5,Automatic,125000000,Kemayoran, Jakarta Pusat,1.25
+toyota,rush,2014,Bensin,107.5,Manual,125000000,Senen, Jakarta Pusat,1.25
+toyota,calya,2020,Bensin,47.5,Automatic,125000000,Candi, Sidoarjo  Kab.,1.25
+toyota,calya,2021,Bensin,42.5,Automatic,125000000,Serpong, Tangerang Selatan Kota,1.25
+toyota,agya,2020,Bensin,112.5,Automatic,126000000,Cikarang Barat, Bekasi Kab.,1.25
+toyota,calya,2020,Bensin,47.5,Manual,126500000,Tenggilis Mejoyo, Surabaya Kota,1.25
+toyota,rush,2014,Bensin,117.5,Automatic,128000000,Senen, Jakarta Pusat,1.25
+toyota,avanza,2017,Bensin,42.5,Manual,129000000,Sukun, Malang Kota,1.25
+toyota,calya,2019,Bensin,42.5,Automatic,129000000,Blimbing, Malang Kota,1.25
+toyota,agya,2019,Bensin,42.5,Automatic,130000000,Wonokromo, Surabaya Kota,1.25
+toyota,avanza,2014,Bensin,122.5,Manual,132500000,Kemayoran, Jakarta Pusat,1.25
+toyota,calya,2022,Bensin,132.5,Manual,135000000,Cikarang Selatan, Bekasi Kab.,1.25
+toyota,sienta,2017,Bensin,142.5,Manual,136000000,Tambun Utara, Bekasi Kab.,1.25
+toyota,calya,2021,Bensin,157.5,Automatic,139000000,Cilangkap, Jakarta Timur,1.25
+toyota,agya,2022,Bensin,47.5,Automatic,140000000,Tuban, Tuban Kab.,1.25
+toyota,sienta,2018,Bensin,187.5,Manual,141000000,Duren Sawit, Jakarta Timur,1.25
+toyota,calya,2024,Bensin,172.5,Manual,141000000,Setia Budi, Jakarta Selatan,1.25
+toyota,kijang innova,2021,Diesel,52.5,Automatic,142000000,Medan Satria, Bekasi Kota,1.25
+toyota,yaris,2015,Bensin,2.5,Automatic,142000000,Tambora, Jakarta Barat,1.75
+toyota,agya,2022,Bensin,2.5,Automatic,143000000,Cikarang Barat, Bekasi Kab.,1.75
+toyota,calya,2022,Bensin,2.5,Automatic,143000000,Kemayoran, Jakarta Pusat,1.75
+toyota,avanza,2019,Bensin,2.5,Automatic,144000000,Kemayoran, Jakarta Pusat,1.75
+toyota,avanza,2019,Bensin,52.5,Manual,145000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,avanza,2019,Bensin,7.5,Automatic,145000000,Tomang, Jakarta Barat,1.75
+toyota,calya,2022,Bensin,2.5,Automatic,145000000,Cikarang Selatan, Bekasi Kab.,1.75
+toyota,avanza,2019,Bensin,52.5,Automatic,148000000,Serpong, Tangerang Selatan Kota,1.25
+toyota,rush,2017,Bensin,12.5,Automatic,148000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,avanza,2018,Bensin,7.5,Manual,148000000,Cikarang Barat, Bekasi Kab.,1.75
+toyota,vios,2017,Bensin,7.5,Automatic,148000000,Cikarang Selatan, Bekasi Kab.,1.75
+toyota,avanza,2018,Bensin,12.5,Manual,149000000,Tambun Selatan, Bekasi Kab.,1.75
+toyota,sienta,2017,Bensin,52.5,Manual,150000000,Pondok Aren, Tangerang Selatan Kota,1.25
+toyota,rush,2017,Bensin,47.5,Automatic,150000000,Candi, Sidoarjo  Kab.,1.25
+toyota,sienta,2017,Bensin,12.5,Manual,150000000,Cikarang Barat, Bekasi Kab.,1.75
+toyota,avanza,2018,Bensin,7.5,Manual,150000000,Semarang Timur, Semarang Kota,1.25
+toyota,avanza,2019,Bensin,7.5,Manual,153000000,Semarang Selatan, Semarang Kota,1.25
+toyota,agya,2023,Bensin,12.5,Automatic,164500000,Semarang Timur, Semarang Kota,1.25
+toyota,agya,2023,Bensin,7.5,Automatic,164500000,Semarang Selatan, Semarang Kota,1.25
+toyota,avanza,2018,Bensin,2.5,Automatic,165000000,Pedurungan, Semarang Kota,1.25
+toyota,avanza,2021,Bensin,2.5,Automatic,165000000,Semarang Selatan, Semarang Kota,1.25
+toyota,sienta,2017,Bensin,7.5,Automatic,168000000,Semarang Selatan, Semarang Kota,1.25
+toyota,sienta,2017,Bensin,2.5,Automatic,168000000,Karang Kidul, Semarang Kota,1.25
+toyota,yaris,2017,Bensin,2.5,Automatic,173000000,Pedurungan, Semarang Kota,1.25
+toyota,sienta,2017,Bensin,7.5,Automatic,175000000,Gajah Mungkur, Semarang Kota,1.25
+toyota,yaris,2018,Bensin,2.5,Manual,175000000,Sambiroto, Semarang Kota,1.25
+toyota,hilux,2019,Diesel,12.5,Manual,179000000,Semarang Tengah, Semarang Kota,1.25
+toyota,raize,2022,Bensin,7.5,Manual,179500000,Semarang Tengah, Semarang Kota,1.25
+toyota,avanza,2021,Bensin,2.5,Automatic,181000000,Sumurboto, Semarang Kota,1.25
+toyota,avanza,2021,Bensin,7.5,Manual,182000000,Semarang Selatan, Semarang Kota,1.25
+toyota,raize,2022,Bensin,7.5,Manual,182000000,Pedurungan, Semarang Kota,1.25
+toyota,sienta,2017,Bensin,7.5,Automatic,187000000,Tembalang, Semarang Kota,1.25
+toyota,avanza,2022,Bensin,2.5,Manual,188000000,Semarang Timur, Semarang Kota,1.25
+toyota,avanza,2023,Bensin,2.5,Manual,189000000,Pedurungan, Semarang Kota,1.25
+toyota,avanza,2023,Bensin,2.5,Automatic,190000000,Semarang Selatan, Semarang Kota,1.25
+toyota,avanza,2019,Bensin,2.5,Automatic,190000000,Tembalang, Semarang Kota,1.25
+toyota,avanza,2022,Bensin,2.5,Manual,192500000,Gajah Mungkur, Semarang Kota,1.25
+toyota,sienta,2017,Bensin,2.5,Automatic,192500000,Semarang Selatan, Semarang Kota,1.25
+toyota,rush,2019,Bensin,2.5,Automatic,195000000,Tembalang, Semarang Kota,1.25
+toyota,yaris,2018,Bensin,2.5,Automatic,195000000,Semarang Barat, Semarang Kota,1.25
+toyota,rush,2019,Bensin,57.5,Automatic,200000000,Balikpapan Kota, Balikpapan Kota,1.25
+toyota,agya,2023,Bensin,37.5,Automatic,200000000,Gubeng, Surabaya Kota,1.25
+toyota,agya,2023,Bensin,37.5,Automatic,200000000,Wonokromo, Surabaya Kota,1.25
+toyota,fortuner,2008,Diesel,22.5,Automatic,200000000,Telukbetung Utara, Bandar Lampung Kota,1.75
+toyota,avanza,2020,Bensin,17.5,Automatic,200000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,avanza,2021,Bensin,17.5,Manual,200000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,raize,2023,Bensin,17.5,Automatic,200000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,avanza,2022,Bensin,7.5,Manual,200000000,Solo Baru, Surakarta Kota,1.25
+toyota,sienta,2018,Bensin,32.5,Automatic,200500000,Gubeng, Surabaya Kota,1.25
+toyota,yaris,2019,Bensin,32.5,Automatic,205000000,Gubeng, Surabaya Kota,1.25
+toyota,avanza,2023,Bensin,22.5,Manual,205000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,fortuner,2010,Diesel,22.5,Automatic,205000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2011,Diesel,22.5,Automatic,205000000,Kemiling, Bandar Lampung Kota,1.75
+toyota,rush,2018,Bensin,22.5,Automatic,206000000,Rajabasa, Bandar Lampung Kota,1.75
+toyota,rush,2019,Bensin,57.5,Automatic,207000000,Loa Janan Ilir, Samarinda Kota,1.25
+toyota,rush,2019,Bensin,57.5,Automatic,207000000,Balikpapan Barat, Balikpapan Kota,1.25
+toyota,rush,2019,Bensin,57.5,Automatic,207000000,Balikpapan Kota, Balikpapan Kota,1.25
+toyota,rush,2019,Bensin,52.5,Automatic,207000000,Penajam, Penajam Paser Utara Kab.,1.25
+toyota,yaris,2018,Bensin,27.5,Automatic,207000000,Sukabumi, Bandar Lampung Kota,1.75
+toyota,vellfire,2024,Bensin,2.5,Automatic,207500000,Tanjung Priok, Jakarta Utara,2.5
+toyota,avanza,2022,Bensin,27.5,Automatic,208000000,Tanjung Senang, Bandar Lampung Kota,1.75
+toyota,yaris,2018,Bensin,57.5,Automatic,209000000,Balikpapan Kota, Balikpapan Kota,1.25
+toyota,yaris,2018,Bensin,57.5,Automatic,209000000,Balikpapan Barat, Balikpapan Kota,1.25
+toyota,rush,2018,Bensin,27.5,Automatic,209000000,Metro Barat, Metro Kota,1.75
+toyota,rush,2019,Bensin,27.5,Automatic,210000000,Metro Barat, Metro Kota,1.75
+toyota,yaris,2018,Bensin,37.5,Automatic,212000000,Rungkut, Surabaya Kota,1.25
+toyota,raize,2021,Bensin,32.5,Automatic,214000000,Langkapura, Bandar Lampung Kota,1.75
+toyota,avanza,2021,Bensin,57.5,Manual,215000000,Balikpapan Barat, Balikpapan Kota,1.25
+toyota,avanza,2021,Bensin,32.5,Automatic,215000000,Sukarame, Bandar Lampung Kota,1.75
+toyota,kijang innova,2013,Diesel,32.5,Manual,215000000,Sukarame, Bandar Lampung Kota,1.75
+toyota,yaris,2019,Bensin,32.5,Automatic,215000000,Kalianda, Lampung Selatan Kab.,1.75
+toyota,rush,2019,Bensin,37.5,Manual,215500000,Wonokromo, Surabaya Kota,1.25
+toyota,raize,2022,Bensin,37.5,Automatic,216500000,Citraland, Surabaya Kota,1.25
+toyota,raize,2022,Bensin,32.5,Automatic,216500000,Gubeng, Surabaya Kota,1.25
+toyota,yaris,2019,Bensin,32.5,Automatic,219500000,Gubeng, Surabaya Kota,1.25
+toyota,fortuner,2012,Diesel,37.5,Automatic,220000000,Kemiling, Bandar Lampung Kota,1.75
+toyota,kijang innova,2012,Diesel,37.5,Automatic,220000000,Telukbetung Selatan, Bandar Lampung Kota,1.75
+toyota,kijang innova,2013,Diesel,37.5,Manual,220000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,yaris,2020,Bensin,32.5,Automatic,220000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,camry,2017,Bensin,42.5,Automatic,225000000,Rajabasa, Bandar Lampung Kota,1.75
+toyota,fortuner,2011,Diesel,42.5,Automatic,225000000,Metro Barat, Metro Kota,1.75
+toyota,kijang innova,2013,Diesel,42.5,Manual,225000000,Metro Barat, Metro Kota,1.75
+toyota,kijang innova,2016,Bensin,42.5,Manual,225000000,Metro Barat, Metro Kota,1.75
+toyota,raize,2021,Bensin,42.5,Automatic,225000000,Buduran, Sidoarjo  Kab.,1.25
+toyota,avanza,2022,Bensin,37.5,Automatic,225000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,avanza,2023,Bensin,37.5,Manual,225000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+toyota,raize,2023,Bensin,37.5,Automatic,225000000,Candi, Sidoarjo  Kab.,1.25
+toyota,rush,2020,Bensin,37.5,Automatic,225000000,Rajabasa, Bandar Lampung Kota,1.75
+toyota,rush,2022,Bensin,37.5,Manual,225000000,Tanjung Karang Pusat, Bandar Lampung Kota,1.75
+toyota,yaris,2020,Bensin,37.5,Automatic,225000000,Tanjung Senang, Bandar Lampung Kota,1.75
+toyota,raize,2023,Bensin,32.5,Automatic,225000000,Sidoarjo, Sidoarjo  Kab.,1.25
+toyota,kijang innova,2017,Bensin,42.5,Manual,227000000,Candi, Sidoarjo  Kab.,1.25
+toyota,avanza,2022,Bensin,42.5,Manual,228000000,Kedaton, Bandar Lampung Kota,1.75
+toyota,kijang innova,2016,Bensin,42.5,Manual,228000000,Metro Barat, Metro Kota,1.75
+toyota,avanza,2022,Bensin,42.5,Automatic,229000000,Jati Agung, Lampung Selatan Kab.,1.75
+toyota,avanza,2023,Bensin,42.5,Automatic,229500000,Sukarame, Bandar Lampung Kota,1.75
+toyota,kijang innova,2016,Bensin,47.5,Manual,230000000,Metro Barat, Metro Kota,1.75
+toyota,rush,2020,Bensin,47.5,Manual,230000000,Tanjung Senang, Bandar Lampung Kota,1.75
+toyota,rush,2020,Bensin,37.5,Automatic,231000000,Gubeng, Surabaya Kota,1.25
+toyota,rush,2022,Bensin,47.5,Manual,232000000,Kemiling, Bandar Lampung Kota,1.75
+toyota,avanza,2021,Bensin,37.5,Automatic,234500000,Mayjen Sungkono, Surabaya Kota,1.25
+toyota,kijang innova,2018,Bensin,47.5,Manual,235000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,rush,2021,Bensin,47.5,Automatic,235000000,Sukarame, Bandar Lampung Kota,1.75
+toyota,rush,2022,Bensin,47.5,Manual,235000000,Tanjung Karang Barat, Bandar Lampung Kota,1.75
+toyota,avanza,2021,Bensin,37.5,Automatic,235000000,Gubeng, Surabaya Kota,1.25
+toyota,rush,2020,Bensin,37.5,Automatic,235000000,Sukun, Malang Kota,1.25
+toyota,rush,2020,Bensin,37.5,Automatic,235000000,Blimbing, Malang Kota,1.25
+toyota,rush,2022,Bensin,52.5,Automatic,235500000,Telukbetung Selatan, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Bensin,52.5,Manual,236500000,Jati Agung, Lampung Selatan Kab.,1.75
+toyota,kijang innova,2014,Diesel,52.5,Automatic,237000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,raize,2022,Bensin,37.5,Automatic,237000000,Gubeng, Surabaya Kota,1.25
+toyota,rush,2021,Bensin,52.5,Automatic,240000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,rush,2021,Bensin,37.5,Automatic,240500000,Tuban, Tuban Kab.,1.25
+toyota,rush,2021,Bensin,42.5,Automatic,243000000,Candi, Sidoarjo  Kab.,1.25
+toyota,rush,2021,Bensin,32.5,Automatic,244999999,Sedati, Sidoarjo  Kab.,1.25
+toyota,avanza,2021,Bensin,52.5,Automatic,245000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,rush,2021,Bensin,52.5,Automatic,245000000,Kemiling, Bandar Lampung Kota,1.75
+toyota,rush,2021,Bensin,52.5,Automatic,245000000,Metro Barat, Metro Kota,1.75
+toyota,kijang innova,2017,Bensin,37.5,Manual,245000000,Blimbing, Malang Kota,1.25
+toyota,kijang innova,2020,Bensin,32.5,Manual,245000000,Gubeng, Surabaya Kota,1.25
+toyota,avanza,2022,Bensin,32.5,Automatic,246500000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2017,Bensin,37.5,Manual,248000000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2017,Bensin,52.5,Automatic,249000000,Metro Pusat, Metro Kota,1.75
+toyota,yaris,2023,Bensin,52.5,Automatic,249000000,Enggal, Bandar Lampung Kota,1.75
+toyota,yaris,2022,Bensin,67.5,Automatic,250000000,Wonokromo, Surabaya Kota,1.25
+toyota,fortuner,2012,Diesel,57.5,Automatic,250000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2014,Diesel,57.5,Automatic,250000000,Kedaton, Bandar Lampung Kota,1.75
+toyota,kijang innova,2017,Bensin,57.5,Automatic,250000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Diesel,57.5,Automatic,250000000,Kemayoran, Jakarta Pusat,1.75
+toyota,kijang innova,2019,Bensin,27.5,Manual,250000000,Indralaya, Ogan Ilir Kab.,1.25
+toyota,kijang innova,2019,Bensin,22.5,Manual,250000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2019,Bensin,22.5,Automatic,250000000,Ilir Timur II, Palembang Kota,1.25
+toyota,avanza,2022,Bensin,17.5,Automatic,250000000,Ilir Timur II, Palembang Kota,1.25
+toyota,avanza,2022,Bensin,17.5,Automatic,250000000,Sako, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,72.5,Automatic,252000000,Sawahan, Surabaya Kota,1.25
+toyota,avanza,2022,Bensin,57.5,Automatic,252000000,HR Muhammad, Surabaya Kota,1.25
+toyota,kijang innova,2019,Bensin,62.5,Automatic,253000000,Duren Sawit, Jakarta Timur,1.75
+toyota,avanza,2022,Bensin,57.5,Automatic,253000000,Duren Sawit, Jakarta Timur,1.75
+toyota,avanza,2021,Bensin,57.5,Manual,253000000,Simokerto, Surabaya Kota,1.25
+toyota,avanza,2021,Bensin,57.5,Manual,253000000,Dukuh Pakis, Surabaya Kota,1.25
+toyota,kijang innova,2019,Bensin,62.5,Automatic,254000000,Jatinegara, Jakarta Timur,1.75
+toyota,kijang innova,2019,Bensin,62.5,Manual,254000000,Gubeng, Surabaya Kota,1.25
+toyota,raize,2023,Bensin,62.5,Automatic,254000000,Matraman, Jakarta Timur,1.75
+toyota,fortuner,2013,Diesel,67.5,Automatic,255000000,Kedaton, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Bensin,67.5,Automatic,255000000,Gubeng, Surabaya Kota,1.25
+toyota,rush,2022,Bensin,67.5,Automatic,255000000,Tegalsari, Surabaya Kota,1.25
+toyota,avanza,2023,Bensin,62.5,Automatic,255000000,Duren Sawit, Jakarta Timur,1.75
+toyota,camry,2019,Bensin,62.5,Automatic,255000000,Tebet, Jakarta Selatan,1.75
+toyota,kijang innova,2018,Bensin,62.5,Manual,255000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Bensin,62.5,Automatic,255000000,Matraman, Jakarta Timur,1.75
+toyota,avanza,2022,Bensin,17.5,Automatic,255000000,Serpong, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2017,Bensin,17.5,Automatic,255000000,Ciputat Timur, Tangerang Selatan Kota,1.25
+toyota,avanza,2022,Bensin,12.5,Automatic,255000000,Ciputat Timur, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2018,Bensin,62.5,Automatic,256000000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2017,Bensin,67.5,Automatic,257000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,rush,2023,Bensin,27.5,Manual,258000000,Ilir Barat I, Palembang Kota,1.25
+toyota,avanza,2022,Bensin,22.5,Automatic,258000000,Kalidoni, Palembang Kota,1.25
+toyota,rush,2022,Bensin,17.5,Automatic,258000000,Sako, Palembang Kota,1.25
+toyota,avanza,2022,Bensin,67.5,Automatic,258500000,Gubeng, Surabaya Kota,1.25
+toyota,fortuner,2013,Diesel,67.5,Automatic,259305000,Way Halim, Bandar Lampung Kota,1.75
+toyota,avanza,2022,Bensin,27.5,Automatic,259800000,Alang-Alang Lebar, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,72.5,Manual,260000000,Sukoharjo, Pringsewu Kab.,1.75
+toyota,rush,2023,Bensin,67.5,Automatic,260000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,sienta,2021,Bensin,67.5,Automatic,260000000,Pulo Gadung, Jakarta Timur,1.75
+toyota,rush,2022,Bensin,32.5,Manual,260000000,Dinoyo, Malang Kota,1.25
+toyota,kijang innova,2019,Bensin,22.5,Manual,260000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,17.5,Automatic,260000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2019,Bensin,17.5,Automatic,260000000,Pondok Aren, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2019,Bensin,12.5,Automatic,260000000,Serpong, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2019,Bensin,72.5,Automatic,262000000,Jatinegara, Jakarta Timur,1.75
+toyota,avanza,2022,Bensin,62.5,Manual,262500000,Purworejo, Pasuruan Kota,1.25
+toyota,avanza,2023,Bensin,72.5,Automatic,263000000,Trimurjo, Lampung Tengah Kab.,1.75
+toyota,avanza,2023,Bensin,72.5,Automatic,263000000,Gunung Sugih, Lampung Tengah Kab.,1.75
+toyota,kijang innova,2016,Diesel,72.5,Manual,263000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+toyota,avanza,2022,Bensin,32.5,Automatic,263000000,Sidoarjo, Sidoarjo  Kab.,1.25
+toyota,kijang innova,2019,Bensin,22.5,Manual,263000000,Alang-Alang Lebar, Palembang Kota,1.25
+toyota,avanza,2024,Bensin,72.5,Automatic,264000000,Duren Sawit, Jakarta Timur,1.75
+toyota,kijang innova,2017,Bensin,62.5,Manual,264000000,Gubeng, Surabaya Kota,1.25
+toyota,fortuner,2013,Diesel,77.5,Automatic,265000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,fortuner,2013,Diesel,77.5,Manual,265000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,kijang innova,2015,Diesel,77.5,Automatic,265000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Bensin,77.5,Manual,265000000,Telukbetung Utara, Bandar Lampung Kota,1.75
+toyota,lain-lain,2022,Bensin,72.5,Automatic,265000000,Duren Sawit, Jakarta Timur,1.75
+toyota,kijang innova,2019,Bensin,67.5,Automatic,265000000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2019,Bensin,27.5,Manual,265000000,Ilir Timur I, Palembang Kota,1.25
+toyota,rush,2022,Bensin,27.5,Manual,265000000,Ilir Timur I, Palembang Kota,1.25
+toyota,rush,2022,Bensin,27.5,Manual,265000000,Betung, Banyuasin Kab.,1.25
+toyota,avanza,2022,Bensin,22.5,Automatic,265000000,Ilir Barat I, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,22.5,Automatic,266000000,Kalidoni, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,67.5,Automatic,267000000,Sukun, Malang Kota,1.25
+toyota,kijang innova,2018,Bensin,67.5,Automatic,267000000,Blimbing, Malang Kota,1.25
+toyota,kijang innova,2019,Bensin,27.5,Automatic,267000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,27.5,Manual,267000000,Sungai Lilin, Musi Banyuasin Kab.,1.25
+toyota,kijang innova,2020,Bensin,57.5,Manual,267500000,Gubeng, Surabaya Kota,1.25
+toyota,avanza,2023,Bensin,82.5,Automatic,268000000,Langkapura, Bandar Lampung Kota,1.75
+toyota,kijang innova,2018,Bensin,67.5,Manual,268000000,Bubutan, Surabaya Kota,1.25
+toyota,rush,2024,Bensin,22.5,Manual,268000000,Kalidoni, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,17.5,Manual,268000000,Ilir Timur II, Palembang Kota,1.25
+toyota,avanza,2023,Bensin,82.5,Automatic,269000000,Duren Sawit, Jakarta Timur,1.75
+toyota,rush,2023,Bensin,67.5,Automatic,269000000,Gubeng, Surabaya Kota,1.25
+toyota,rush,2023,Bensin,67.5,Automatic,269000000,Mulyorejo, Surabaya Kota,1.25
+toyota,fortuner,2013,Diesel,82.5,Automatic,270000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2017,Bensin,27.5,Automatic,270000000,Ilir Timur I, Palembang Kota,1.25
+toyota,rush,2023,Bensin,27.5,Automatic,270000000,Ilir Barat I, Palembang Kota,1.25
+toyota,kijang innova,2020,Bensin,12.5,Automatic,270000000,Pondok Aren, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2017,Bensin,82.5,Manual,272000000,Sukarame, Bandar Lampung Kota,1.75
+toyota,rush,2023,Bensin,12.5,Manual,272000000,Kemayoran, Jakarta Pusat,1.25
+toyota,camry,2018,Bensin,27.5,Automatic,272500000,Ilir Timur I, Palembang Kota,1.25
+toyota,rush,2023,Bensin,82.5,Manual,273000000,Duren Sawit, Jakarta Timur,1.75
+toyota,fortuner,2013,Diesel,87.5,Automatic,275000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Bensin,87.5,Automatic,275000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,kijang innova,2021,Bensin,87.5,Automatic,275000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,kijang innova,2017,Bensin,27.5,Manual,275000000,Ilir Barat I, Palembang Kota,1.25
+toyota,kijang innova,2019,Bensin,27.5,Manual,277000000,Ilir Timur I, Palembang Kota,1.25
+toyota,corolla,2020,Bensin,12.5,Automatic,277000000,Duren Sawit, Jakarta Timur,1.25
+toyota,kijang innova,2016,Bensin,92.5,Automatic,278000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Bensin,32.5,Automatic,278000000,Sidoarjo, Sidoarjo  Kab.,1.25
+toyota,kijang innova,2019,Bensin,27.5,Automatic,278000000,Prabumulih Barat, Prabumulih Kota,1.25
+toyota,kijang innova,2019,Bensin,27.5,Automatic,278000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,22.5,Manual,278000000,Ilir Barat I, Palembang Kota,1.25
+toyota,kijang innova,2019,Diesel,67.5,Manual,279000000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2018,Bensin,22.5,Automatic,279000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,27.5,Manual,279800000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2020,Bensin,27.5,Manual,279800000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2020,Bensin,22.5,Manual,279800000,Ilir Timur II, Palembang Kota,1.25
+toyota,kijang innova,2020,Bensin,17.5,Manual,279800000,Plaju, Palembang Kota,1.25
+toyota,altis,2020,Bensin,92.5,Automatic,280000000,Jatinegara, Jakarta Timur,1.75
+toyota,fortuner,2015,Diesel,92.5,Automatic,280000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2020,Bensin,92.5,Automatic,280000000,Way Halim, Bandar Lampung Kota,1.75
+toyota,kijang innova,2018,Bensin,67.5,Automatic,280000000,Bubutan, Surabaya Kota,1.25
+toyota,kijang innova,2020,Bensin,67.5,Automatic,280000000,Wonokromo, Surabaya Kota,1.25
+toyota,yaris,2023,Bensin,67.5,Automatic,280000000,Gubeng, Surabaya Kota,1.25
+toyota,avanza,2023,Bensin,27.5,Manual,280000000,Prabumulih Barat, Prabumulih Kota,1.25
+toyota,avanza,2023,Bensin,27.5,Manual,280000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,27.5,Automatic,280000000,Sako, Palembang Kota,1.25
+toyota,kijang innova,2020,Bensin,12.5,Automatic,280000000,Ciputat Timur, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2019,Bensin,102.5,Automatic,281000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+toyota,kijang innova,2019,Bensin,62.5,Automatic,281000000,HR Muhammad, Surabaya Kota,1.25
+toyota,alphard,2012,Bensin,102.5,Automatic,285000000,Enggal, Bandar Lampung Kota,1.75
+toyota,avanza,2021,Bensin,102.5,Automatic,285000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,fortuner,2014,Diesel,102.5,Automatic,285000000,Labuhan Ratu, Bandar Lampung Kota,1.75
+toyota,fortuner,2015,Diesel,102.5,Automatic,285000000,Metro Barat, Metro Kota,1.75
+toyota,camry,2018,Bensin,57.5,Automatic,285000000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2018,Bensin,32.5,Automatic,285000000,Sedati, Sidoarjo  Kab.,1.25
+toyota,kijang innova,2018,Bensin,32.5,Automatic,285000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2020,Bensin,22.5,Automatic,285000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2021,Bensin,17.5,Automatic,285000000,Tangerang, Tangerang Kota,1.25
+toyota,kijang innova,2020,Bensin,17.5,Automatic,285000000,Ciputat Timur, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2021,Bensin,12.5,Manual,285000000,Kemayoran, Jakarta Pusat,1.25
+toyota,kijang innova,2019,Bensin,107.5,Manual,287000000,Tanjung Karang Timur, Bandar Lampung Kota,1.75
+toyota,hilux,2019,Diesel,117.5,Manual,288000000,Tebet, Jakarta Selatan,1.75
+toyota,kijang innova,2021,Bensin,117.5,Automatic,289000000,Kemayoran, Jakarta Pusat,1.75
+toyota,voxy,2017,Bensin,12.5,Automatic,289000000,Grogol Petamburan, Jakarta Barat,1.25
+toyota,kijang innova,2018,Diesel,202.5,Manual,290000000,Kedamaian, Bandar Lampung Kota,1.75
+toyota,c-hr,2019,Bensin,177.5,Automatic,290000000,Jatinegara, Jakarta Timur,1.75
+toyota,altis,2020,Bensin,172.5,Automatic,290000000,Duren Sawit, Jakarta Timur,1.75
+toyota,kijang innova,2021,Bensin,162.5,Automatic,290000000,Kemayoran, Jakarta Pusat,1.75
+toyota,avanza,2023,Bensin,122.5,Manual,290000000,Meraksa Aji, Tulang Bawang Kab.,1.75
+toyota,avanza,2024,Bensin,122.5,Automatic,290000000,Duren Sawit, Jakarta Timur,1.75
+toyota,kijang innova,2021,Bensin,62.5,Manual,290000000,Graha, Surabaya Kota,1.25
+toyota,kijang innova,2018,Diesel,27.5,Manual,290000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2019,Bensin,27.5,Manual,290000000,Sematang Borang, Palembang Kota,1.25
+toyota,hilux,2017,Diesel,22.5,Manual,290000000,Plaju, Palembang Kota,1.25
+toyota,hilux,2017,Diesel,17.5,Manual,290000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2021,Bensin,12.5,Automatic,290000000,Kemayoran, Jakarta Pusat,1.25
+toyota,fortuner,2014,Diesel,2.5,Automatic,290000000,Raman Utara, Lampung Timur Kab.,2.5
+toyota,kijang innova,2019,Bensin,72.5,Manual,293000000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2019,Bensin,72.5,Automatic,293000000,Mulyorejo, Surabaya Kota,1.25
+toyota,kijang innova,2018,Diesel,27.5,Manual,293000000,Indralaya, Ogan Ilir Kab.,1.25
+toyota,kijang innova,2018,Diesel,27.5,Manual,293000000,Ilir Timur I, Palembang Kota,1.25
+toyota,corolla altis,2020,Bensin,7.5,Automatic,293000000,Tanah Abang, Jakarta Pusat,2.5
+toyota,rush,2023,Bensin,57.5,Automatic,294000000,Gubeng, Surabaya Kota,1.25
+toyota,kijang innova,2018,Diesel,32.5,Automatic,294800000,Sidoarjo, Sidoarjo  Kab.,1.25
+toyota,kijang innova,2018,Diesel,12.5,Manual,295000000,Metro Barat, Metro Kota,2.5
+toyota,kijang innova,2021,Bensin,12.5,Automatic,295000000,Duren Sawit, Jakarta Timur,2.5
+toyota,voxy,2020,Bensin,12.5,Automatic,295000000,Serpong, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2019,Diesel,22.5,Automatic,298000000,Tomang, Jakarta Barat,2.5
+toyota,kijang innova,2019,Diesel,17.5,Automatic,298000000,Cempaka Putih, Jakarta Pusat,2.5
+toyota,kijang innova,2021,Bensin,17.5,Automatic,298000000,Matraman, Jakarta Timur,2.5
+toyota,kijang innova,2019,Bensin,17.5,Automatic,298000000,Serpong, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2017,Bensin,32.5,Manual,299000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2018,Bensin,27.5,Automatic,299000000,Kemiling, Bandar Lampung Kota,2.5
+toyota,kijang innova,2018,Bensin,22.5,Automatic,299000000,Langkapura, Bandar Lampung Kota,2.5
+toyota,avanza,2023,Bensin,17.5,Automatic,299000000,Sako, Palembang Kota,1.25
+toyota,kijang innova,2017,Diesel,32.5,Automatic,300000000,Kedaton, Bandar Lampung Kota,2.5
+toyota,kijang innova,2019,Diesel,32.5,Automatic,300000000,Tanjung Karang Timur, Bandar Lampung Kota,2.5
+toyota,corolla altis,2020,Bensin,27.5,Automatic,300000000,Kemayoran, Jakarta Pusat,2.5
+toyota,kijang innova,2020,Diesel,27.5,Manual,300000000,Pulo Gadung, Jakarta Timur,2.5
+toyota,kijang innova,2019,Diesel,27.5,Manual,300000000,Ilir Timur I, Palembang Kota,1.25
+toyota,kijang innova,2018,Diesel,22.5,Manual,300000000,Alang-Alang Lebar, Palembang Kota,1.25
+toyota,rush,2023,Bensin,22.5,Automatic,300000000,Ilir Barat I, Palembang Kota,1.25
+toyota,voxy,2017,Bensin,17.5,Automatic,300000000,Pondok Aren, Tangerang Selatan Kota,1.25
+toyota,kijang innova,2017,Bensin,32.5,Automatic,302000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,fortuner,2019,Diesel,37.5,Automatic,304000000,Jagakarsa, Bekasi Kota,2.5
+toyota,kijang innova,2018,Diesel,72.5,Automatic,305000000,Kebayoran Lama, Jakarta Selatan,1.75
+toyota,kijang innova,2018,Diesel,72.5,Automatic,305000000,Kebayoran Lama, Jakarta Selatan,1.75
+toyota,kijang innova,2019,Bensin,92.5,Automatic,307000000,Cempaka Putih, Jakarta Pusat,2.5
+toyota,kijang innova,2019,Bensin,92.5,Automatic,307000000,Cempaka Putih, Jakarta Pusat,2.5
+toyota,voxy,2018,Bensin,107.5,Automatic,309000000,Kelapa Gading, Jakarta Utara,2.5
+toyota,voxy,2018,Bensin,107.5,Automatic,309000000,Kelapa Gading, Jakarta Utara,2.5
+toyota,kijang innova,2019,Bensin,97.5,Automatic,309000000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,kijang innova,2019,Bensin,97.5,Automatic,309000000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,voxy,2018,Bensin,57.5,Automatic,310000000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,voxy,2018,Bensin,57.5,Automatic,310000000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,kijang innova,2017,Diesel,82.5,Automatic,318000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,kijang innova,2017,Diesel,82.5,Automatic,318000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,kijang innova,2017,Diesel,82.5,Automatic,321000000,Cibubur, Jakarta Timur,2.5
+toyota,kijang innova,2017,Diesel,82.5,Automatic,321000000,Cibubur, Jakarta Timur,2.5
+toyota,kijang innova,2017,Diesel,97.5,Automatic,322000000,Medan Satria, Bekasi Kota,2.5
+toyota,kijang innova,2017,Diesel,97.5,Automatic,322000000,Medan Satria, Bekasi Kota,2.5
+toyota,voxy,2019,Bensin,92.5,Automatic,323000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,voxy,2019,Bensin,92.5,Automatic,323000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,voxy,2019,Bensin,117.5,Automatic,325000000,Kemayoran, Jakarta Pusat,2.5
+toyota,voxy,2019,Bensin,117.5,Automatic,325000000,Kemayoran, Jakarta Pusat,2.5
+toyota,kijang innova,2018,Diesel,72.5,Automatic,325000000,Pademangan, Jakarta Utara,2.5
+toyota,kijang innova,2018,Diesel,72.5,Automatic,325000000,Pademangan, Jakarta Utara,2.5
+toyota,corolla,2020,Hybrid,47.5,Manual,325000000,Cempaka Putih, Jakarta Selatan,2.5
+toyota,kijang innova,2021,Bensin,47.5,Automatic,325000000,Bekasi Utara, Bekasi Kota,2.5
+toyota,kijang innova,2021,Bensin,47.5,Automatic,325000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,kijang innova,2021,Bensin,47.5,Automatic,325000000,Bekasi Utara, Bekasi Kota,2.5
+toyota,kijang innova,2021,Bensin,47.5,Automatic,325000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,voxy,2018,Bensin,92.5,Automatic,326000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,voxy,2018,Bensin,92.5,Automatic,326000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,voxy,2019,Bensin,47.5,Automatic,327000000,Kebayoran Baru, Jakarta Selatan,2.5
+toyota,kijang innova,2019,Bensin,62.5,Automatic,329000000,Kelapa Gading, Jakarta Utara,2.5
+toyota,kijang innova,2019,Bensin,62.5,Automatic,329000000,Kelapa Gading, Jakarta Utara,2.5
+toyota,kijang innova,2018,Bensin,52.5,Automatic,329000000,Pademangan, Jakarta Utara,2.5
+toyota,kijang innova,2018,Bensin,52.5,Automatic,329000000,Pademangan, Jakarta Utara,2.5
+toyota,voxy,2018,Diesel,47.5,Automatic,329000000,Bekasi Barat, Jakarta Selatan,2.5
+toyota,fortuner,2017,Diesel,107.5,Automatic,330000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,fortuner,2017,Diesel,107.5,Automatic,330000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,corolla,2020,Bensin,52.5,Automatic,331000000,Pesanggrahan, Jakarta Selatan,2.5
+toyota,voxy,2018,Bensin,97.5,Automatic,335000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,voxy,2018,Bensin,97.5,Automatic,335000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,kijang innova,2019,Diesel,37.5,Automatic,335000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,kijang innova,2019,Diesel,37.5,Automatic,335000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,fortuner,2017,Diesel,52.5,Automatic,337500000,Bekasi Barat, Bekasi Kota,2.5
+toyota,kijang innova,2021,Bensin,52.5,Automatic,339000000,Cilandak, Jakarta Selatan,2.5
+toyota,kijang innova,2021,Bensin,52.5,Automatic,339000000,Cilandak, Jakarta Selatan,2.5
+toyota,voxy,2018,Bensin,37.5,Automatic,339000000,Pademangan, Jakarta Utara,2.5
+toyota,voxy,2018,Bensin,37.5,Automatic,339000000,Pademangan, Jakarta Utara,2.5
+toyota,voxy,2018,Bensin,72.5,Automatic,340000000,Pesanggrahan, Jakarta Selatan,1.25
+toyota,voxy,2018,Bensin,72.5,Automatic,340000000,Pesanggrahan, Jakarta Selatan,1.25
+toyota,voxy,2019,Bensin,52.5,Automatic,342000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,fortuner,2020,Diesel,57.5,Automatic,342300000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,alphard,2019,Bensin,57.5,Automatic,345000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,fortuner,2022,Diesel,57.5,Automatic,345000000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,fortuner,2017,Diesel,152.5,Automatic,346000000,Kemayoran, Jakarta Pusat,2.5
+toyota,fortuner,2017,Diesel,152.5,Automatic,346000000,Kemayoran, Jakarta Pusat,2.5
+toyota,fortuner,2017,Diesel,77.5,Automatic,349000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,fortuner,2017,Diesel,77.5,Automatic,349000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,kijang innova,2022,Bensin,112.5,Automatic,351000000,Duren Sawit, Jakarta Timur,2.5
+toyota,voxy,2017,Bensin,72.5,Automatic,355000000,Bogor Selatan - Kota, Bogor Kota,2.5
+toyota,voxy,2019,Bensin,72.5,Automatic,355000000,Bogor Selatan - Kota, Bogor Kota,2.5
+toyota,voxy,2017,Bensin,67.5,Automatic,355000000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,kijang innova,2021,Bensin,52.5,Automatic,356000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,kijang innova,2021,Bensin,52.5,Automatic,356000000,Grogol Petamburan, Jakarta Barat,2.5
+toyota,camry,2019,Bensin,67.5,Automatic,359000000,Mampang Prapatan, Jakarta Selatan,2.5
+toyota,camry,2019,Bensin,67.5,Automatic,359000000,Mampang Prapatan, Jakarta Selatan,2.5
+toyota,fortuner,2017,Diesel,52.5,Automatic,359000000,Kebayoran Lama, Jakarta Selatan,1.5
+toyota,fortuner,2017,Diesel,52.5,Automatic,359000000,Kebayoran Lama, Jakarta Selatan,1.5
+toyota,kijang innova,2022,Diesel,82.5,Automatic,363000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,kijang innova,2022,Diesel,82.5,Manual,363000000,Bekasi Utara, Bekasi Kota,2.5
+toyota,kijang innova,2021,Bensin,82.5,Automatic,363000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,kijang innova,2018,Diesel,77.5,Automatic,363000000,Bekasi Selatan, Bekasi Kota,2.5
+toyota,kijang innova,2023,Hybrid,77.5,Automatic,363000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,kijang innova,2017,Diesel,77.5,Automatic,363000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,kijang innova,2023,Bensin,77.5,Automatic,363000000,Cempaka Putih, Bekasi Kota,2.5
+toyota,voxy,2018,Bensin,87.5,Automatic,365000000,Bogor Timur - Kota, Bogor Kota,2.5
+toyota,fortuner,2018,Diesel,77.5,Automatic,370000000,Medan Satria, Bekasi Kota,1.75
+toyota,fortuner,2018,Diesel,77.5,Automatic,370000000,Medan Satria, Bekasi Kota,1.75
+toyota,corolla,2021,Bensin,42.5,Automatic,370000000,Bekasi Utara, Bekasi Kota,1.75
+toyota,corolla,2021,Bensin,42.5,Automatic,370000000,Bekasi Barat, Bekasi Kota,1.75
+toyota,corolla,2021,Bensin,42.5,Automatic,370000000,Bekasi Utara, Bekasi Kota,1.75
+toyota,corolla,2021,Bensin,42.5,Automatic,370000000,Bekasi Barat, Bekasi Kota,1.75
+toyota,fortuner,2017,Bensin,67.5,Automatic,373000000,Cilandak, Jakarta Selatan,2.5
+toyota,fortuner,2017,Bensin,67.5,Automatic,373000000,Cilandak, Jakarta Selatan,2.5
+toyota,fortuner,2017,Bensin,67.5,Automatic,373000000,Cilandak, Jakarta Selatan,1.75
+toyota,fortuner,2017,Bensin,67.5,Automatic,373000000,Cilandak, Jakarta Selatan,1.75
+toyota,fortuner,2019,Diesel,92.5,Automatic,374000000,Ciomas, Bogor Kab.,2.5
+toyota,kijang innova,2022,Diesel,32.5,Automatic,374950000,Medan Satria, Bekasi Kota,2.5
+toyota,kijang innova,2022,Diesel,32.5,Automatic,374950000,Medan Satria, Bekasi Kota,2.5
+toyota,voxy,2021,Bensin,67.5,Automatic,375000000,Pancoran, Jakarta Selatan,1.75
+toyota,voxy,2021,Bensin,67.5,Automatic,375000000,Pancoran, Jakarta Selatan,1.75
+toyota,fortuner,2017,Diesel,87.5,Automatic,378000000,Kebayoran Lama, Jakarta Selatan,2.5
+toyota,fortuner,2017,Diesel,87.5,Automatic,378000000,Kebayoran Lama, Jakarta Selatan,2.5
+toyota,kijang innova,2020,Diesel,97.5,Automatic,380000000,Bogor Timur - Kota, Bogor Kota,2.5
+toyota,voxy,2019,Bensin,97.5,Automatic,385000000,Bogor Tengah - Kota, Bogor Kota,2.5
+toyota,fortuner,2018,Diesel,52.5,Automatic,385000000,Kebayoran Lama, Jakarta Selatan,1.75
+toyota,fortuner,2018,Diesel,52.5,Automatic,385000000,Kebayoran Lama, Jakarta Selatan,1.75
+toyota,fortuner,2018,Diesel,42.5,Automatic,385000000,Kebayoran Baru, Jakarta Selatan,2.5
+toyota,fortuner,2018,Diesel,42.5,Automatic,385000000,Kebayoran Baru, Jakarta Selatan,2.5
+toyota,fortuner,2018,Bensin,102.5,Automatic,394000000,Cempaka Putih, Jakarta Pusat,2.5
+toyota,hilux,2022,Diesel,47.5,Manual,395000000,Mampang Prapatan, Jakarta Selatan,2.5
+toyota,hilux,2022,Diesel,47.5,Manual,395000000,Mampang Prapatan, Jakarta Selatan,2.5
+toyota,fortuner,2021,Diesel,107.5,Automatic,399500000,Medan Satria, Jakarta Selatan,2.5
+toyota,kijang innova,2018,Diesel,67.5,Automatic,399500000,Medan Satria, Bekasi Kota,1.25
+toyota,kijang innova,2018,Diesel,67.5,Automatic,399500000,Medan Satria, Bekasi Kota,1.25
+toyota,fortuner,2020,Diesel,112.5,Automatic,403000000,Tangerang, Tangerang Kota,2.5
+toyota,kijang innova,2022,Diesel,27.5,Automatic,405000000,Kemayoran, Jakarta Pusat,1.25
+toyota,kijang innova,2022,Diesel,27.5,Automatic,405000000,Kemayoran, Jakarta Pusat,1.25
+toyota,kijang innova,2024,Diesel,7.5,Automatic,411900000,Bekasi Jaya, Bekasi Kab.,1.25
+toyota,kijang innova,2024,Diesel,7.5,Automatic,411900000,Bekasi Jaya, Bekasi Kab.,1.25
+toyota,kijang innova,2024,Diesel,2.5,Automatic,412000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,kijang innova,2024,Diesel,2.5,Automatic,412000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,fortuner,2017,Diesel,87.5,Automatic,414900900,Medan Satria, Bekasi Kota,1.25
+toyota,fortuner,2017,Diesel,87.5,Automatic,414900900,Medan Satria, Bekasi Kota,1.25
+toyota,fortuner,2019,Diesel,47.5,Automatic,419000000,Mampang Prapatan, Jakarta Selatan,1.75
+toyota,fortuner,2019,Diesel,47.5,Automatic,419000000,Mampang Prapatan, Jakarta Selatan,1.75
+toyota,fortuner,2018,Diesel,72.5,Automatic,420000000,Bekasi Barat, Bekasi Kota,1.75
+toyota,fortuner,2018,Diesel,72.5,Automatic,420000000,Bekasi Barat, Bekasi Kota,1.75
+toyota,fortuner,2020,Diesel,37.5,Automatic,420000000,Bekasi Barat, Bekasi Kota,1.75
+toyota,fortuner,2020,Diesel,37.5,Automatic,420000000,Bekasi Barat, Bekasi Kota,1.75
+toyota,fortuner,2019,Bensin,67.5,Automatic,425000000,Cilandak, Jakarta Selatan,1.75
+toyota,fortuner,2019,Bensin,67.5,Automatic,425000000,Cilandak, Jakarta Selatan,1.75
+toyota,fortuner,2021,Diesel,142.5,Automatic,427000000,Bogor Tengah - Kota, Bogor Kota,2.5
+toyota,fortuner,2020,Bensin,142.5,Automatic,428000000,Bogor Tengah - Kota, Bogor Kota,2.5
+toyota,fortuner,2021,Diesel,57.5,Automatic,435000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,fortuner,2021,Diesel,57.5,Automatic,435000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,kijang innova,2018,Bensin,42.5,Automatic,440000000,Bekasi Selatan, Bekasi Kota,1.75
+toyota,kijang innova,2018,Bensin,42.5,Automatic,440000000,Bekasi Selatan, Bekasi Kota,1.75
+toyota,voxy,2022,Bensin,32.5,Automatic,440000000,Cilandak, Jakarta Selatan,1.25
+toyota,voxy,2022,Bensin,32.5,Automatic,440000000,Cilandak, Jakarta Selatan,1.25
+toyota,fortuner,2019,Diesel,142.5,Automatic,445000000,Bogor Barat - Kota, Bogor Kota,2.5
+toyota,fortuner,2020,Diesel,142.5,Automatic,445000000,Bogor Selatan - Kota, Bogor Kota,2.5
+toyota,fortuner,2020,Bensin,32.5,Manual,446000000,Cinere, Depok Kota,1.25
+toyota,fortuner,2020,Bensin,32.5,Manual,446000000,Bogor Tengah - Kota, Bogor Kota,1.25
+toyota,fortuner,2020,Bensin,32.5,Manual,446000000,Cinere, Depok Kota,1.25
+toyota,fortuner,2020,Bensin,32.5,Manual,446000000,Bogor Tengah - Kota, Bogor Kota,1.25
+toyota,fortuner,2021,Diesel,42.5,Automatic,449000000,Bekasi Utara, Bekasi Kota,1.25
+toyota,fortuner,2021,Diesel,42.5,Automatic,449000000,Bekasi Utara, Bekasi Kota,1.25
+toyota,fortuner,2018,Diesel,32.5,Automatic,450000000,Bekasi Utara, Bekasi Kota,2.5
+toyota,alphard,2019,Bensin,167.5,Automatic,470000000,Jagakarsa, Bekasi Kota,2.5
+toyota,voxy,2022,Bensin,22.5,Automatic,485000000,Kelapa Gading, Jakarta Utara,1.25
+toyota,voxy,2022,Bensin,22.5,Automatic,485000000,Kelapa Gading, Jakarta Utara,1.25
+toyota,fortuner,2022,Diesel,22.5,Automatic,494000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,fortuner,2022,Diesel,22.5,Automatic,494000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,hilux,2023,Diesel,2.5,Automatic,508000000,Kebayoran Baru, Jakarta Selatan,1.25
+toyota,hilux,2023,Diesel,2.5,Automatic,508000000,Kebayoran Baru, Jakarta Selatan,1.25
+toyota,fortuner,2022,Diesel,12.5,Automatic,510000000,Medan Satria, Bekasi Kota,1.25
+toyota,fortuner,2022,Diesel,12.5,Automatic,510000000,Medan Satria, Bekasi Kota,1.25
+toyota,fortuner,2023,Diesel,22.5,Automatic,515000000,Pesanggrahan, Jakarta Selatan,1.25
+toyota,fortuner,2023,Diesel,22.5,Automatic,515000000,Pesanggrahan, Jakarta Selatan,1.25
+toyota,fortuner,2022,Diesel,192.5,Automatic,528000000,Rawalumbu, Jakarta Selatan,2.5
+toyota,fortuner,2023,Diesel,17.5,Automatic,530000000,Pademangan, Jakarta Utara,1.25
+toyota,fortuner,2023,Diesel,17.5,Automatic,530000000,Pademangan, Jakarta Utara,1.25
+toyota,fortuner,2022,Diesel,22.5,Automatic,535000000,Kelapa Gading, Jakarta Utara,1.25
+toyota,fortuner,2022,Diesel,22.5,Automatic,535000000,Kelapa Gading, Jakarta Utara,1.25
+toyota,fortuner,2023,Diesel,22.5,Automatic,539000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,fortuner,2023,Diesel,22.5,Automatic,539000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,fortuner,2023,Diesel,27.5,Automatic,540000000,Medan Satria, Bekasi Kota,1.25
+toyota,fortuner,2023,Diesel,27.5,Automatic,540000000,Medan Satria, Bekasi Kota,1.25
+toyota,fortuner,2022,Diesel,22.5,Automatic,544000000,Duren Sawit, Jakarta Timur,1.25
+toyota,fortuner,2022,Diesel,22.5,Automatic,544000000,Duren Sawit, Jakarta Timur,1.25
+toyota,fortuner,2022,Diesel,17.5,Automatic,544000000,Duren Sawit, Jakarta Timur,1.25
+toyota,fortuner,2022,Diesel,17.5,Automatic,544000000,Duren Sawit, Jakarta Timur,1.25
+toyota,fortuner,2024,Diesel,2.5,Automatic,600000000,Kemayoran, Jakarta Pusat,1.25
+toyota,fortuner,2024,Diesel,2.5,Automatic,600000000,Kemayoran, Jakarta Pusat,1.25
+toyota,hiace,2019,Diesel,212.5,Manual,650000000,Bogor Tengah - Kota, Bogor Kota,2.5
+toyota,alphard,2017,Bensin,67.5,Automatic,680000000,Cilandak, Jakarta Selatan,1.25
+toyota,alphard,2017,Bensin,67.5,Automatic,680000000,Cilandak, Jakarta Selatan,1.25
+toyota,alphard,2017,Bensin,302.5,Automatic,710000000,Ciomas, Bogor Kab.,2.5
+toyota,alphard,2018,Bensin,22.5,Automatic,766000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,alphard,2018,Bensin,22.5,Automatic,766000000,Cempaka Putih, Jakarta Pusat,1.25
+toyota,hiace,2024,Diesel,97.5,Manual,775000000,Bogor Selatan - Kota, Bogor Kota,2.5
+toyota,hiace,2024,Diesel,72.5,Manual,775000000,Bogor Timur - Kota, Bogor Kota,2.5
+toyota,alphard,2020,Bensin,57.5,Automatic,795000000,Kelapa Gading, Jakarta Utara,1.25
+toyota,alphard,2020,Bensin,57.5,Automatic,795000000,Kelapa Gading, Jakarta Utara,1.25
+toyota,alphard,2018,Bensin,62.5,Automatic,798000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,alphard,2018,Bensin,62.5,Automatic,798000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,alphard,2018,Bensin,42.5,Automatic,825000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2018,Bensin,42.5,Automatic,825000000,Kelapa Gading, Jakarta Utara,1.75
+toyota,alphard,2018,Bensin,42.5,Automatic,825000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2018,Bensin,42.5,Automatic,825000000,Kelapa Gading, Jakarta Utara,1.75
+toyota,hiace,2022,Diesel,22.5,Manual,835000000,Pancoran, Jakarta Selatan,1.75
+toyota,hiace,2022,Diesel,22.5,Manual,835000000,Koja, Jakarta Utara,1.75
+toyota,hiace,2022,Diesel,22.5,Manual,835000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,hiace,2022,Diesel,22.5,Manual,835000000,Pancoran, Jakarta Selatan,1.75
+toyota,hiace,2022,Diesel,22.5,Manual,835000000,Koja, Jakarta Utara,1.75
+toyota,hiace,2022,Diesel,22.5,Manual,835000000,Cempaka Putih, Jakarta Pusat,1.75
+toyota,alphard,2020,Bensin,22.5,Automatic,850000000,Pademangan, Jakarta Utara,2.5
+toyota,alphard,2020,Bensin,22.5,Automatic,866000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2021,Bensin,22.5,Automatic,868000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2021,Bensin,22.5,Automatic,868000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2020,Bensin,182.5,Automatic,870000000,Bekasi Barat, Bekasi Kota,2.5
+toyota,alphard,2021,Bensin,27.5,Automatic,885000000,Pademangan, Jakarta Utara,1.25
+toyota,alphard,2020,Bensin,52.5,Automatic,890000000,Cilandak, Jakarta Selatan,1.75
+toyota,alphard,2020,Bensin,52.5,Automatic,890000000,Cilandak, Jakarta Selatan,1.75
+toyota,alphard,2020,Bensin,22.5,Automatic,950000000,Pademangan, Jakarta Utara,2.5
+toyota,alphard,2020,Bensin,22.5,Automatic,966000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2021,Bensin,27.5,Automatic,985000000,Pademangan, Jakarta Utara,1.25
+toyota,alphard,2022,Bensin,17.5,Automatic,1090000000,Bekasi Barat, Bekasi Kota,1.25
+toyota,alphard,2022,Bensin,7.5,Automatic,1095000000,Pasar Baru, Jakarta Pusat,1.25
+toyota,alphard,2022,Bensin,17.5,Automatic,1125000000,Kebayoran Baru, Jakarta Selatan,2.5
+toyota,alphard,2022,Bensin,2.5,Automatic,1140000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2022,Bensin,2.5,Automatic,1145000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,alphard,2023,Bensin,2.5,Automatic,1245000000,Kebayoran Baru, Jakarta Selatan,1.75
+toyota,land cruiser,2017,Diesel,47.5,Automatic,1650000000,Pademangan, Jakarta Utara,1.5
+toyota,land cruiser,2017,Diesel,47.5,Automatic,1650000000,Kelapa Gading, Jakarta Utara,1.5
+toyota,land cruiser,2019,Diesel,22.5,Automatic,1975000000,Pademangan, Jakarta Utara,2.5
+volkswagen,polo,2017,Bensin,42.5,Automatic,145000000,Wonokromo, Surabaya Kota,1.25
+volkswagen,caravelle,2005,Diesel,12.5,Automatic,149000000,Kemayoran, Jakarta Pusat,1.75
+volkswagen,tiguan,2014,Bensin,37.5,Automatic,150000000,Kemayoran, Jakarta Pusat,1.25
+volkswagen,tiguan,2014,Bensin,2.5,Automatic,169000000,Pademangan, Jakarta Utara,1.25
+volkswagen,tiguan,2014,Bensin,72.5,Automatic,169000000,Kebon Jeruk, Jakarta Barat,1.25
+volkswagen,polo,2019,Bensin,2.5,Automatic,175000000,Kramat Jati, Jakarta Timur,1.25
+volkswagen,gti,2006,Bensin,82.5,Automatic,189000000,Jagakarsa, Jakarta Selatan,1.25
+volkswagen,polo,2018,Bensin,22.5,Automatic,190000000,Pademangan, Jakarta Utara,1.25
+volkswagen,tiguan,2020,Bensin,72.5,Automatic,340000000,Kebayoran Lama, Jakarta Selatan,2.5
+volkswagen,tiguan,2020,Bensin,72.5,Automatic,340000000,Kebayoran Lama, Jakarta Selatan,2.5
+volkswagen,tiugan allspace,2020,Bensin,132.5,Automatic,425000000,Tanah Sereal, Bogor Kota,2.5
+wuling,confero,2018,Bensin,72.5,Manual,83000000,Astana Anyar, Bandung Kota,1.25
+wuling,confero,2018,Bensin,77.5,Manual,94000000,Bekasi Barat, Bekasi Kota,1.25
+wuling,confero,2020,Bensin,82.5,Manual,96000000,Gunung Putri, Bogor Kab.,1.25
+wuling,confero,2021,Bensin,82.5,Manual,99000000,Bekasi Barat, Bekasi Kota,1.25
+wuling,confero s,2021,Bensin,87.5,Manual,105000000,Cikarang Barat, Bekasi Kab.,1.25
+wuling,confe 71ro,2021,Bensin,47.5,Manual,107000000,Candi, Sidoarjo  Kab.,1.25
+wuling,confe 71ro s,2022,Bensin,42.5,Manual,115000000,Gubeng, Surabaya Kota,1.25
+wuling,cortez,2019,Bensin,102.5,Manual,122000000,Bekasi Barat, Bekasi Kota,1.25
+wuling,confero s,2019,Bensin,107.5,Manual,123000000,Tambun Utara, Bekasi Kab.,1.25
+wuling,confero s,2021,Bensin,112.5,Manual,125000000,Tambun Utara, Bekasi Kab.,1.25
+wuling,cortez,2022,Bensin,157.5,Automatic,139000000,Tambun Utara, Bekasi Kab.,1.25
+wuling,cortez,2018,Bensin,7.5,Automatic,145000000,Bekasi Barat, Bekasi Kota,1.75
+wuling,formo,2024,Bensin,2.5,Manual,153500000,Semarang Tengah, Semarang Kota,1.25
+wuling,almaz rs,2019,Bensin,2.5,Automatic,177000000,Semarang Tengah, Semarang Kota,1.25
+wuling,almaz rs,2019,Bensin,2.5,Automatic,180000000,Pedurungan, Semarang Kota,1.25
+wuling,almaz rs,2019,Bensin,2.5,Automatic,185000000,Semarang Selatan, Semarang Kota,1.25
+wuling,almaz rs,2021,Bensin,2.5,Automatic,200000000,Semarang Tengah, Semarang Kota,1.25
+wuling,almaz rs,2021,Bensin,27.5,Automatic,250000000,Ilir Timur II, Palembang Kota,1.25
+wuling,almaz rs,2021,Bensin,57.5,Automatic,251000000,Cempaka Putih, Jakarta Pusat,1.75
+wuling,almaz rs,2021,Bensin,12.5,Automatic,252000000,Jagakarsa, Jakarta Selatan,1.25
+wuling,almaz rs,2021,Bensin,12.5,Automatic,253000000,Serpong, Tangerang Selatan Kota,1.25
+wuling,almaz rs,2023,Bensin,57.5,Automatic,255000000,Wonokromo, Surabaya Kota,1.25
+wuling,almaz rs,2023,Bensin,57.5,Automatic,255000000,Gubeng, Surabaya Kota,1.25
+wuling,almaz rs,2022,Bensin,12.5,Automatic,255000000,Pondok Aren, Tangerang Selatan Kota,1.25
+wuling,almaz rs,2021,Bensin,72.5,Automatic,260000000,Bumi Waras, Bandar Lampung Kota,1.75
+wuling,almaz rs,2022,Bensin,22.5,Automatic,265000000,Kemuning, Palembang Kota,1.25
+wuling,air ev,2022,Bensin,7.5,Automatic,265000000,Semarang Tengah, Semarang Kota,1.25
+wuling,almaz rs,2022,Bensin,22.5,Automatic,268000000,Ilir Timur II, Palembang Kota,1.25
+wuling,almaz rs,2021,Bensin,17.5,Automatic,270000000,Ilir Timur I, Palembang Kota,1.25
+wuling,almaz rs,2023,Bensin,87.5,Automatic,275000000,Kedaton, Bandar Lampung Kota,1.75
+wuling,alvez,2024,Bensin,87.5,Automatic,275000000,Setia Budi, Jakarta Selatan,1.75
+wuling,almaz rs,2021,Bensin,92.5,Automatic,280000000,Tanjung Senang, Bandar Lampung Kota,1.75
+wuling,alvez,2024,Bensin,92.5,Automatic,280000000,Duren Sawit, Jakarta Timur,1.75
+wuling,alvez,2023,Bensin,27.5,Automatic,300000000,Tanjung Karang Timur, Bandar Lampung Kota,2.5
+wuling,almaz rs,2023,Bensin,37.5,Automatic,305000000,Cempaka Putih, Jakarta Pusat,2.5
+wuling,almaz,2023,Bensin,7.5,Automatic,305000000,Cempaka Putih, Jakarta Pusat,1.75
+wuling,almaz,2023,Bensin,7.5,Automatic,305000000,Cempaka Putih, Jakarta Pusat,1.75
+wuling,almaz rs,2023,Bensin,47.5,Automatic,331000000,Kebayoran Baru, Jakarta Pusat,2.5
+wuling,binguo ev,2024,Bensin,172.5,Automatic,495000000,Bekasi Barat, Bekasi Kab.,2.5
